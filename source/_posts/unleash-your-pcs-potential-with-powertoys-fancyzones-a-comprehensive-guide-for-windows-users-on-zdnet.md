@@ -1,7 +1,7 @@
 ---
 title: Unleash Your PC's Potential with PowerToys' FancyZones - A Comprehensive Guide for Windows Users on ZDNet
-date: 2024-09-19 19:26:39
-updated: 2024-09-20 10:27:35
+date: 2024-09-16T22:12:56.297Z
+updated: 2024-09-20T16:12:09.284Z
 tags:
   - microsoft
 categories:
@@ -115,6 +115,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +131,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +173,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-community.techidaily.com/1-seamless-webp-to-png-transformation-a-step-by-step-guide-with-the-ultimate-tool/"><u>1. Seamless WebP to PNG Transformation: A Step-by-Step Guide with the Ultimate Tool</u></a></li>
+<li><a href="https://win-community.techidaily.com/1-top-selingrevidet-filmudstillingsprogram-godtvalgt-og-gratis-for-windows-computer/"><u>1. Top-Selingrevidet Filmudstillingsprogram - Godtvalgt Og Gratis For Windows Computer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/15-masterpieces-that-defined-stop-motion-artistry-for-2024/"><u>15 Masterpieces That Defined Stop Motion Artistry for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/5b2x54mh57yw6l6r5bplusr6ycf5ywl6zeo77ya6laf5y2z5pe25psplus5asn5pa55rov5pwz56il/"><u>影片编辑快速入门：超即时放大方法教程</u></a></li>
+<li><a href="https://win-community.techidaily.com/approach-identify-the-intrinsic-hand-muscles-innervated-by-the-ulnar-nerve/"><u>Approach: Identify the Intrinsic Hand Muscles Innervated by the Ulnar Nerve.</u></a></li>
+<li><a href="https://win-community.techidaily.com/are-there-laws-against-unauthorized-surveillance-and-eavesdropping-in-public-spaces/"><u>Are There Laws Against Unauthorized Surveillance and Eavesdropping in Public Spaces?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-gigabyte-z370p-d3-driver-package-quick-and-easy-access-for-pc-enthusiasts/"><u>Complete Gigabyte Z370P D3 Driver Package - Quick and Easy Access for PC Enthusiasts</u></a></li>
+<li><a href="https://solve-news.techidaily.com/guide-to-no-cost-dvd-to-mp4-upgrades-using-windows-10-or-11-tools/"><u>Guide to No-Cost DVD to MP4 Upgrades Using Windows 10 or 11 Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-comprehensible-guide-to-authoritative-testimonial-films/"><u>In 2024, A Comprehensible Guide to Authoritative Testimonial Films</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reinforcing-photo-viewing-functionality-with-windows-10-solutions/"><u>Reinforcing Photo Viewing Functionality with Windows 10 Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-is-bright-with-google-pixel-9-expected-retail-tag-launch-dates-and-speculated-features-discussed/"><u>The Future Is Bright with Google Pixel 9: Expected Retail Tag, Launch Dates & Speculated Features Discussed</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-honor-x50-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Honor X50.</u></a></li>
+<li><a href="https://win-community.techidaily.com/vullen-van-alaw-bestandjes-online-gratis-met-movavi-de-beste-omzettingstools/"><u>Vullen Van Alaw-Bestandjes Online Gratis Met Movavi: De Beste Omzettingstools</u></a></li>
+</ul></div>
+
