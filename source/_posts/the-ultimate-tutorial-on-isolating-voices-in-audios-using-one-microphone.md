@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Isolating Voices in Audios Using One Microphone
-date: 2024-09-22T22:10:14.315Z
-updated: 2024-09-25T22:02:55.503Z
+date: 2024-09-24T09:32:10.425Z
+updated: 2024-09-30T03:51:29.117Z
 tags:
   - product
 categories:
@@ -56,22 +56,15 @@ Action Tutorials
 
 ![Mirillis Action! - Mic Settings](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_mic_settings.jpg "Mic settings") 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In Microphone Settings popup window find Audio track option and select **Record into separate audio file** option. 
 
 ![Mirillis Action! - Mic Settings popup](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_mic_settings_popup.jpg "Mic settings popup") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Tutorial for Action! 2.x versions: 
@@ -90,6 +83,13 @@ Action Tutorials
 
  If you would like to record any other device to separate audio file, please select appropriate device fromt the list. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Check Video recording tab settings
 
  Open Video Recording tab settings and make sure that Microphone recording is disabled, so it will not be added to your main video recording audio track. 
@@ -97,23 +97,17 @@ Action Tutorials
 ![Mirillis Action! - Microphone recording disabled](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_video_tab.jpg "Microphone recording disabled") 
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Video recording 
@@ -123,10 +117,10 @@ Action Tutorials
 ![Video and Audio recordings are in progress...](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_recording.jpg "Video and Audio recordings are in progress...") 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Press a hotkey again to stop both Video and Audio recordings. Check recordings manager in **Video Recording** tab and **Audio Recording** tab for your new recordings. 
@@ -153,20 +147,18 @@ Share this tutorial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-community.techidaily.com/1-how-to-overcome-region-code-restrictions-on-sony-dvd-players-fixed-guide/"><u>1. How to Overcome Region Code Restrictions on Sony DVD Players: Fixed Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/1726027822715-gif/"><u>GIFアニメーションで文字表示を追加する手引き:初学者のためのガイド</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-13t-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi 13T Pro Phone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-smart-image-sharing-on-instagram/"><u>In 2024, Smart Image Sharing on Instagram</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mastering-winxdvd-ultimate-step-by-step-guide-to-optimal-performance/"><u>Mastering WinXDVD: Ultimate Step-by-Step Guide to Optimal Performance</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/photo-your-desktop-windows-edition/"><u>Photo Your Desktop Windows Edition</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-a05-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy A05 won’t play MP4 files</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-integration-of-files-in-win-11-os/"><u>Seamless Integration of Files in Win 11 OS</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-guide-reverting-from-windows-11-back-to-windows-10-uncover-the-surprise-twist/"><u>Step-by-Step Guide: Reverting From Windows 11 Back to Windows 10 - Uncover the Surprise Twist!</u></a></li>
-<li><a href="https://win-community.techidaily.com/the-need-for-trusted-platform-module-tpm-in-windows-11-explained-insights-from-zdnet/"><u>The Need for Trusted Platform Module (TPM) in Windows 11 Explained - Insights From ZDNet</u></a></li>
-<li><a href="https://win-community.techidaily.com/the-top-choice-in-laptop-docks-exploring-the-accell-thunderbolt-4-reviewed-by-zdnet/"><u>The Top Choice in Laptop Docks: Exploring the Accell Thunderbolt 4 Reviewed by ZDNet</u></a></li>
-<li><a href="https://win-community.techidaily.com/troubleshooting-the-black-screen-issue-in-fraps-on-windows-10-step-by-step-guide/"><u>Troubleshooting the Black Screen Issue in FRAPS on Windows 10: Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unleash-hues-basic-techniques-for-adobe-enthusiasts/"><u>Unleash Hues Basic Techniques for Adobe Enthusiasts</u></a></li>
-<li><a href="https://win-community.techidaily.com/1726030375655-youtube5/"><u>YouTubeビデオ音量アップ5シミュレーション - 見映え良い体験のために</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-precise-mac-recording-without-costs/"><u>[New] 2024 Approved Precise Mac Recording Without Costs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-uniting-obs-and-zoom-a-compreehensive-video-guide/"><u>[New] 2024 Approved Uniting OBS and Zoom A Compreehensive Video Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-segment-screen-showdown-recorders-leader-status/"><u>[New] In 2024, Segment Screen Showdown Recorder's Leader Status</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-10plus-tools-to-record-your-pc-screen-seamlessly-for-2024/"><u>[New] Top 10+ Tools to Record Your PC Screen Seamlessly for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-revolutionize-your-views-non-xplit-applications/"><u>[Updated] In 2024, Revolutionize Your Views Non-Xplit Applications</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-stand-out-strategies-a-step-by-step-guide-to-reddit-success/"><u>2024 Approved Stand Out Strategies A Step-By-Step Guide to Reddit Success</u></a></li>
+<li><a href="https://win-community.techidaily.com/chatgpt-versus-chatgpt-plus-assessing-if-premium-features-justify-the-extra-investment-zdnet-insights/"><u>ChatGPT Versus ChatGPT Plus: Assessing If Premium Features Justify the Extra Investment | ZDNET Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/oad-free-mcb-logo-templates-for-2024/"><u>Download Free MCB Logo Templates for 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/free-online-conversion-transform-tta-files-with-movavis-effortless-tools/"><u>Free Online Conversion: Transform TTA Files with Movavi's Effortless Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-emotional-intelligence-through-chatgpt-interaction-strategies/"><u>Mastering Emotional Intelligence Through ChatGPT Interaction Strategies</u></a></li>
+<li><a href="https://win-community.techidaily.com/tech-giant-microsoft-boosts-employee-collaboration-through-enhanced-teams-features-unveiled-on-zdnet/"><u>Tech Giant Microsoft Boosts Employee Collaboration Through Enhanced Teams Features, Unveiled on ZDNet</u></a></li>
+<li><a href="https://win-community.techidaily.com/unleash-your-pcs-potential-with-powertoys-fancyzones-a-comprehensive-guide-for-windows-users-on-zdnet/"><u>Unleash Your PC's Potential with PowerToys' FancyZones - A Comprehensive Guide for Windows Users on ZDNet</u></a></li>
+<li><a href="https://win-community.techidaily.com/watching-youtube-with-microsoft-edge-just-got-smarter-introducing-ai-on-the-fly-subtitles-zdnet-insights/"><u>Watching YouTube with Microsoft Edge Just Got Smarter: Introducing AI On-the-Fly Subtitles | ZDNet Insights</u></a></li>
 </ul></div>
 
