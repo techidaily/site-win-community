@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Microsoft Boosts Employee Collaboration Through Enhanced Teams Features, Unveiled on ZDNet
-date: 2024-09-25T06:08:03.752Z
-updated: 2024-09-29T17:30:43.519Z
+date: 2024-10-01T16:16:19.284Z
+updated: 2024-10-05T18:15:21.514Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +77,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -137,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -152,6 +151,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-engaging-audiences-how-tos-for-effective-youtube-logo-creation/"><u>[New] 2024 Approved Engaging Audiences How-To's for Effective YouTube Logo Creation</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-fast-film-techniques-taking-screens-on-a-dell-for-2024/"><u>[Updated] Fast Film Techniques Taking Screens on a Dell for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-strategizing-stream-success-maximize-revenue-on-dm-and-yo/"><u>[Updated] In 2024, Strategizing Stream Success Maximize Revenue on Dm and Yo</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-boosting-youtube-success-mastery-with-tubebuddy/"><u>2024 Approved Boosting YouTube Success Mastery with TubeBuddy</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-pinnacle-phones-the-supreme-choices-in-mobile-video-recording/"><u>2024 Approved Pinnacle Phones The Supreme Choices in Mobile Video Recording</u></a></li>
-<li><a href="https://win-community.techidaily.com/boost-your-pcs-performance-mastering-the-hidden-feature-in-windows-11-to-quickly-terminate-lagging-programs-insights-from-zdnet/"><u>Boost Your PC's Performance: Mastering the Hidden Feature in Windows 11 to Quickly Terminate Lagging Programs - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/deciphering-hdr-mastery-through-luminance-testing-for-2024/"><u>Deciphering HDR Mastery Through Luminance Testing for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/easy-steps-installing-windows-11-without-microsoft-sign-in-a-guide-even-elon-musk-would-appreciate/"><u>Easy Steps: Installing Windows 11 Without Microsoft Sign-In - A Guide Even Elon Musk Would Appreciate</u></a></li>
-<li><a href="https://win-community.techidaily.com/free-tech-guide-creating-bootable-os-recovery-disks-for-dell-hp-lenovo-and-surface-devices-learn-how/"><u>Free Tech-Guide: Creating Bootable OS Recovery Disks for Dell, HP, Lenovo & Surface Devices – Learn How!</u></a></li>
-<li><a href="https://win-community.techidaily.com/getting-started-with-the-microsoft-windows-insider-program-benefits-and-enrollment-guide/"><u>Getting Started with the Microsoft Windows Insider Program: Benefits & Enrollment Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/harmonizing-soundscape-and-unboxing-footage/"><u>Harmonizing Soundscape and Unboxing Footage</u></a></li>
-<li><a href="https://win-community.techidaily.com/revolutionizing-remote-work-how-logitech-leverages-classic-cameras-techniques-in-their-ghost-technology/"><u>Revolutionizing Remote Work: How Logitech Leverages Classic Cameras Techniques in Their 'Ghost' Technology</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-10-safe-chat-platforms-for-socializing-digitally/"><u>Updated Top 10 Safe Chat Platforms for Socializing Digitally</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-revamping-your-tiktok-videos-a-comprehensible-guide-for-new-borders/"><u>[New] 2024 Approved Revamping Your TikTok Videos A Comprehensible Guide for New Borders</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-eliminating-expenses-gain-access-to-final-cut-pro/"><u>[New] Eliminating Expenses Gain Access to Final Cut Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-evolution-of-engagement-key-post-vidcon-events/"><u>[New] In 2024, Evolution of Engagement Key Post-VidCon Events</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-efficient-recording-methods-for-skype-calls-using-obs/"><u>[Updated] Efficient Recording Methods for Skype Calls Using OBS</u></a></li>
+<li><a href="https://win-community.techidaily.com/easy-steps-restore-your-lost-or-corrupted-microsoft-word-files/"><u>Easy Steps: Restore Your Lost or Corrupted Microsoft Word Files</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-optimizing-presentations-through-skilled-use-of-aiseesoft-recorder/"><u>In 2024, Optimizing Presentations Through Skilled Use of Aiseesoft Recorder</u></a></li>
+<li><a href="https://win-community.techidaily.com/inside-the-toolbox-exploring-10-common-strategies-of-online-thieves-and-hackers/"><u>Inside the Toolbox: Exploring 10 Common Strategies of Online Thieves and Hackers</u></a></li>
+<li><a href="https://win-community.techidaily.com/leading-windows-11-photo-slide-show-creators-the-ultimate-list/"><u>Leading Windows 11 Photo Slide Show Creators: The Ultimate List</u></a></li>
+<li><a href="https://win-community.techidaily.com/master-game-playback-on-iphone-with-leading-ios-game-record-app/"><u>Master Game Playback on iPhone with Leading iOS Game Record App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redesigning-workplace-efficiency-with-microsofts-latest-office-template-overhaul/"><u>Redesigning Workplace Efficiency with Microsoft's Latest Office Template Overhaul</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-tutorial-on-employing-microsoft-excels-count-feature-for-effective-data-analysis/"><u>The Ultimate Tutorial on Employing Microsoft Excel's COUNT Feature for Effective Data Analysis</u></a></li>
+<li><a href="https://win-community.techidaily.com/top-strategies-for-moving-your-favorite-tunes-from-computer-to-iphone-xr-xs-and-xs-max/"><u>Top Strategies for Moving Your Favorite Tunes From Computer to iPhone XR, XS & XS Max</u></a></li>
+<li><a href="https://win-community.techidaily.com/top-rated-mobile-apps-for-streaming-tv-series-in-2nd-user-approved/"><u>Top-Rated Mobile Apps for Streaming TV Series in 2nD - User Approved</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/ultimate-guide-creating-your-own-podcast-with-free-web-based-tools/"><u>Ultimate Guide: Creating Your Own Podcast with Free, Web-Based Tools</u></a></li>
+<li><a href="https://win-community.techidaily.com/ultimate-tutorial-eliminating-digital-emojis-and-graphics-from-pictures/"><u>Ultimate Tutorial: Eliminating Digital Emojis and Graphics From Pictures</u></a></li>
+<li><a href="https://solve-info.techidaily.com/understanding-handbrakes-capabilities-for-merging-multiple-video-streams-insights-and-solutions/"><u>Understanding Handbrake's Capabilities for Merging Multiple Video Streams: Insights & Solutions</u></a></li>
 </ul></div>
 

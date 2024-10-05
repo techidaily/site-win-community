@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Isolating Voices in Audios Using One Microphone
-date: 2024-09-24T09:32:10.425Z
-updated: 2024-09-30T03:51:29.117Z
+date: 2024-10-02T16:36:33.323Z
+updated: 2024-10-05T17:31:56.274Z
 tags:
   - product
 categories:
@@ -50,6 +50,13 @@ Action Tutorials
 
  With Action! you can easily record your microphone into separate audio file while recording game or your PC screen. This can be very useful if you would like to edit your commentary in 3rd party audio editing software.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Tutorial for Action! 3.x versions: 
 
  In Action! 3.x version please open **Video capture** tab, setup your microphone and click **Microphone settings button** 
@@ -61,10 +68,10 @@ Action Tutorials
 ![Mirillis Action! - Mic Settings popup](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_mic_settings_popup.jpg "Mic settings popup") 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Tutorial for Action! 2.x versions: 
@@ -81,13 +88,20 @@ Action Tutorials
 
 ![Select your microphone device](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_audio_settings.jpg "Selecting microphone device for recording") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you would like to record any other device to separate audio file, please select appropriate device fromt the list. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Check Video recording tab settings
@@ -96,20 +110,6 @@ Action Tutorials
 
 ![Mirillis Action! - Microphone recording disabled](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_video_tab.jpg "Microphone recording disabled") 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Start Video recording 
 
  Press a hotkey to start Video and Audio recording. 
@@ -117,10 +117,16 @@ Action Tutorials
 ![Video and Audio recordings are in progress...](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_recording.jpg "Video and Audio recordings are in progress...") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Press a hotkey again to stop both Video and Audio recordings. Check recordings manager in **Video Recording** tab and **Audio Recording** tab for your new recordings. 
@@ -147,18 +153,21 @@ Share this tutorial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-precise-mac-recording-without-costs/"><u>[New] 2024 Approved Precise Mac Recording Without Costs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-uniting-obs-and-zoom-a-compreehensive-video-guide/"><u>[New] 2024 Approved Uniting OBS and Zoom A Compreehensive Video Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-segment-screen-showdown-recorders-leader-status/"><u>[New] In 2024, Segment Screen Showdown Recorder's Leader Status</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-10plus-tools-to-record-your-pc-screen-seamlessly-for-2024/"><u>[New] Top 10+ Tools to Record Your PC Screen Seamlessly for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-revolutionize-your-views-non-xplit-applications/"><u>[Updated] In 2024, Revolutionize Your Views Non-Xplit Applications</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-stand-out-strategies-a-step-by-step-guide-to-reddit-success/"><u>2024 Approved Stand Out Strategies A Step-By-Step Guide to Reddit Success</u></a></li>
-<li><a href="https://win-community.techidaily.com/chatgpt-versus-chatgpt-plus-assessing-if-premium-features-justify-the-extra-investment-zdnet-insights/"><u>ChatGPT Versus ChatGPT Plus: Assessing If Premium Features Justify the Extra Investment | ZDNET Insights</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/oad-free-mcb-logo-templates-for-2024/"><u>Download Free MCB Logo Templates for 2024</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/free-online-conversion-transform-tta-files-with-movavis-effortless-tools/"><u>Free Online Conversion: Transform TTA Files with Movavi's Effortless Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-emotional-intelligence-through-chatgpt-interaction-strategies/"><u>Mastering Emotional Intelligence Through ChatGPT Interaction Strategies</u></a></li>
-<li><a href="https://win-community.techidaily.com/tech-giant-microsoft-boosts-employee-collaboration-through-enhanced-teams-features-unveiled-on-zdnet/"><u>Tech Giant Microsoft Boosts Employee Collaboration Through Enhanced Teams Features, Unveiled on ZDNet</u></a></li>
-<li><a href="https://win-community.techidaily.com/unleash-your-pcs-potential-with-powertoys-fancyzones-a-comprehensive-guide-for-windows-users-on-zdnet/"><u>Unleash Your PC's Potential with PowerToys' FancyZones - A Comprehensive Guide for Windows Users on ZDNet</u></a></li>
-<li><a href="https://win-community.techidaily.com/watching-youtube-with-microsoft-edge-just-got-smarter-introducing-ai-on-the-fly-subtitles-zdnet-insights/"><u>Watching YouTube with Microsoft Edge Just Got Smarter: Introducing AI On-the-Fly Subtitles | ZDNet Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-bringing-text-to-life-3d-techniques-in-illustrator-for-2024/"><u>[New] Bringing Text to Life 3D Techniques in Illustrator for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-leading-the-way-in-efficient-meeting-recording-zooms-finest-tools-reviewed/"><u>[New] In 2024, Leading the Way in Efficient Meeting Recording Zoom’s Finest Tools Reviewed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-between-advanced-gemini-and-chatgpt-plus-an-in-depth-review/"><u>Choosing Between Advanced Gemini & ChatGPT Plus: An In-Depth Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-electronics-with-tom-the-ultimate-hardware-hub/"><u>Decoding Electronics with Tom: The Ultimate Hardware Hub</u></a></li>
+<li><a href="https://win-community.techidaily.com/direct-display-transfer-guide-on-televising-your-oneplus-7/"><u>Direct Display Transfer: Guide on Televising Your OnePlus 7</u></a></li>
+<li><a href="https://win-community.techidaily.com/discreetly-capturing-snaps-a-guide-to-unseen-screenshots-on-snapchat/"><u>Discreetly Capturing Snaps: A Guide to Unseen Screenshots on Snapchat</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-solutions-overcoming-apex-legends-game-loading-hurdles-today/"><u>Effortless Solutions: Overcoming Apex Legends Game Loading Hurdles Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/excels-powerful-lookup-function-mastering-vlookup-without-an-external-table/"><u>Excel's Powerful Lookup Function: Mastering VLOOKUP Without an External Table</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-13-pro-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 13 Pro Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-artistic-horizons-scouting-the-finest-8-drawing-apps-for-iphones/"><u>In 2024, Artistic Horizons Scouting the Finest 8 Drawing Apps for iPhones</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-gionee-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Gionee</u></a></li>
+<li><a href="https://win-community.techidaily.com/insider-tips-and-tricks-navigating-through-apowermanager-features-on-android-ice-cream-sandwich-30/"><u>Insider Tips and Tricks: Navigating Through ApowerManager Features on Android Ice Cream Sandwich (3.0)</u></a></li>
+<li><a href="https://win-community.techidaily.com/proven-strategies-for-crafting-impactful-how-to-guides-across-pcs-and-macs/"><u>Proven Strategies for Crafting Impactful How-To Guides Across PCs and Macs</u></a></li>
+<li><a href="https://win-community.techidaily.com/the-ultimate-guide-to-the-most-secure-personal-messaging-platforms-ranking-the-top-five/"><u>The Ultimate Guide to the Most Secure Personal Messaging Platforms: Ranking the Top Five</u></a></li>
+<li><a href="https://win-community.techidaily.com/top-7-knowledge-management-solutions-to-boost-your-business-in-2020/"><u>Top 7 Knowledge Management Solutions to Boost Your Business in 2020</u></a></li>
+<li><a href="https://win-community.techidaily.com/top-recommended-mousepluskeyboard-recorders-for-pcs-and-macs/"><u>Top Recommended Mouse+Keyboard Recorders for PCs & Macs</u></a></li>
 </ul></div>
 

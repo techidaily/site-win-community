@@ -1,7 +1,7 @@
 ---
 title: Eliminate Explicit Media Alerts in Microsoft Pop-Ups - Protect Your System From Scams
-date: 2024-09-25T23:29:00.031Z
-updated: 2024-09-30T07:09:56.008Z
+date: 2024-10-04T17:27:47.149Z
+updated: 2024-10-05T19:27:32.983Z
 tags:
   - product
   - antivirus
@@ -87,19 +87,6 @@ Windows Safe Mode is the perfect environment to find out and solve the critical 
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Uninstall Suspicious Applications**
 
 If the “PORNOGRAPHIC VIRUS ALERT FROM MICROSOFT” Scam still appears on your PC, try to find the culprit application and uninstall it. 
@@ -111,30 +98,16 @@ If the “PORNOGRAPHIC VIRUS ALERT FROM MICROSOFT” Scam still appears on your 
 ![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete the file from its root location.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Delete Temporary Files**
 
@@ -149,10 +122,17 @@ Here are the steps to eliminate thre temporary files:
 5. Next right-click on the **Recycle Bin** and select **Empty Recycle Bin.**![Empty recycle bin](https://www.malwarefox.com/wp-content/uploads/2020/07/Empty-recycle-bin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Reset Web Browser Settings**
@@ -162,14 +142,29 @@ If your browser is misbehaving because of the “PORNOGRAPHIC VIRUS ALERT FROM M
 1. Open Chrome and navigate to **Settings** by clicking on the three-dots at the top right.![Chrome Settings](https://www.malwarefox.com/wp-content/uploads/2020/03/Chrome-Malware-Scanner-1.png)
 2. Click on advanced **Advanced**.![Chrome Advanced Settings](https://www.malwarefox.com/wp-content/uploads/2020/05/Chrome-Malware-Scanner-2.png)
 3. Under **Reset and cleanup,** click on “**Restore settings to their original defaults.”**![Restore chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/Restore-chrome.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select **Reset settings** on the next prompt.![reset the chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/reset-the-chrome.png)
 5. Relaunch your browser.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Install an Antimalware and Perform a Scan**
@@ -180,13 +175,6 @@ MalwareFox is reliable security software that promises to protect your system an
 
 1. [Download Malwarefox and install it](https://tools.techidaily.com/malwarefox/products/).
 2. Perform a full system scan to get rid of every malware that is troubling your system.![MalwareFox Antimalware](https://www.malwarefox.com/wp-content/uploads/2020/02/malwarefox.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Why Windows get More Virus Attacks than Mac or Linux](https://tools.techidaily.com/malwarefox/products/)
 
@@ -207,6 +195,19 @@ NO. Microsoft is a reputed and one of the biggest software development companies
 **What do I do when Microsoft blocks my computer?** 
 
 Microsoft never blocks any computer. You see the warning of “Microsoft has blocked your computer” because a malware might have got an entry on your system and triggered the fake message to spread the spam.
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -233,24 +234,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-capturing-attention-a-step-by-step-guide-to-social-media-promotion/"><u>[New] In 2024, Capturing Attention A Step-by-Step Guide to Social Media Promotion</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-seamless-skype-call-recordings-a-cross-platform-approach-for-2024/"><u>[New] Seamless Skype Call Recordings A Cross-Platform Approach for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-textual-amplification-for-igtv-broadcasts-for-2024/"><u>[New] Textual Amplification for IGTV Broadcasts for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-save-fb-pages-with-a-click-top-8-tools-available-online-and-free/"><u>[Updated] 2024 Approved Save FB Pages with a Click Top 8 Tools Available Online & FREE</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-best-choices-elite-ringtone-developers-iphone/"><u>[Updated] Best Choices Elite Ringtone Developers iPhone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-50-greatest-virtual-scenes-for-online-meetings/"><u>2024 Approved 50 Greatest Virtual Scenes for Online Meetings</u></a></li>
-<li><a href="https://win-community.techidaily.com/best-online-platforms-with-legal-anime-subtitles-top-10-picks/"><u>Best Online Platforms with Legal Anime Subtitles (Top 10 Picks)</u></a></li>
-<li><a href="https://win-community.techidaily.com/clear-viewing-experience-restored-comprehensive-solutions-for-sharpening-your-4k-tvs-picture-quality/"><u>Clear Viewing Experience Restored: Comprehensive Solutions for Sharpening Your 4K TV's Picture Quality</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/commanding-attention-best-in-class-tiktok-caption-ideas-for-audiene-engagement/"><u>Commanding Attention Best-in-Class TikTok Caption Ideas for Audiene Engagement</u></a></li>
-<li><a href="https://win-community.techidaily.com/comprehensive-guide-safe-and-easy-methods-for-ripping-burning-and-copying-your-dvds-and-cds/"><u>Comprehensive Guide: Safe & Easy Methods for Ripping, Burning, and Copying Your DVDs & CDs</u></a></li>
-<li><a href="https://win-community.techidaily.com/discover-the-leading-8-hd-recording-gadgets-dominating-2n24-a-comprehensive-guide/"><u>Discover the Leading 8 HD Recording Gadgets Dominating 2N24: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-community.techidaily.com/download-free-windows-1011-dvd-decode-software/"><u>Download Free Windows 10/11 DVD Decode Software</u></a></li>
-<li><a href="https://win-community.techidaily.com/effortless-audio-conversion-transforming-gsm-files-into-wav-format-using-top-desktop-and-web-based-tools/"><u>Effortless Audio Conversion: Transforming GSM Files Into WAV Format Using Top Desktop & Web-Based Tools</u></a></li>
-<li><a href="https://win-community.techidaily.com/get-your-free-trial-of-avi-video-converter-factory-pro-no-risks-involved-in-secure-online-buying/"><u>Get Your Free Trial of AVI Video Converter Factory Pro - No Risks Involved in Secure Online Buying</u></a></li>
-<li><a href="https://win-community.techidaily.com/iphonewma/"><u>IPhone上でWMA音楽ファイルのプレーヤー設定ガイド</u></a></li>
-<li><a href="https://win-community.techidaily.com/mastering-video-orientation-tips-and-tricks-for-flipping-videoclips-in-windows-11/"><u>Mastering Video Orientation: Tips and Tricks for Flipping Videoclips in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-vivo-y100-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Vivo Y100</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/seamless-new-york-times-video-extractor-software-compatible-with-windowsmac-os-save-clips-as-high-quality-mp4-avi-files/"><u>Seamless New York Times Video Extractor Software Compatible with Windows/Mac OS - Save Clips as High-Quality MP4, AVI Files</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-future-is-here-with-macos-15-sequoia-projection-of-release-dates-and-innovative-features/"><u>The Future Is Here with MacOS 15 (Sequoia): Projection of Release Dates & Innovative Features</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-multi-view-magic-is-splitcam-prime/"><u>[Updated] 2024 Approved Multi-View Magic Is SplitCam Prime?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-comparative-review-smartphone-usage-of-the-leading-video-apps/"><u>[Updated] In 2024, Comparative Review Smartphone Usage of the Leading Video Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-enlightened-approach-to-youtube-titles-with-ai/"><u>2024 Approved Enlightened Approach to YouTube Titles with AI</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instantaneous-frame-construction-facebook-photo-groups/"><u>2024 Approved Instantaneous Frame Construction Facebook Photo Groups</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-revive-lost-media-icons-on-facebook-users/"><u>2024 Approved Revive Lost Media Icons on Facebook Users</u></a></li>
+<li><a href="https://win-community.techidaily.com/exploring-cyber-threats-can-casual-internet-surfing-lead-to-malware-infection-from-deceptive-sites/"><u>Exploring Cyber Threats: Can Casual Internet Surfing Lead to Malware Infection From Deceptive Sites?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-protect-your-creative-assets-a-quick-guide-to-saving-fcp-projects/"><u>New 2024 Approved Protect Your Creative Assets A Quick Guide to Saving FCP Projects</u></a></li>
+<li><a href="https://win-community.techidaily.com/simple-techniques-for-quick-mp4-video-downsizing/"><u>Simple Techniques for Quick MP4 Video Downsizing</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-guide-connecting-your-android-device-with-philips-smart-tv/"><u>Step-by-Step Guide: Connecting Your Android Device with Philips Smart TV</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-instructions-crafting-personalized-screensaver-designs-for-iphone-devices/"><u>Step-by-Step Instructions: Crafting Personalized Screensaver Designs for iPhone Devices</u></a></li>
+<li><a href="https://win-community.techidaily.com/the-ultimate-pick-discover-the-4-premier-watermark-applications-for-your-mac/"><u>The Ultimate Pick: Discover the 4 Premier Watermark Applications for Your Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-free-graphics-websites-a-compreran-analysis-for-2024/"><u>Top 10 FREE Graphics Websites A Compreran Analysis for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/troubleshooting-steps-for-when-malwarebytes-wont-launch-insights-and-solutions/"><u>Troubleshooting Steps for When Malwarebytes Won’t Launch: Insights & Solutions</u></a></li>
 </ul></div>
 
