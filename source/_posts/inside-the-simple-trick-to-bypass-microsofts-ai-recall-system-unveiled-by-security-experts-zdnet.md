@@ -1,7 +1,7 @@
 ---
 title: Inside the Simple Trick to Bypass Microsoft’s AI Recall System Unveiled by Security Experts | ZDNet
-date: 2024-10-01T17:33:30.051Z
-updated: 2024-10-05T19:51:28.240Z
+date: 2024-10-05T04:10:06.230Z
+updated: 2024-10-10T20:06:55.084Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +143,21 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-exploring-minecrafts-eastern-cottage-ideas/"><u>[Updated] Exploring Minecraft's Eastern Cottage Ideas</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-ultimate-guide-to-excellent-monitors-for-photo-professionals/"><u>[Updated] In 2024, The Ultimate Guide to Excellent Monitors for Photo Professionals</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-more-than-you-could-dream-or-imagine-final-cut-pro-x-is-a-powerful-software-one-such-hidden-feature-from-fcpx-is-jump-cuts-and-we-shall-know-m/"><u>2024 Approved More than You Could Dream or Imagine, Final Cut Pro X Is a Powerful Software. One Such Hidden Feature From FCPX Is Jump Cuts, and We Shall Know More About Final Cut Pro Jump Cuts in This Article</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easy-methods-for-turning-and-flipping-pictures-using-windows-11-tools/"><u>Easy Methods for Turning and Flipping Pictures Using Windows 11 Tools</u></a></li>
-<li><a href="https://win-community.techidaily.com/easy-steps-restore-your-lost-or-corrupted-microsoft-word-files/"><u>Easy Steps: Restore Your Lost or Corrupted Microsoft Word Files</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-ways-to-empty-your-printers-job-list-expert-solutions-revealed/"><u>Effortless Ways to Empty Your Printer's Job List - Expert Solutions Revealed</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-meizu-lock-screen-password-by-drfone-android/"><u>How To Change Meizu Lock Screen Password?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/inside-the-toolbox-exploring-10-common-strategies-of-online-thieves-and-hackers/"><u>Inside the Toolbox: Exploring 10 Common Strategies of Online Thieves and Hackers</u></a></li>
-<li><a href="https://win-community.techidaily.com/leading-windows-11-photo-slide-show-creators-the-ultimate-list/"><u>Leading Windows 11 Photo Slide Show Creators: The Ultimate List</u></a></li>
-<li><a href="https://win-community.techidaily.com/master-game-playback-on-iphone-with-leading-ios-game-record-app/"><u>Master Game Playback on iPhone with Leading iOS Game Record App</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/oadmap-to-youtube-fame-essential-steps-for-successful-content-for-2024/"><u>The Roadmap to YouTube Fame Essential Steps for Successful Content for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/ultimate-guide-creating-your-own-podcast-with-free-web-based-tools/"><u>Ultimate Guide: Creating Your Own Podcast with Free, Web-Based Tools</u></a></li>
-<li><a href="https://win-community.techidaily.com/ultimate-tutorial-eliminating-digital-emojis-and-graphics-from-pictures/"><u>Ultimate Tutorial: Eliminating Digital Emojis and Graphics From Pictures</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-audience-retention-through-reel-magic-boomers-on-ig-for-2024/"><u>[New] Audience Retention Through Reel Magic Boomers on IG for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-tracing-treasure-trails-fast-friending-fundamentals/"><u>[Updated] 2024 Approved Tracing Treasure Trails Fast Friending Fundamentals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-tools-and-techniques-adding-frames-to-digital-images-2023-edition/"><u>[Updated] Best Tools & Techniques - Adding Frames to Digital Images, 2023 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-6-funky-online-platforms-explore-varied-chess-styles/"><u>Best 6 Funky Online Platforms: Explore Varied Chess Styles</u></a></li>
+<li><a href="https://win-community.techidaily.com/boost-your-pcs-performance-mastering-the-hidden-feature-in-windows-11-to-quickly-terminate-lagging-programs-insights-from-zdnet/"><u>Boost Your PC's Performance: Mastering the Hidden Feature in Windows 11 to Quickly Terminate Lagging Programs - Insights From ZDNet</u></a></li>
+<li><a href="https://win-community.techidaily.com/easy-steps-installing-windows-11-without-microsoft-sign-in-a-guide-even-elon-musk-would-appreciate/"><u>Easy Steps: Installing Windows 11 Without Microsoft Sign-In - A Guide Even Elon Musk Would Appreciate</u></a></li>
+<li><a href="https://article-posts.techidaily.com/finding-your-ideal-viewing-experience-with-projection-or-television/"><u>Finding Your Ideal Viewing Experience with Projection or Television</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-hyperx-cloud-alpha-headset-microphone-issues-a-complete-solution-guide/"><u>Fixing HyperX Cloud Alpha Headset Microphone Issues: A Complete Solution Guide</u></a></li>
+<li><a href="https://win-community.techidaily.com/free-tech-guide-creating-bootable-os-recovery-disks-for-dell-hp-lenovo-and-surface-devices-learn-how/"><u>Free Tech-Guide: Creating Bootable OS Recovery Disks for Dell, HP, Lenovo & Surface Devices – Learn How!</u></a></li>
+<li><a href="https://win-community.techidaily.com/getting-started-with-the-microsoft-windows-insider-program-benefits-and-enrollment-guide/"><u>Getting Started with the Microsoft Windows Insider Program: Benefits & Enrollment Guide</u></a></li>
+<li><a href="https://win-community.techidaily.com/revamping-video-conferencing-logitechs-project-ghost-enhances-quality-using-classic-camera-techniques/"><u>Revamping Video Conferencing: Logitech's 'Project Ghost' Enhances Quality Using Classic Camera Techniques</u></a></li>
+<li><a href="https://win-community.techidaily.com/revolutionizing-remote-work-how-logitech-leverages-classic-cameras-techniques-in-their-ghost-technology/"><u>Revolutionizing Remote Work: How Logitech Leverages Classic Cameras Techniques in Their 'Ghost' Technology</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/smooth-surfaces-from-stability-handheld-tech-for-pros-for-2024/"><u>Smooth Surfaces From Stability Handheld Tech for Pros for 2024</u></a></li>
 </ul></div>
 

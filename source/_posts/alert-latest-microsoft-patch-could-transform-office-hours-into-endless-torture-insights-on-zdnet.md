@@ -1,7 +1,7 @@
 ---
 title: Alert! Latest Microsoft Patch Could Transform Office Hours Into Endless Torture - Insights on ZDNet
-date: 2024-09-30T17:54:30.022Z
-updated: 2024-10-05T16:23:24.078Z
+date: 2024-10-08T19:56:31.348Z
+updated: 2024-10-10T22:29:25.498Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +143,21 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-key-steps-effective-obs-streaming-directly-to-facebook-users-for-2024/"><u>[Updated] The Key Steps Effective OBS Streaming Directly to Facebook Users for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-a-complete-breakdown-of-freelens-cam-software/"><u>2024 Approved A Complete Breakdown of Freelens Cam Software</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-cutting-edge-tricks-in-streamlabs-obs-broadcasts/"><u>2024 Approved Cutting-Edge Tricks in Streamlabs OBS Broadcasts</u></a></li>
-<li><a href="https://win-community.techidaily.com/enhanced-productivity-and-energy-saving/"><u>Enhanced Productivity and Energy Saving</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-motorola-edge-40-neo-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Motorola Edge 40 Neo Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-implementing-invisible-sound-transitions-in-premiere-pro/"><u>In 2024, Implementing Invisible Sound Transitions in Premiere Pro</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-joke-juggernauts-20-memes-dominating-the-web/"><u>In 2024, Joke Juggernauts 20 Memes Dominating the Web</u></a></li>
-<li><a href="https://win-community.techidaily.com/quick-guide-converting-avi-files-effortlessly-for-playback-on-an-ipad/"><u>Quick Guide: Converting AVI Files Effortlessly for Playback on an iPad</u></a></li>
-<li><a href="https://win-community.techidaily.com/seamless-samsung-phone-compatibility-convert-and-watch-videos-without-costs/"><u>Seamless Samsung Phone Compatibility - Convert and Watch Videos Without Costs!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-windows-11-spotlight-malfunction-for-a-personalized-experience/"><u>Solving the Windows 11 Spotlight Malfunction for a Personalized Experience</u></a></li>
-<li><a href="https://win-community.techidaily.com/top-notch-services-for-converting-video-subtitles-into-multiple-languages/"><u>Top-Notch Services for Converting Video Subtitles Into Multiple Languages</u></a></li>
-<li><a href="https://win-community.techidaily.com/windows-8-tablet-ultimate-guide-to-capturing-screenshots-efficiently/"><u>Windows 8 Tablet: Ultimate Guide to Capturing Screenshots Efficiently</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-expert-choice-top-12-non-time-restricted-recorders/"><u>[New] 2024 Approved Expert Choice Top 12 Non-Time Restricted Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-logitech-webcam-basics-video-recording-made-easy/"><u>[Updated] 2024 Approved Logitech Webcam Basics Video Recording Made Easy</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-update-problem-windows-11-error-code-0x800f0922/"><u>Addressing Update Problem: Windows 11 Error Code 0X800f0922</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-integration-mastery-in-windows-operating-system/"><u>Bluetooth Integration Mastery in Windows Operating System</u></a></li>
+<li><a href="https://win-community.techidaily.com/can-microsofts-latest-innovation-be-an-irritant-or-will-it-amaze-us-exploring-perspectives-on-zdnet/"><u>Can Microsoft's Latest Innovation Be an Irritant, or Will It Amaze Us? Exploring Perspectives on ZDNET</u></a></li>
+<li><a href="https://win-community.techidaily.com/is-the-free-windows-10-upgrade-still-available-insights-from-zdnet/"><u>Is the Free Windows 10 Upgrade Still Available? - Insights From ZDNet</u></a></li>
+<li><a href="https://win-community.techidaily.com/massive-outage-strikes-microsoft-365-impact-on-global-users-and-details-inside-techworld/"><u>Massive Outage Strikes Microsoft 365: Impact on Global Users & Details Inside | TechWorld</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719578492484-master-uk-idioms-and-expressions-become-a-true-brit/"><u>Master UK Idioms & Expressions: Become a True Brit</u></a></li>
+<li><a href="https://win-community.techidaily.com/microsofts-major-challenge-with-windows-10-looms-just-12-months-left-for-resolution-techworld-insights/"><u>Microsoft's Major Challenge with Windows 10 Looms: Just 12 Months Left for Resolution | TechWorld Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mystical-camera-pause-strategies-for-2024/"><u>Mystical Camera Pause Strategies for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/securing-your-system-5-key-methods-to-protect-your-windows-machine/"><u>Securing Your System: 5 Key Methods to Protect Your Windows Machine</u></a></li>
+<li><a href="https://win-community.techidaily.com/tech-giant-microsoft-boosts-employee-collaboration-through-enhanced-teams-features-unveiled-on-zdnet/"><u>Tech Giant Microsoft Boosts Employee Collaboration Through Enhanced Teams Features, Unveiled on ZDNet</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/umwandlung-von-pdf-zu-anderen-formaten-unter-verwendung-von-adobe-digital-editionen-erfolgreiches-konzept-und-methodik/"><u>Umwandlung Von PDF Zu Anderen Formaten Unter Verwendung Von Adobe Digital Editionen - Erfolgreiches Konzept Und Methodik</u></a></li>
+<li><a href="https://win-community.techidaily.com/unleash-your-pcs-potential-with-powertoys-fancyzones-a-comprehensive-guide-for-windows-users-on-zdnet/"><u>Unleash Your PC's Potential with PowerToys' FancyZones - A Comprehensive Guide for Windows Users on ZDNet</u></a></li>
 </ul></div>
 

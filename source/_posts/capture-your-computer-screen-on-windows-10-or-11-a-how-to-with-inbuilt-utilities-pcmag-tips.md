@@ -1,7 +1,7 @@
 ---
 title: "Capture Your Computer Screen on Windows 10 or 11: A How-To with Inbuilt Utilities | PCMag Tips"
-date: 2024-09-29T18:12:30.926Z
-updated: 2024-10-05T17:04:07.818Z
+date: 2024-10-03T23:14:29.146Z
+updated: 2024-10-10T19:58:19.490Z
 tags:
   - windows
 categories:
@@ -27,6 +27,13 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -34,10 +41,16 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -67,13 +80,6 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
@@ -81,10 +87,10 @@ When you see the setting or command you want, simply double-click it to launch i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
@@ -98,18 +104,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -156,17 +162,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-early-stage-youtube-wisdom-sidestep-these-8-common-mistakes/"><u>[New] 2024 Approved Early-Stage YouTube Wisdom Sidestep These 8 Common Mistakes</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-navigating-skies-drone-shooting-basics/"><u>[New] 2024 Approved Navigating Skies Drone Shooting Basics</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-zero-cost-text-animation-guide-for-videos/"><u>[New] 2024 Approved Zero-Cost Text Animation Guide for Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-whos-following-amazon-prime-series-with-the-highest-tweets-2023/"><u>[New] In 2024, Who's Following? Amazon Prime Series with the Highest Tweets, 2023</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-fastforge-slowscene-videograph/"><u>[Updated] In 2024, FastForge SlowScene Videograph</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mobile-savvy-tailoring-youtube-video-thumbnails-with-phones/"><u>[Updated] Mobile-Savvy Tailoring YouTube Video Thumbnails with Phones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-epson-wf-2750-drivers-complete-guide/"><u>Download & Install Epson WF-2750 Drivers – Complete Guide</u></a></li>
-<li><a href="https://win-community.techidaily.com/exploring-cyber-threats-can-casual-internet-surfing-lead-to-malware-infection-from-deceptive-sites/"><u>Exploring Cyber Threats: Can Casual Internet Surfing Lead to Malware Infection From Deceptive Sites?</u></a></li>
-<li><a href="https://win-community.techidaily.com/simple-techniques-for-quick-mp4-video-downsizing/"><u>Simple Techniques for Quick MP4 Video Downsizing</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-guide-connecting-your-android-device-with-philips-smart-tv/"><u>Step-by-Step Guide: Connecting Your Android Device with Philips Smart TV</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-instructions-crafting-personalized-screensaver-designs-for-iphone-devices/"><u>Step-by-Step Instructions: Crafting Personalized Screensaver Designs for iPhone Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-to-fix-power-state-failure-driver-issues/"><u>Troubleshooting Tips to Fix Power State Failure Driver Issues</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hortcut-to-success-the-top-5-youtube-link-trimming-apps-for-2024/"><u>[New] Shortcut to Success The Top 5 YouTube Link Trimming Apps for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-tapping-into-instagrams-video-power-formulating-a-winning-strategy-for-2024/"><u>[New] Tapping Into Instagram's Video Power Formulating a Winning Strategy for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-advanced-techniques-for-pip-integration-in-edge-browser/"><u>[Updated] Advanced Techniques for PIP Integration in Edge Browser</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-golden-grounds-of-terrafirma-top-treasure-hunts-for-2024/"><u>[Updated] Golden Grounds of Terrafirma Top Treasure Hunts for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-earning-on-youtube-a-step-by-step-guide-for-newbies/"><u>2024 Approved Earning on YouTube A Step-by-Step Guide for Newbies</u></a></li>
+<li><a href="https://win-community.techidaily.com/capturing-stunning-videos-from-google-earth-a-comprehensive-tutorial/"><u>Capturing Stunning Videos From Google Earth - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-community.techidaily.com/comparing-audio-experiences-apple-music-and-spotify-battle-for-supremacy/"><u>Comparing Audio Experiences: Apple Music and Spotify Battle for Supremacy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-resolve-the-missing-d3d9dll-error-message/"><u>Easy Steps: Resolve The Missing d3d9.dll Error Message</u></a></li>
+<li><a href="https://win-community.techidaily.com/effortless-steps-to-access-and-save-veehd-videos/"><u>Effortless Steps to Access and Save VeeHD Videos</u></a></li>
+<li><a href="https://win-community.techidaily.com/eliminate-explicit-media-alerts-in-microsoft-pop-ups-protect-your-system-from-scams/"><u>Eliminate Explicit Media Alerts in Microsoft Pop-Ups - Protect Your System From Scams</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/free-tools-make-screencapture-a-breeze-for-tv-lovers-for-2024/"><u>Free Tools Make ScreenCapture a Breeze for TV Lovers for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/professional-perspectives-5-reasons-to-avoid-chatgpt-for-medical-advice/"><u>Professional Perspectives: 5 Reasons to Avoid ChatGPT for Medical Advice</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-nokia-c300-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Nokia C300 Phone</u></a></li>
 </ul></div>
 

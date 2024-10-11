@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Notorious Cyberthreats: A Deep Dive Into History's Most Destructive Computer Viruses"
-date: 2024-09-30T19:44:55.502Z
-updated: 2024-10-05T19:19:21.277Z
+date: 2024-10-09T02:37:05.708Z
+updated: 2024-10-10T20:12:46.319Z
 tags:
   - product
   - antivirus
@@ -45,10 +45,10 @@ If you want to learn more about these terrible critters, keep reading. In this b
 My Doom is a computer worm that was first released in early 2004\. It quickly became the most widespread virus of all time, infecting millions of computers within days. The My Doom virus was so destructive because it caused infected computers to launch denial-of-service attacks against a number of high-profile websites, including Microsoft, Yahoo!, and Google. These attacks caused massive disruptions and left these websites inaccessible to users for extended periods of time. The My Doom virus is believed to have caused over $38 billion in damages.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## #2\. Sasser
@@ -58,13 +58,6 @@ Sasser is a computer worm that was released in 2004\. It exploited a vulnerabili
 ## #3\. Code Red
 
 Code Red is a computer worm that was released in 2001\. It exploited a vulnerability in the Microsoft IIS web server and quickly spread to hundreds of thousands of computers around the world. The Code Red worm was particularly destructive because it caused infected computers to launch denial-of-service attacks against a number of high-profile websites, including Microsoft, Yahoo!, and CNN. These attacks caused massive disruptions and left these websites inaccessible to users for extended periods of time. The Code Red worm is believed to have caused over $2.4 billion in damages.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## #4\. Nimda
 
@@ -82,32 +75,26 @@ Melissa is a computer worm that was released in 1999\. It exploited a vulnerabil
 
 Conficker is a computer worm that was released in 2008\. It exploited a vulnerability in the Microsoft Windows operating system and quickly spread to millions of computers around the world. The Conficker worm was particularly destructive because it caused infected computers to become part of a botnet, which was used to launch denial-of-service attacks and to spread other malware. The Conficker worm is believed to have caused over $9 billion in damages.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## #8\. CryptoLocker
 
 CryptoLocker is a type of ransomware that was released in 2013\. It encrypts files on the infected computer and demands a ransom be paid in order to decrypt the files. CryptoLocker is particularly destructive because it can encrypt important files such as documents, photos, and videos. This can result in the loss of important data and memories. The CryptoLocker virus is believed to have caused over $670 million in damages.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## #9\. WannaCry
 
 WannaCry is a type of ransomware that was released in 2017\. It exploits a vulnerability in the Microsoft Windows operating system and quickly spread to millions of computers around the world. The WannaCry virus was particularly destructive because it caused infected computers to become part of a botnet, which was used to launch denial-of-service attacks and to spread the ransomware. The WannaCry virus is believed to have caused over $4 billion in damages.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## #10\. SoBig
@@ -138,6 +125,19 @@ There are a few things you can do to protect your computer from viruses, includi
 
 [Can Malware Hide from Antivirus?](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
 Comment
@@ -163,20 +163,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ios-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/beat-infused-imagery-mobile-video-making-on-iphone/"><u>Beat-Infused Imagery Mobile Video Making on iPhone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/closed-new-subscriptions-to-chatgpt-understanding-the-pause-and-future-openings/"><u>Closed: New Subscriptions to ChatGPT - Understanding the Pause & Future Openings</u></a></li>
-<li><a href="https://fox-http.techidaily.com/elevating-your-sound-capture-using-audacity-professionally-for-2024/"><u>Elevating Your Sound Capture Using Audacity Professionally for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-how-to-transform-your-shopping-adventures-into-haul-masterpieces/"><u>In 2024, How to Transform Your Shopping Adventures Into Haul Masterpieces</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-savvy-obs-arrangement-for-economical-pcs/"><u>In 2024, Savvy OBS Arrangement for Economical PCs</u></a></li>
-<li><a href="https://win-community.techidaily.com/navigating-the-wizarding-world-of-harry-potter-tips-and-tricks-for-playing-hogwarts-mystery-on-your-computer/"><u>Navigating the Wizarding World of Harry Potter: Tips and Tricks for Playing Hogwarts Mystery on Your Computer</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-speed-up-your-video-editing-how-to-cut-large-files-fast-on-mac/"><u>New 2024 Approved Speed Up Your Video Editing How to Cut Large Files Fast on Mac</u></a></li>
-<li><a href="https://win-community.techidaily.com/premier-sound-capture-applications-on-mac-a-comprehensive-guide/"><u>Premier Sound Capture Applications on Mac: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-community.techidaily.com/quick-tips-for-seamlessly-transferring-and-organizing-android-contacts-via-pc/"><u>Quick Tips for Seamlessly Transferring and Organizing Android Contacts via PC</u></a></li>
-<li><a href="https://win-community.techidaily.com/simple-steps-securely-restoring-your-lost-iphone-6-passcode/"><u>Simple Steps: Securely Restoring Your Lost iPhone 6 Passcode</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Oppo Find X7? | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/top-rated-acne-spot-treatment-apps-of-2021/"><u>Top Rated Acne Spot Treatment Apps of 2021</u></a></li>
-<li><a href="https://win-community.techidaily.com/top-rated-no-cost-pdf-editor-available-for-downloading-on-windows-11-systems/"><u>Top Rated No-Cost PDF Editor Available for Downloading on Windows 11 Systems</u></a></li>
-<li><a href="https://win-community.techidaily.com/transferring-media-files-between-iphones-techniques-for-moving-content-from-iphone-4s-to-iphone-6/"><u>Transferring Media Files Between iPhones: Techniques for Moving Content From iPhone 4S to iPhone 6</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-essential-skills-for-youtube-success-8-free-online-courses/"><u>[New] 2024 Approved Essential Skills for YouTube Success 8 Free Online Courses</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-elevate-your-visuals-music-integration-for-vimeo-films/"><u>2024 Approved Elevate Your Visuals Music Integration for Vimeo Films</u></a></li>
+<li><a href="https://win-community.techidaily.com/best-free-sound-recording-software-compatible-with-windows-8/"><u>Best Free Sound Recording Software Compatible with Windows 8</u></a></li>
+<li><a href="https://win-community.techidaily.com/convert-your-images-easily-free-online-png-to-pdf-transformation-tool/"><u>Convert Your Images Easily: Free Online PNG to PDF Transformation Tool</u></a></li>
+<li><a href="https://win-community.techidaily.com/cross-platform-fixes-resolving-audio-recording-issues-on-windows-and-macos-systems/"><u>Cross-Platform Fixes: Resolving Audio Recording Issues on Windows & macOS Systems</u></a></li>
+<li><a href="https://win-community.techidaily.com/detecting-stealthy-device-admins-in-android-learn-to-eliminate-them-with-expert-tips-from-malwarefox/"><u>Detecting Stealthy Device Admins in Android? Learn to Eliminate Them with Expert Tips From MalwareFox</u></a></li>
+<li><a href="https://win-community.techidaily.com/diy-penguin-fun-how-to-design-and-share-bing-dwen-dwen-stickers-via-whatsapp/"><u>DIY Penguin Fun: How to Design and Share Bing Dwen Dwen Stickers via WhatsApp</u></a></li>
+<li><a href="https://win-community.techidaily.com/enabling-apple-music-on-your-windows-smartphone-comprehensive-tutorial/"><u>Enabling Apple Music on Your Windows Smartphone – Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/flicker-free-display-tips-eliminating-your-monitors-annoying-blink/"><u>Flicker-Free Display Tips: Eliminating Your Monitor's Annoying Blink</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-epson-tm-t88v-drivers-for-windows-pcs/"><u>Get the Latest EPSON TM-T88v Drivers for Windows PCs</u></a></li>
+<li><a href="https://win-community.techidaily.com/guide-reducing-background-sound-interference-in-your-recorded-footage/"><u>Guide: Reducing Background Sound Interference in Your Recorded Footage</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/how-to-overcome-the-challenge-of-unplayable-youtube-content-effective-strategies-and-tips/"><u>How to Overcome the Challenge of Unplayable YouTube Content: Effective Strategies and Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-google-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Google</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location on TikTok to See More Content On your Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/incredible-apps-for-designing-custom-text-based-wallpapers/"><u>Incredible Apps for Designing Custom Text-Based Wallpapers</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-cloud-update-troubles-heres-how-to-restore-synchronization-successfully/"><u>Steam Cloud Update Troubles? Here's How to Restore Synchronization Successfully</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-guide-making-your-white-backgrounds-invisible/"><u>Step-by-Step Guide: Making Your White Backgrounds Invisible</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-causes-of-mir4-pc-malfunctions-and-crashes/"><u>Troubleshooting Common Causes of Mir4 PC Malfunctions and Crashes</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-mastering-compression-in-fcpx-a-step-by-step-guide/"><u>Updated Mastering Compression in FCPX A Step-by-Step Guide</u></a></li>
 </ul></div>
 

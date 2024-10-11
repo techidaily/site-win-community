@@ -1,7 +1,7 @@
 ---
 title: Unleash Your PC's Potential with PowerToys' FancyZones - A Comprehensive Guide for Windows Users on ZDNet
-date: 2024-10-03T20:38:18.331Z
-updated: 2024-10-05T20:27:11.390Z
+date: 2024-10-07T01:44:18.327Z
+updated: 2024-10-10T20:57:04.563Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,29 +136,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,17 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-7-steps-to-sensational-surprise-revelation/"><u>[New] 7 Steps to Sensational Surprise Revelation</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-initiate-flip-reverse-video-display-on-vlc-software/"><u>[New] Initiate Flip Reverse Video Display on VLC Software</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-excellence-on-the-screen-best-six-video-tools-for-big-sur-for-2024/"><u>[Updated] Excellence on the Screen Best Six Video Tools for Big Sur for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/convert-your-images-easily-free-online-png-to-pdf-transformation-tool/"><u>Convert Your Images Easily: Free Online PNG to PDF Transformation Tool</u></a></li>
-<li><a href="https://win-community.techidaily.com/enabling-apple-music-on-your-windows-smartphone-comprehensive-tutorial/"><u>Enabling Apple Music on Your Windows Smartphone – Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-community.techidaily.com/incredible-apps-for-designing-custom-text-based-wallpapers/"><u>Incredible Apps for Designing Custom Text-Based Wallpapers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ogm-file-conversion-made-easy-and-free-with-movavi-expertise-and-quality-assured/"><u>OGM File Conversion Made Easy & Free with Movavi - Expertise and Quality Assured!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/protect-your-iphone-from-liquid-damage-remedies-for-liquid-detected-in-connector/"><u>Protect Your iPhone From Liquid Damage – Remedies for 'Liquid Detected in Connector'</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-guide-making-your-white-backgrounds-invisible/"><u>Step-by-Step Guide: Making Your White Backgrounds Invisible</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-genesis-of-ai-charting-its-historic-evolution-over-time/"><u>The Genesis of AI - Charting Its Historic Evolution Over Time</u></a></li>
-<li><a href="https://win-community.techidaily.com/top-10-notorious-cyberthreats-a-deep-dive-into-historys-most-destructive-computer-viruses/"><u>Top 10 Notorious Cyberthreats: A Deep Dive Into History's Most Destructive Computer Viruses</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/whats-the-best-cloud-storage-2024-know-these-5-for-your-needs/"><u>What’s the Best Cloud Storage 2024? Know These 5 for Your Needs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-top-ranked-screen-recorder-for-seamless-youtubing/"><u>[Updated] 2024 Approved Top-Ranked Screen Recorder for Seamless YouTubing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-enhancing-images-with-radial-photoshop-effects-for-2024/"><u>[Updated] Enhancing Images with Radial Photoshop Effects for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-your-quick-guide-to-excellent-zoom-meetings-for-2024/"><u>[Updated] Your Quick Guide to Excellent Zoom Meetings for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/best-flv-converters-top-3-alternatives-to-flvto-for-optimal-media-management/"><u>Best FLV Converters: Top 3 Alternatives to FLVTO for Optimal Media Management</u></a></li>
+<li><a href="https://win-community.techidaily.com/easy-conversion-tools-adapt-videos-for-flawless-playback-on-windows-media-player/"><u>Easy Conversion Tools: Adapt Videos for Flawless Playback on Windows Media Player</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-nokia-g42-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Nokia G42 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-razr-40-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Razr 40 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Come up With the Best Pokemon Team On Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-leave-a-life360-group-on-honor-x50-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Honor X50 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/mastering-the-art-of-attractive-instagram-profiles-with-expert-seo-techniques/"><u>Mastering the Art of Attractive Instagram Profiles with Expert SEO Techniques</u></a></li>
+<li><a href="https://win-community.techidaily.com/responding-to-facebook-security-breach-a-guide-with-5-key-actions/"><u>Responding to Facebook Security Breach: A Guide with 5 Key Actions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/rhythms-ally-finding-best-dj-content-online-for-2024/"><u>Rhythm's Ally Finding Best DJ Content Online for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/the-ultimate-tutorial-on-operating-your-castingo-streamer-with-ease/"><u>The Ultimate Tutorial on Operating Your Castingo Streamer with Ease!</u></a></li>
+<li><a href="https://win-community.techidaily.com/ultimate-collection-of-over-50-free-customizable-mind-mapping-templates/"><u>Ultimate Collection of Over 50 Free Customizable Mind Mapping Templates</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-apple-iphone-15-pro-a-detailed-hands-on-examination-and-review/"><u>Unveiling the Apple iPhone 15 Pro: A Detailed Hands-On Examination and Review</u></a></li>
+<li><a href="https://win-community.techidaily.com/unveiling-the-truth-apples-vulnerability-exposed-beyond-imagination/"><u>Unveiling the Truth: Apple's Vulnerability Exposed Beyond Imagination</u></a></li>
 </ul></div>
 

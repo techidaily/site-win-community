@@ -1,7 +1,7 @@
 ---
 title: "Affordability Meets Innovation: A Cheap Surface Pro 11 Review & Tips by Windows Specialist | ZDNET"
-date: 2024-09-28T19:14:02.500Z
-updated: 2024-10-05T18:30:10.468Z
+date: 2024-10-06T00:27:22.556Z
+updated: 2024-10-10T23:38:17.761Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,22 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,22 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-facebooks-countdown-the-best-10-music-videos-of-now/"><u>[New] 2024 Approved Facebook's Countdown The Best 10 Music Videos of Now</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-analyzing-vlc-screen-captures-for-2024/"><u>[Updated] Analyzing VLC Screen Captures for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/1-easy-and-fast-online-flv-to-mp4-video-format-converter-download-the-free-tool-now/"><u>1. Easy & Fast Online FLV to MP4 Video Format Converter - Download the Free Tool Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-balanced-view-on-choosing-a-local-llm-model/"><u>A Balanced View on Choosing a Local LLM Model</u></a></li>
-<li><a href="https://win-community.techidaily.com/best-techniques-for-capturing-screenshots-on-your-iphone-8-top-3-methods/"><u>Best Techniques for Capturing Screenshots on Your iPhone 8: Top 3 Methods</u></a></li>
-<li><a href="https://win-community.techidaily.com/comprehensive-tutorial-turn-off-tracking-cookies-for-enhanced-online-security-on-any-gadget/"><u>Comprehensive Tutorial: Turn Off Tracking Cookies for Enhanced Online Security on Any Gadget</u></a></li>
-<li><a href="https://win-community.techidaily.com/creative-techniques-for-integrating-pictures-with-mp3-playlists/"><u>Creative Techniques for Integrating Pictures with MP3 Playlists</u></a></li>
-<li><a href="https://win-community.techidaily.com/exploring-cyber-threats-can-casual-internet-surfing-lead-to-malware-infection-from-deceptive-sites/"><u>Exploring Cyber Threats: Can Casual Internet Surfing Lead to Malware Infection From Deceptive Sites?</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-to-fix-an-unresponsive-video-detection-tool-while-transferring-content/"><u>How to Fix an Unresponsive Video Detection Tool While Transferring Content</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-content-creation-conundrums-understanding-the-differences-between-igtv-and-youtube/"><u>In 2024, Content Creation Conundrums Understanding the Differences Between IGTV and YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/league-of-legends-performance-tips-eliminating-latency-issues-for-smoother-gameplay/"><u>League of Legends Performance Tips: Eliminating Latency Issues for Smoother Gameplay</u></a></li>
-<li><a href="https://win-community.techidaily.com/mastering-the-conversion-transform-your-bank-statements-into-excel-files-using-apowersoft-tools/"><u>Mastering the Conversion: Transform Your Bank Statements Into Excel Files Using ApowerSoft Tools</u></a></li>
-<li><a href="https://win-community.techidaily.com/retrieve-lost-contacts-from-your-samsung-device-effortless-restoration-guide/"><u>Retrieve Lost Contacts From Your Samsung Device - Effortless Restoration Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/seamlessly-engage-fb-live-on-your-roku-screen/"><u>Seamlessly Engage FB Live on Your Roku Screen</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-major-social-media-hubs-understanding-facebook-twitter-instagram-and-youtubes-impact/"><u>The Major Social Media Hubs: Understanding Facebook, Twitter, Instagram and Youtube's Impact</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-the-best-of-both-worlds-android-video-editors-on-chromebook/"><u>Updated The Best of Both Worlds Android Video Editors on Chromebook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-access-unlimited-free-high-quality-green-screen-footage-online/"><u>[New] 2024 Approved Access Unlimited Free, High-Quality Green Screen Footage Online</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/levate-your-content-with-these-20-pro-video-shortcuts/"><u>[New] Elevate Your Content With These 20 Pro Video Shortcuts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeos-video-segments-the-chapter-creation-handbook-for-2024/"><u>[Updated] Vimeo's Video Segments The Chapter Creation Handbook for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/10-enhancements-in-the-coming-year-learn-about-pricing/"><u>10 Enhancements in the Coming Year - Learn About Pricing!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/converti-file-ogg-video-in-formato-webm-gratuitamente-con-leditor-di-movieedit-di-movavi/"><u>Converti File OGG Video in Formato WebM Gratuitamente Con L'editor Di MovieEdit Di Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/msi-counterfeit-pedal-infused-with-virus-the-danger-of-overrun-byproduct-application/"><u>MSI Counterfeit Pedal Infused with Virus: The Danger of Overrun Byproduct Application</u></a></li>
+<li><a href="https://win-community.techidaily.com/must-have-ios-8-keyboards-upgrade-your-iphone-or-ipad-input-options-today/"><u>Must-Have iOS 8 Keyboards: Upgrade Your iPhone or iPad Input Options Today!</u></a></li>
+<li><a href="https://win-community.techidaily.com/revealing-microsofts-survey-uncovering-the-surprising-shift-in-how-we-work-insights-from-31k-participants/"><u>Revealing Microsoft's Survey: Uncovering the Surprising Shift in How We Work – Insights From 31K Participants</u></a></li>
+<li><a href="https://win-community.techidaily.com/windows-11-free-upgrade-eligibility-is-it-too-late-now/"><u>Windows 11 FREE Upgrade Eligibility: Is It Too Late Now?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-710-screen-settings-preservation-how-to-fix-fixing-done/"><u>Windows 7/10 Screen Settings Preservation - How to Fix [Fixing Done]</u></a></li>
+<li><a href="https://win-community.techidaily.com/zdnets-expert-evaluation-of-the-microsoft-surface/"><u>ZDNet's Expert Evaluation of the Microsoft Surface</u></a></li>
+<li><a href="https://win-community.techidaily.com/zdnets-guide-to-boosting-the-surface-duo-2-experience-add-protective-pen-cover-and-embrace-wireless-charging-convenience/"><u>ZDNet's Guide to Boosting the Surface Duo 2 Experience: Add Protective Pen Cover and Embrace Wireless Charging Convenience!</u></a></li>
 </ul></div>
 

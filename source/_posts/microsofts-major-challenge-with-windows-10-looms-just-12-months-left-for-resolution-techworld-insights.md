@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Major Challenge with Windows 10 Looms: Just 12 Months Left for Resolution | TechWorld Insights"
-date: 2024-10-02T18:33:25.889Z
-updated: 2024-10-05T19:49:37.477Z
+date: 2024-10-04T19:37:47.017Z
+updated: 2024-10-11T03:02:26.137Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,19 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-fine-tuning-focus-closeups-on-teams/"><u>[New] 2024 Approved Fine-Tuning Focus Closeups on Teams</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-future-awaits-elevate-your-fb-chronicles-for-free/"><u>[New] 2024 Approved The Future Awaits Elevate Your FB Chronicles for FREE</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-spin-original-web-jokes-for-sharing/"><u>[New] Spin Original Web Jokes for Sharing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-vegas-pro-2021-unpacked-game-changer-or-just-another-tool-for-2024/"><u>[New] Vegas Pro 2021 Unpacked Game Changer or Just Another Tool for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-filmmakers-delight-filmoras-best-aspects-exposed/"><u>[Updated] In 2024, Filmmakers' Delight Filmora's Best Aspects Exposed</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-first-time-periscope-income-strategies-for-success/"><u>2024 Approved First-Time Periscope Income Strategies for Success</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/capture-the-blue-depths-pro-tips-for-gopro-water-filming/"><u>Capture the Blue Depths Pro Tips for GoPro Water Filming</u></a></li>
-<li><a href="https://win-community.techidaily.com/enhance-display-with-iphone-x-remove-the-notch-for-an-unobstructed-full-screen-cast-to-computer/"><u>Enhance Display with iPhone X - Remove the Notch for an Unobstructed, Full-Screen Cast to Computer!</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-secure-are-password-managers-against-cyber-attacks-and-data-breaches/"><u>How Secure Are Password Managers Against Cyber Attacks and Data Breaches?</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-guide-capturing-images-with-your-macs-screen/"><u>Step-by-Step Guide: Capturing Images with Your Mac's Screen</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-guide-eliminating-xhamster-malware-from-your-windows-computer/"><u>Step-by-Step Guide: Eliminating XHamster Malware From Your Windows Computer</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-ultimate-selection-12-free-video-players-for-pcmobile-enthusiasts-for-2024/"><u>The Ultimate Selection 12 Free Video Players for PC/Mobile Enthusiasts for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/top-3-amazing-iphone-applications-for-quick-and-easy-video-compression/"><u>Top 3 Amazing iPhone Applications for Quick and Easy Video Compression</u></a></li>
-<li><a href="https://win-community.techidaily.com/ultimate-guide-effective-techniques-for-eliminating-red-eye-in-photographs/"><u>Ultimate Guide: Effective Techniques for Eliminating Red-Eye in Photographs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-capture-and-store-videos-effortlessly-with-our-top-list/"><u>[New] In 2024, Capture & Store Videos Effortlessly with Our Top List</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-iphone-hdr-capturing-dynamic-range-in-your-images/"><u>[New] In 2024, IPhone HDR Capturing Dynamic Range in Your Images</u></a></li>
+<li><a href="https://win-community.techidaily.com/capturing-stunning-videos-from-google-earth-a-comprehensive-tutorial/"><u>Capturing Stunning Videos From Google Earth - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-community.techidaily.com/comparing-audio-experiences-apple-music-and-spotify-battle-for-supremacy/"><u>Comparing Audio Experiences: Apple Music and Spotify Battle for Supremacy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-linksys-original-login-codes-as-of-july-2024/"><u>Comprehensive Guide: Linksys Original Login Codes as of July 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-the-functionality-of-youtubes-media-hub-for-2024/"><u>Decoding the Functionality of YouTube's Media Hub for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/effortless-steps-to-access-and-save-veehd-videos/"><u>Effortless Steps to Access and Save VeeHD Videos</u></a></li>
+<li><a href="https://win-community.techidaily.com/eliminate-explicit-media-alerts-in-microsoft-pop-ups-protect-your-system-from-scams/"><u>Eliminate Explicit Media Alerts in Microsoft Pop-Ups - Protect Your System From Scams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hone-your-prompt-writing-skills-for-maximum-chatgpt-impact/"><u>Hone Your Prompt Writing Skills for Maximum ChatGPT Impact</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-to-effortlessly-synchronize-microsoft-outlook-data-onto-your-iphone-in-3-simple-steps/"><u>How to Effortlessly Synchronize Microsoft Outlook Data Onto Your iPhone in 3 Simple Steps</u></a></li>
+<li><a href="https://win-community.techidaily.com/innovative-methods-for-embedding-images-into-audio-files/"><u>Innovative Methods for Embedding Images Into Audio Files</u></a></li>
+<li><a href="https://win-community.techidaily.com/seamless-methods-for-moving-data-from-your-previous-iphone-to-the-latest-iphone-6s/"><u>Seamless Methods for Moving Data From Your Previous iPhone to the Latest iPhone 6S</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/setting-up-and-using-chatgpt-from-ubuntus-terminal-with-shell-integration-techniques/"><u>Setting Up and Using ChatGPT From Ubuntu's Terminal with Shell Integration Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/six-common-issues-that-make-iphones-run-slow-and-how-to-resolve-them/"><u>Six Common Issues That Make iPhones Run Slow and How to Resolve Them</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-the-most-recent-hp-laserjet-pro-p160n6dn-drivers-on-your-windows-machine/"><u>Step-by-Step Guide: Installing the Most Recent HP LaserJet Pro P160n6dn Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://win-community.techidaily.com/syncing-your-iphone-with-toshiba-television-a-step-by-step-guide/"><u>Syncing Your iPhone with Toshiba Television - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-mastering-roller-champions-co-op-mode/"><u>Ultimate Guide: Mastering Roller Champions Co-Op Mode</u></a></li>
 </ul></div>
 

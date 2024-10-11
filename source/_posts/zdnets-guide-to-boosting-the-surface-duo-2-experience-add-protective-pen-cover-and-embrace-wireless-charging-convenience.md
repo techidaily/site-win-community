@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Guide to Boosting the Surface Duo 2 Experience: Add Protective Pen Cover and Embrace Wireless Charging Convenience!"
-date: 2024-10-04T18:15:58.878Z
-updated: 2024-10-05T17:55:11.842Z
+date: 2024-10-07T17:13:15.325Z
+updated: 2024-10-10T19:04:20.991Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,21 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-flashback-to-fame-vimeo-glimpse/"><u>[New] Flashback to Fame Vimeo Glimpse</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-youtubes-first-visual-hook-creating-personalized-thumbnails/"><u>[New] In 2024, YouTube's First Visual Hook Creating Personalized Thumbnails</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-capturing-human-gestures-an-in-depth-guide/"><u>2024 Approved The Art of Capturing Human Gestures An In-Depth Guide</u></a></li>
-<li><a href="https://win-community.techidaily.com/enhanced-productivity-and-energy-saving/"><u>Enhanced Productivity and Energy Saving</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/essential-igtv-picks-for-a-creative-edge-for-2024/"><u>Essential IGTV Picks for a Creative Edge for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-to-fix-an-unresponsive-video-detection-tool-while-transferring-content/"><u>How to Fix an Unresponsive Video Detection Tool While Transferring Content</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Honor Play 40C? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Nokia 150 (2023)? | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/quick-guide-converting-avi-files-effortlessly-for-playback-on-an-ipad/"><u>Quick Guide: Converting AVI Files Effortlessly for Playback on an iPad</u></a></li>
-<li><a href="https://win-community.techidaily.com/retrieve-lost-contacts-from-your-samsung-device-effortless-restoration-guide/"><u>Retrieve Lost Contacts From Your Samsung Device - Effortless Restoration Guide</u></a></li>
-<li><a href="https://win-community.techidaily.com/seamless-samsung-phone-compatibility-convert-and-watch-videos-without-costs/"><u>Seamless Samsung Phone Compatibility - Convert and Watch Videos Without Costs!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/top-10-emulator-selections-for-mobile-gba-players/"><u>Top 10 Emulator Selections for Mobile GBA Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-strategies-for-restarting-nonfunctional-steam/"><u>Top Strategies for Restarting Nonfunctional Steam</u></a></li>
-<li><a href="https://win-community.techidaily.com/top-notch-services-for-converting-video-subtitles-into-multiple-languages/"><u>Top-Notch Services for Converting Video Subtitles Into Multiple Languages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/uncovering-software-flaws-with-openais-rewards-program/"><u>Uncovering Software Flaws with OpenAI's Rewards Program</u></a></li>
-<li><a href="https://win-community.techidaily.com/windows-8-tablet-ultimate-guide-to-capturing-screenshots-efficiently/"><u>Windows 8 Tablet: Ultimate Guide to Capturing Screenshots Efficiently</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-producers-roadmap-pioneering-high-quality-asmr-content/"><u>[New] 2024 Approved A Producer's Roadmap Pioneering High-Quality ASMR Content</u></a></li>
+<li><a href="https://win-community.techidaily.com/chatgpt-versus-chatgpt-plus-assessing-if-premium-features-justify-the-extra-investment-zdnet-insights/"><u>ChatGPT Versus ChatGPT Plus: Assessing If Premium Features Justify the Extra Investment | ZDNET Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cookiebot-enabled-analytics-boost-your-websites-visitor-insights/"><u>Cookiebot-Enabled Analytics: Boost Your Website's Visitor Insights</u></a></li>
+<li><a href="https://win-community.techidaily.com/elevating-your-surface-pro-ebout-experience-with-brydges-sp-max-plus-case-review-in-depth-zdnet-assessment/"><u>Elevating Your Surface Pro Ebout Experience with Brydge's SP Max Plus Case Review | In-Depth ZDNET Assessment</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-oneplus-nord-ce-3-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How OnePlus Nord CE 3 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-key-methods-to-change-music-speedplay-on-spotify/"><u>In 2024, Key Methods to Change Music Speedplay on Spotify</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-smart-8-plus-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 Plus Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/massive-outage-strikes-microsoft-365-impact-on-global-users-and-details-inside-techworld/"><u>Massive Outage Strikes Microsoft 365: Impact on Global Users & Details Inside | TechWorld</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/mastering-in-stream-ad-configurations-on-facebook-for-peak-performance/"><u>Mastering In-Stream Ad Configurations on Facebook for Peak Performance</u></a></li>
+<li><a href="https://win-community.techidaily.com/microsofts-major-challenge-with-windows-10-looms-just-12-months-left-for-resolution-techworld-insights/"><u>Microsoft's Major Challenge with Windows 10 Looms: Just 12 Months Left for Resolution | TechWorld Insights</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pazera-free-extractor-analysis-the-ultimate-guide-to-2024-sound-freedom/"><u>Pazera Free Extractor Analysis The Ultimate Guide to 2024 Sound Freedom</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-xs-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone XS and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/tech-giant-microsoft-boosts-employee-collaboration-through-enhanced-teams-features-unveiled-on-zdnet/"><u>Tech Giant Microsoft Boosts Employee Collaboration Through Enhanced Teams Features, Unveiled on ZDNet</u></a></li>
+<li><a href="https://win-community.techidaily.com/unleash-your-pcs-potential-with-powertoys-fancyzones-a-comprehensive-guide-for-windows-users-on-zdnet/"><u>Unleash Your PC's Potential with PowerToys' FancyZones - A Comprehensive Guide for Windows Users on ZDNet</u></a></li>
+<li><a href="https://win-community.techidaily.com/watching-youtube-with-microsoft-edge-just-got-smarter-introducing-ai-on-the-fly-subtitles-zdnet-insights/"><u>Watching YouTube with Microsoft Edge Just Got Smarter: Introducing AI On-the-Fly Subtitles | ZDNet Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Eliminate Explicit Media Alerts in Microsoft Pop-Ups - Protect Your System From Scams
-date: 2024-10-04T17:27:47.149Z
-updated: 2024-10-05T19:27:32.983Z
+date: 2024-10-04T00:01:35.321Z
+updated: 2024-10-10T23:58:58.008Z
 tags:
   - product
   - antivirus
@@ -94,18 +94,19 @@ If the “PORNOGRAPHIC VIRUS ALERT FROM MICROSOFT” Scam still appears on your 
 1. Right-click on the taskbar and select the **Task Manager**.  
 ![Open Task Manager](https://www.malwarefox.com/wp-content/uploads/2020/05/Open-Task-Manger.png)
 2. Watch out for the applications that are consuming the system memory even though you did not install or launch them.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Right-click on the suspicious application and open its file location.  
 ![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete the file from its root location.
 
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -122,17 +123,10 @@ Here are the steps to eliminate thre temporary files:
 5. Next right-click on the **Recycle Bin** and select **Empty Recycle Bin.**![Empty recycle bin](https://www.malwarefox.com/wp-content/uploads/2020/07/Empty-recycle-bin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Reset Web Browser Settings**
@@ -141,30 +135,31 @@ If your browser is misbehaving because of the “PORNOGRAPHIC VIRUS ALERT FROM M
 
 1. Open Chrome and navigate to **Settings** by clicking on the three-dots at the top right.![Chrome Settings](https://www.malwarefox.com/wp-content/uploads/2020/03/Chrome-Malware-Scanner-1.png)
 2. Click on advanced **Advanced**.![Chrome Advanced Settings](https://www.malwarefox.com/wp-content/uploads/2020/05/Chrome-Malware-Scanner-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Under **Reset and cleanup,** click on “**Restore settings to their original defaults.”**![Restore chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/Restore-chrome.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Select **Reset settings** on the next prompt.![reset the chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/reset-the-chrome.png)
 5. Relaunch your browser.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Install an Antimalware and Perform a Scan**
@@ -176,7 +171,27 @@ MalwareFox is reliable security software that promises to protect your system an
 1. [Download Malwarefox and install it](https://tools.techidaily.com/malwarefox/products/).
 2. Perform a full system scan to get rid of every malware that is troubling your system.![MalwareFox Antimalware](https://www.malwarefox.com/wp-content/uploads/2020/02/malwarefox.png)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Why Windows get More Virus Attacks than Mac or Linux](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Avoid such Threats?
 
@@ -195,19 +210,6 @@ NO. Microsoft is a reputed and one of the biggest software development companies
 **What do I do when Microsoft blocks my computer?** 
 
 Microsoft never blocks any computer. You see the warning of “Microsoft has blocked your computer” because a malware might have got an entry on your system and triggered the fake message to spread the spam.
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -234,18 +236,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-multi-view-magic-is-splitcam-prime/"><u>[Updated] 2024 Approved Multi-View Magic Is SplitCam Prime?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-comparative-review-smartphone-usage-of-the-leading-video-apps/"><u>[Updated] In 2024, Comparative Review Smartphone Usage of the Leading Video Apps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-enlightened-approach-to-youtube-titles-with-ai/"><u>2024 Approved Enlightened Approach to YouTube Titles with AI</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-instantaneous-frame-construction-facebook-photo-groups/"><u>2024 Approved Instantaneous Frame Construction Facebook Photo Groups</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-revive-lost-media-icons-on-facebook-users/"><u>2024 Approved Revive Lost Media Icons on Facebook Users</u></a></li>
-<li><a href="https://win-community.techidaily.com/exploring-cyber-threats-can-casual-internet-surfing-lead-to-malware-infection-from-deceptive-sites/"><u>Exploring Cyber Threats: Can Casual Internet Surfing Lead to Malware Infection From Deceptive Sites?</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-protect-your-creative-assets-a-quick-guide-to-saving-fcp-projects/"><u>New 2024 Approved Protect Your Creative Assets A Quick Guide to Saving FCP Projects</u></a></li>
-<li><a href="https://win-community.techidaily.com/simple-techniques-for-quick-mp4-video-downsizing/"><u>Simple Techniques for Quick MP4 Video Downsizing</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-guide-connecting-your-android-device-with-philips-smart-tv/"><u>Step-by-Step Guide: Connecting Your Android Device with Philips Smart TV</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-instructions-crafting-personalized-screensaver-designs-for-iphone-devices/"><u>Step-by-Step Instructions: Crafting Personalized Screensaver Designs for iPhone Devices</u></a></li>
-<li><a href="https://win-community.techidaily.com/the-ultimate-pick-discover-the-4-premier-watermark-applications-for-your-mac/"><u>The Ultimate Pick: Discover the 4 Premier Watermark Applications for Your Mac</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-10-free-graphics-websites-a-compreran-analysis-for-2024/"><u>Top 10 FREE Graphics Websites A Compreran Analysis for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/troubleshooting-steps-for-when-malwarebytes-wont-launch-insights-and-solutions/"><u>Troubleshooting Steps for When Malwarebytes Won’t Launch: Insights & Solutions</u></a></li>
+<li><a href="https://win-community.techidaily.com/best-free-sound-recording-software-compatible-with-windows-8/"><u>Best Free Sound Recording Software Compatible with Windows 8</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypass-maplestorys-initial-hurdles-and-dive-into-the-game-seamlessly/"><u>Bypass MapleStory's Initial Hurdles & Dive Into the Game Seamlessly</u></a></li>
+<li><a href="https://win-community.techidaily.com/complete-tutorial-on-restoring-data-from-an-iphones-with-malfunctions/"><u>Complete Tutorial on Restoring Data From an iPhones with Malfunctions</u></a></li>
+<li><a href="https://win-community.techidaily.com/cross-platform-fixes-resolving-audio-recording-issues-on-windows-and-macos-systems/"><u>Cross-Platform Fixes: Resolving Audio Recording Issues on Windows & macOS Systems</u></a></li>
+<li><a href="https://win-community.techidaily.com/detecting-stealthy-device-admins-in-android-learn-to-eliminate-them-with-expert-tips-from-malwarefox/"><u>Detecting Stealthy Device Admins in Android? Learn to Eliminate Them with Expert Tips From MalwareFox</u></a></li>
+<li><a href="https://win-community.techidaily.com/diy-penguin-fun-how-to-design-and-share-bing-dwen-dwen-stickers-via-whatsapp/"><u>DIY Penguin Fun: How to Design and Share Bing Dwen Dwen Stickers via WhatsApp</u></a></li>
+<li><a href="https://win-community.techidaily.com/guide-reducing-background-sound-interference-in-your-recorded-footage/"><u>Guide: Reducing Background Sound Interference in Your Recorded Footage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-12-pro-max-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 12 Pro Max</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transferring-visuals-from-mac-to-tv-mastering-the-art-of-airplay-connections/"><u>Transferring Visuals From Mac to TV: Mastering the Art of AirPlay Connections</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unboxed-and-unleashed-whats-inside-the-revamped-apple-tv-4k-series-6/"><u>Unboxed and Unleashed: What's Inside the Revamped Apple TV 4K Series 6?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-creativity-in-character-design-using-our-ultimate-list-of-11-chatgpt-writing-hacks/"><u>Unleash Creativity in Character Design Using Our Ultimate List of 11 ChatGPT Writing Hacks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-poco-m6-pro-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Poco M6 Pro 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

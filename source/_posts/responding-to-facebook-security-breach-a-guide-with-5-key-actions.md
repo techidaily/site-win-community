@@ -1,7 +1,7 @@
 ---
 title: "Responding to Facebook Security Breach: A Guide with 5 Key Actions"
-date: 2024-10-03T19:18:45.890Z
-updated: 2024-10-05T19:09:57.472Z
+date: 2024-10-08T16:11:31.626Z
+updated: 2024-10-10T21:30:05.675Z
 tags:
   - product
   - antivirus
@@ -64,6 +64,13 @@ Now, also you should check for these things.
 
 [Facebook Messenger Virus: How to Stay Safe](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Check for these Suspicious Activities on Facebook
 
 * Check your inbox to see if any suspicious messages or ads the hacker sent to your friends or unknown people.
@@ -73,9 +80,23 @@ Now, also you should check for these things.
 
 Now, once you’re sure your account has been hacked, follow the below steps to secure your FB account.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Things to do When your Facebook Account is Hacked
 
 Below are some of the things to do when your Facebook Account is Hacked
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Change your Facebook Account Password
 
@@ -84,20 +105,13 @@ If the hacker has not changed your password yet, you’re in luck. Just log in t
 ![](https://www.malwarefox.com/wp-content/uploads/2017/11/Change-Password.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 I highly recommend using a secure password manager to avoid recurrences of the incident.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Reset your Facebook Account Password
 
@@ -115,19 +129,6 @@ Facebook takes its security very seriously and would like to know if someone has
 
 ![](https://www.malwarefox.com/wp-content/uploads/2017/11/Hacked.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The best thing here is to [report your account as compromised](https://www.facebook.com/hacked/). Facebook will even help you recover your account in the best way possible.
 
 [How to Remove Facebook from your Life](https://tools.techidaily.com/malwarefox/products/)
@@ -140,18 +141,18 @@ Once you have access to your facebook account, go to **Settings> Apps**. Now cli
 
 Here, you can change the information it can access and the control over your Facebook posts for each app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Caution your Friends and Family
 
 Once your account has been hacked or compromised, do damage control and caution your friends and family. There might be a possibility where the hacker tries to get access to your friends and family’s information by posting a spammy link on your account.
 
 Informing them beforehand will help them stay cautious and on alert for any suspicious activity on your account.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Secure your Facebook Account
 
@@ -167,17 +168,24 @@ Additionally, you should also make sure to install a secure antivirus solution a
 
 Stay Safe & Secure on Your Social Media.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2 thoughts on “5 Things to do when your Facebook Account is Hacked”
 
 1. ![](https://secure.gravatar.com/avatar/0898371ba1bf774c026488800f3e89b3?s=50&d=mm&r=g)  
 Janet O'Dea  
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [September 11, 2022 at 9:13 pm](https://tools.techidaily.com/malwarefox/products/)  
 I’ve been told by existing FB friends that they have received a friends request from me.  
 Presumably that means that I’ve been hacked. I’ve warned everyone not to open any requests from me.  
@@ -188,22 +196,15 @@ Can you please advise what I should do to rectify this without losing all my con
 Pamela  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [March 26, 2023 at 5:39 pm](https://tools.techidaily.com/malwarefox/products/)  
 I was hacked in February. I uploaded my ID to prove that I am the owner of the account. I got no response. I also reported my account as hacked. Facebook sent me an email telling me my account doesn’t violate community standards, so they won’t take it down. The real message I am getting from them is that the hacker, who stole my account of 15 years has the right to do whatever he wants with because he isn’t posting anything offensive to get it taken down, but me, who was the owner of the account, has no rights whatsoever. If I find a solution to your question , I will pass it along.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -230,20 +231,17 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-unlocking-visual-magic-diy-animation-and-fx-crafts/"><u>[New] In 2024, Unlocking Visual Magic DIY Animation and FX Crafts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-tricks-in-sports-video-production/"><u>[New] Top Tricks in Sports Video Production</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-best-compatible-drone-models-with-gopro-cameras/"><u>2024 Approved Best Compatible Drone Models with GoPro Cameras</u></a></li>
-<li><a href="https://win-community.techidaily.com/direct-display-transfer-guide-on-televising-your-oneplus-7/"><u>Direct Display Transfer: Guide on Televising Your OnePlus 7</u></a></li>
-<li><a href="https://win-community.techidaily.com/discreetly-capturing-snaps-a-guide-to-unseen-screenshots-on-snapchat/"><u>Discreetly Capturing Snaps: A Guide to Unseen Screenshots on Snapchat</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-infinix-gt-10-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Infinix GT 10 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-90-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Honor 90 Pro Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-securely-growing-your-channels-popularity-a-one-million-goal-guide/"><u>In 2024, Securely Growing Your Channel's Popularity A One-Million Goal Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/navigating-the-wizarding-world-of-harry-potter-tips-and-tricks-for-playing-hogwarts-mystery-on-your-computer/"><u>Navigating the Wizarding World of Harry Potter: Tips and Tricks for Playing Hogwarts Mystery on Your Computer</u></a></li>
-<li><a href="https://win-community.techidaily.com/the-ultimate-guide-to-the-most-secure-personal-messaging-platforms-ranking-the-top-five/"><u>The Ultimate Guide to the Most Secure Personal Messaging Platforms: Ranking the Top Five</u></a></li>
-<li><a href="https://win-community.techidaily.com/top-7-knowledge-management-solutions-to-boost-your-business-in-2020/"><u>Top 7 Knowledge Management Solutions to Boost Your Business in 2020</u></a></li>
-<li><a href="https://win-community.techidaily.com/top-rated-no-cost-pdf-editor-available-for-downloading-on-windows-11-systems/"><u>Top Rated No-Cost PDF Editor Available for Downloading on Windows 11 Systems</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-adobe-premiere-essentials-top-20-free-title-and-intro-templates-for-2024/"><u>Updated Adobe Premiere Essentials Top 20 Free Title and Intro Templates for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-iphone-camera-apps-for-pro-shots-and-free-use/"><u>[New] Best iPhone Camera Apps for Pro Shots and Free Use</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-flawless-transcription-mastery-with-googles-ai/"><u>[Updated] Flawless Transcription Mastery with Google's AI</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unleash-creativity-how-to-elegantly-add-descriptive-elements-in-photos-for-windows-and-macos-for-2024/"><u>[Updated] Unleash Creativity How to Elegantly Add Descriptive Elements in Photos for Windows & MacOS for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/avoid-potential-risks-to-your-mobile-device-with-malwarefoxs-your-phone-may-be-in-danger-chrome-safeguard-tips/"><u>Avoid Potential Risks to Your Mobile Device with MalwareFox's 'Your Phone May Be in Danger' Chrome Safeguard Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-picks-explore-the-best-new-windows-10-apps-and-games/"><u>In 2024, Top Picks Explore the Best New Windows 10 Apps and Games</u></a></li>
+<li><a href="https://win-community.techidaily.com/leading-software-solutions-for-quickly-erasing-words-in-photographs/"><u>Leading Software Solutions for Quickly Erasing Words in Photographs</u></a></li>
+<li><a href="https://win-community.techidaily.com/quick-and-simple-techniques-for-converting-m4a-audio-to-wav-format/"><u>Quick and Simple Techniques for Converting M4A Audio to WAV Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-a-broken-spacebar-under-windows-11/"><u>Solving the Issue of a Broken Spacebar Under Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-squad-life-the-series-sx-experience/"><u>Step Into Squad Life: The Series S/X Experience</u></a></li>
+<li><a href="https://win-community.techidaily.com/syncing-your-iphone-with-toshiba-television-a-step-by-step-guide/"><u>Syncing Your iPhone with Toshiba Television - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-redmi-a2-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/why-virtual-reality-lack-of-content/"><u>Why Virtual Reality Lack of Content?</u></a></li>
 </ul></div>
 
