@@ -1,7 +1,7 @@
 ---
 title: "Simplified Steps: Modify iPhone's Address Book Using Your Computer"
-date: 2024-10-30T17:00:44.830Z
-updated: 2024-11-03T17:00:17.796Z
+date: 2024-11-06T17:12:53.169Z
+updated: 2024-11-12T18:07:53.096Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/250855bb01ff5d1f68da39bedfd2fea2571983e53726cd5cc186abc1510baddd.jpg
@@ -35,6 +35,13 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
 NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d'autres périphériques.
@@ -44,26 +51,13 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -112,6 +106,13 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
@@ -133,17 +134,16 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -161,6 +161,13 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -194,13 +201,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -218,20 +218,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-essential-2023-social-media-video-exploration/"><u>[New] In 2024, The Essential 2023 Social Media Video Exploration</u></a></li>
-<li><a href="https://win-community.techidaily.com/5lplusd5a2y56e75yqo6k6plus5ash55u45py65zuplus5yop77ya5lit5a625yig5lqr6k6w5bplusg5y2h5ou36lsd5oqa5ben/"><u>保存移动设备相机图像：专家分享记忆卡拷贝技巧</u></a></li>
-<li><a href="https://win-community.techidaily.com/1728509926570-usb/"><u>重現失去的文件：使用命令提示符從USB中尋回被隱藏的檔案</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Vivo V30 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/efficient-steps-for-setting-up-a-norton-ghost-enabled-usb-flash-drive-across-windows-versions-11-8-7/"><u>Efficient Steps for Setting Up a Norton Ghost-Enabled USB Flash Drive Across Windows Versions (11, 8, 7)</u></a></li>
-<li><a href="https://win-community.techidaily.com/erfahren-sie-wie-sie-die-bildubertragung-von-einer-alten-auf-eine-neue-festplatte-mithilfe-zweier-methoden-durchfuhren-konnen/"><u>Erfahren Sie, Wie Sie Die Bildübertragung Von Einer Alten Auf Eine Neue Festplatte Mithilfe Zweier Methoden Durchführen Können</u></a></li>
-<li><a href="https://win-answers.techidaily.com/far-cry-6-pc-stability-issues-resolved-top-troubleshooting-tips/"><u>Far Cry 6 PC Stability Issues Resolved: Top Troubleshooting Tips</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-to-safely-delete-backup-files-from-your-hard-drive-in-windows-11/"><u>How to Safely Delete Backup Files From Your Hard Drive in Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-note-13-proplus-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi Redmi Note 13 Pro+ 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-latvian-super-fast-a-daily-dedication/"><u>Learn Latvian Super Fast: A Daily Dedication</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pathfinder-pc-play-no-more-discover-how-to-fix-wrath-of-the-rightees-freezing-problem-in-these-simple-steps/"><u>Pathfinder PC Play No More! Discover How to Fix 'Wrath of the Rightee's Freezing Problem in These Simple Steps</u></a></li>
-<li><a href="https://win-community.techidaily.com/sencillo-migrate-de-backup-de-windows-server-20122008-a-un-nuevo-sistema/"><u>Sencillo Migrate De Backup De Windows Server 2012/2008 a Un Nuevo Sistema</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-analysis-choosing-between-an-in-place-update-or-a-complete-reinstallation-for-your-windows-server/"><u>Step-by-Step Analysis: Choosing Between an In-Place Update or a Complete Reinstallation for Your Windows Server</u></a></li>
-<li><a href="https://win11.techidaily.com/top-4-portable-windows-platforms/"><u>Top 4 Portable Windows Platforms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-navigating-the-world-of-drone-video-manipulation/"><u>[New] 2024 Approved Navigating the World of Drone Video Manipulation</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unveiling-secrets-the-best-dronescopic-stabilizers-reviewed/"><u>[New] Unveiling Secrets The Best Dronescopic Stabilizers Reviewed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-transforming-your-spotify-list-into-a-youtube-music-collection/"><u>[Updated] Transforming Your Spotify List Into a YouTube Music Collection</u></a></li>
+<li><a href="https://win-community.techidaily.com/ai/"><u>重現 AI 檔案：解決方法對應電腦故障和無意中清空</u></a></li>
+<li><a href="https://article-helps.techidaily.com/customize-and-download-free-outro-video-templates/"><u>Customize and Download Free Outro Video Templates</u></a></li>
+<li><a href="https://win-community.techidaily.com/deciphering-in-page-cpu-faults-uncovering-and-fixing-the-core-issues/"><u>Deciphering In-Page CPU Faults: Uncovering & Fixing the Core Issues</u></a></li>
+<li><a href="https://win-community.techidaily.com/le-guide-complet-pour-recuperer-vos-donnees-sur-un-ssd-samsung-decouvrez-2-methodes-provenant-favorablement/"><u>Le Guide Complet Pour Récupérer Vos Données Sur Un SSD Samsung : Découvrez 2 Méthodes Provenant Favorablement</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/maintaining-youtube-like-video-quality-on-twitter-for-2024/"><u>Maintaining YouTube-Like Video Quality on Twitter for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-gpt-capabilities-for-financial-success/"><u>Maximizing GPT Capabilities for Financial Success</u></a></li>
+<li><a href="https://facebook.techidaily.com/messenger-and-instagram-to-get-smarter-with-facebooks-texting-tech-update/"><u>Messenger and Instagram to Get Smarter with Facebook's Texting Tech Update</u></a></li>
+<li><a href="https://win-community.techidaily.com/quick-steps-for-full-mysql-data-preservation-across-various-windows-environments-from-desktop-to-server-setup/"><u>Quick Steps for Full MySQL Data Preservation Across Various Windows Environments: From Desktop to Server Setup</u></a></li>
+<li><a href="https://win-community.techidaily.com/revive-your-lost-files-simple-strategies-for-undeleting-documents-effectiveness-confirmed/"><u>Revive Your Lost Files: Simple Strategies for Undeleting Documents [Effectiveness Confirmed]</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/stitch-ppt-tiles-into-video-mosaic/"><u>Stitch PPT Tiles Into Video Mosaic</u></a></li>
+<li><a href="https://win-community.techidaily.com/the-ultimate-top-5-substitutes-for-syncplicity-ensuring-security-and-dependability/"><u>The Ultimate Top 5 Substitutes for Syncplicity: Ensuring Security and Dependability</u></a></li>
+<li><a href="https://win-hot.techidaily.com/ultimate-guide-mastering-the-art-of-playing-bud-on-your-computer/"><u>Ultimate Guide: Mastering the Art of Playing Bud on Your Computer</u></a></li>
+<li><a href="https://win-community.techidaily.com/wie-sie-mit-diesen-drei-tricks-verborgene-ordner-in-windows-11-sichtbar-machen-konnen/"><u>Wie Sie Mit Diesen Drei Tricks Verborgene Ordner in Windows 11 Sichtbar Machen Können</u></a></li>
 </ul></div>
 
