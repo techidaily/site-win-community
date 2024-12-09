@@ -1,7 +1,7 @@
 ---
 title: "Access PCDJ's New Release: DEX Version 3.4 – Start Your Beat Mixing Journey Here"
-date: 2024-11-29T16:10:56.067Z
-updated: 2024-11-30T18:57:08.020Z
+date: 2024-12-01T17:22:20.535Z
+updated: 2024-12-08T17:40:25.771Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,22 +93,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-10-instagram-story-viewers-to-watch-instagram-stories-anonymously-for-2024/"><u>[Updated] 10 Instagram Story Viewers to Watch Instagram Stories Anonymously for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-rhythm-reconstructor-bundle-for-2024/"><u>[Updated] Rhythm Reconstructor Bundle for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-top-trending-images-tales-behind-the-graphics-for-2024/"><u>[Updated] Top Trending Images Tales Behind the Graphics for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-motorola-moto-g24-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Motorola Moto G24? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/chrome/"><u>Chromeのダウンロードファイルはなぜ自動的に消去されますか?</u></a></li>
-<li><a href="https://win-community.techidaily.com/come-clonare-windows-ebraico-o-copiarlo-in-una-chivetta-usb-avviabile-passo-dopo-passaggio/"><u>Come Clonare Windows Ebraico O Copiarlo in Una Chivetta USB Avviabile - Passo Dopo Passaggio</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/connect-with-us-at-digiarty-pioneering-innovative-solutions-for-the-digital-era/"><u>Connect with Us at DigiArty - Pioneering Innovative Solutions for the Digital Era</u></a></li>
-<li><a href="https://win-community.techidaily.com/effortless-transition-top-methods-for-upgrading-your-pc-with-a-new-windows-10-ssd-installation/"><u>Effortless Transition: Top Methods for Upgrading Your PC with a New Windows 10 SSD Installation</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-xiaomi-civi-3-disney-100th-anniversary-edition-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Xiaomi Civi 3 Disney 100th Anniversary Edition Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-primes-trending-topics-highest-tweets-and-watch-count-achievements/"><u>In 2024, Prime’s Trending Topics Highest Tweets & Watch Count Achievements</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-your-ultimate-guide-to-top-5-ios-tools-for-extracting-facebook-videos/"><u>In 2024, Your Ultimate Guide to Top 5 iOS Tools for Extracting Facebook Videos</u></a></li>
-<li><a href="https://win-community.techidaily.com/lawan-kekecewaan-memulai-pemulihan-data-onedrive-setelah-hafiskan-berkhsian/"><u>Lawan Kekecewaan, Memulai Pemulihan Data OneDrive Setelah Hafiskan Berkhsian!</u></a></li>
-<li><a href="https://win-community.techidaily.com/top-11-substitutes-for-druva-expertly-reviewed-cloud-backup-and-data-security-options/"><u>Top 11 Substitutes for Druva: Expertly Reviewed Cloud Backup & Data Security Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-why-consumers-opt-for-macbook-pros-despite-display-issues-the-zdnet-analysis/"><u>Unveiling Why Consumers Opt for MacBook Pros Despite Display Issues – The ZDNet Analysis</u></a></li>
-<li><a href="https://win-community.techidaily.com/wie-sie-ihre-samsung-datentrager-reibungslos-auf-kompaktere-solid-state-laufwerke-migrieren-professionelle-losungen/"><u>Wie Sie Ihre Samsung-Datenträger Reibungslos Auf Kompaktere Solid-State-Laufwerke Migrieren | Professionelle Lösungen</u></a></li>
-<li><a href="https://win-community.techidaily.com/windowsonedrive/"><u>Windows用者的技巧：如何順利使OneDrive在二機間互相更新</u></a></li>
-<li><a href="https://win-community.techidaily.com/1728495159528-ssd/"><u>セキュリティ抹消されたSSDから情報を取り戻す技術</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/arnings-in-the-virtual-playground/"><u>[New] Earnings in the Virtual Playground</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-easy-and-fast-youtubes-best-subtitle-getters-for-2024/"><u>[Updated] Free, Easy and Fast YouTube's Best Subtitle Getters for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/asian-equity-markets-surge-as-china-implements-favorable-stamp-duty-policies-early-trading-shows-positive-movement-with-singapore-stocks-climbing-by-105-ami4/"><u>Asian Equity Markets Surge as China Implements Favorable Stamp Duty Policies; Early Trading Shows Positive Movement, with Singapore Stocks Climbing by 1.05% Amidst Anticipation of US Jobs and Inflation Figures - YL Computing Insights</u></a></li>
+<li><a href="https://win-community.techidaily.com/beat-the-heat-advanced-techniques-for-preventing-computer-overheating-by-yl-software-professionals/"><u>Beat the Heat: Advanced Techniques for Preventing Computer Overheating by YL Software Professionals</u></a></li>
+<li><a href="https://win-community.techidaily.com/crafting-a-successful-strategy-mobile-dj-business-planning-part-2-explained-in-video/"><u>Crafting a Successful Strategy: Mobile DJ Business Planning [Part 2] Explained in Video</u></a></li>
+<li><a href="https://win-community.techidaily.com/dynamic-catwoman-wallpapers-and-desktop-backgrounds-high-quality-visual-content-by-yl-computing/"><u>Dynamic Catwoman Wallpapers & Desktop Backgrounds - High-Quality Visual Content by YL Computing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/introducing-lyrx-premium-karaoke-studio-tailored-for-mac-enthusiasts-and-dj-pros/"><u>Introducing Lyrx: Premium Karaoke Studio Tailored for Mac Enthusiasts and DJ Pros!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-boosts-geforce-210-performance-on-win10-os/"><u>NVIDIA Boosts GeForce 210 Performance on WIN10 OS</u></a></li>
+<li><a href="https://win-community.techidaily.com/revolutionize-your-data-gathering-with-yls-latest-tool-effortlessly-extract-tweets-using-yl-web-scraper-solutions-by-yl-software/"><u>Revolutionize Your Data Gathering with YL's Latest Tool – Effortlessly Extract Tweets Using YL Web Scraper | Solutions by YL Software</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-guide-downloading-videos-from-vine-and-youtube-for-free/"><u>Step-by-Step Guide: Downloading Videos From Vine and YouTube for Free</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/troubleshooting-guide-solving-vlc-casting-problems-and-resolving-black-screen-errors/"><u>Troubleshooting Guide: Solving VLC Casting Problems & Resolving Black Screen Errors</u></a></li>
+<li><a href="https://win-community.techidaily.com/understanding-bsod-detecting-potential-hardware-faults-with-expert-advice-from-yl-computing-solutions/"><u>Understanding BSOD: Detecting Potential Hardware Faults with Expert Advice From YL Computing Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/vlog-edit-mastery-harnessing-the-power-of-jump-cuts-for-2024/"><u>Vlog Edit Mastery Harnessing the Power of Jump Cuts for 2024</u></a></li>
 </ul></div>
 

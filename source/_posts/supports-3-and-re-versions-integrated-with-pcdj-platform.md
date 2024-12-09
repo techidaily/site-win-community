@@ -1,7 +1,7 @@
 ---
 title: Supports 3 and RE Versions - Integrated With PCDJ Platform
-date: 2024-11-25T19:24:42.202Z
-updated: 2024-11-30T16:00:04.099Z
+date: 2024-12-07T01:55:26.763Z
+updated: 2024-12-09T01:48:11.278Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Priced at only $249 on most online DJ equipment retailer websites, the **DDJ-SB3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s a Look at the Key Features of the Pioneer DJ DDJ-SB3 Digital DJ Controller
@@ -51,7 +51,7 @@ Priced at only $249 on most online DJ equipment retailer websites, the **DDJ-SB3
 _Have questions about the **Pioneer DJ DDJ-SB3** **DJ controller** and how it works with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments sections below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,24 +73,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/04/DDJ-SB3-NOWDEX3SUPPORTED.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-magix-music-maker-2024-the-next-generation-software/"><u>[New] Magix Music Maker 2024 The Next Generation Software?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-features-that-make-ion-air-pro-3-stand-out/"><u>[Updated] Exploring the Features that Make ION Air Pro 3 Stand Out</u></a></li>
-<li><a href="https://win-community.techidaily.com/1-kostenloos-ervaren-usb-slot-opsluiting-voor-persoonlijke-fixturen-gebruik-niet-vendors/"><u>1. Kostenloos: Ervaren USB-Slot Opsluiting Voor Persoonlijke Fixturen, Gebruik Niet Vendors!</u></a></li>
-<li><a href="https://win-community.techidaily.com/1-ritrova-gratuitamente-i-tuoi-dati-dopo-la-formattazione-del-disco-rigido/"><u>1. Ritrova Gratuitamente I Tuoi Dati Dopo La Formattazione Del Disco Rigido</u></a></li>
-<li><a href="https://win-community.techidaily.com/5aac5l2v5lul6zu25oiq5pys5ogi5asn5yig6zmk5zco55qe5pah5lu277ya6leo5lin5zcm5oof5b2i55qe5oyh5y2x5lio5pa55rov/"><u>如何以零成本恢复删除后的文件：跨不同情形的指南与方法</u></a></li>
-<li><a href="https://win-community.techidaily.com/hddwindows-n/"><u>HDD画像バックアップ作成に必要なWindows Nタブ記述文</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-to-resolve-the-rpc-server-unavailable-issue-during-windows-11-backup-a-step-by-step-guide/"><u>How to Resolve the 'RPC Server Unavailable' Issue During Windows 11 Backup: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-motorola-moto-e13-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Motorola Moto E13</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-assessment-of-the-enhanced-apple-watch-series-grower-is-it-possible-for-you-to-explain-how-these-titles-are-effective/"><u>In-Depth Assessment of the Enhanced Apple Watch Series Grower. Is It Possible for You to Explain How These Titles Are Effective?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-new-chromecast-with-google-tv-a-rival-to-amazons-firetv/"><u>In-Depth Look at the New Chromecast with Google TV - A Rival to Amazon's FireTV?</u></a></li>
-<li><a href="https://win-community.techidaily.com/problemlosen-fur-fehlercode-0x8078006b-bei-der-windows-sicherung-zwei-praktische-methoden-erklart/"><u>Problemlösen Für Fehlercode 0X8078006b Bei Der Windows Sicherung: Zwei Praktische Methoden Erklärt</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-solutions-for-overcoming-dells-black-screen-problem-post-boot-up-logo/"><u>Step-by-Step Solutions for Overcoming Dell's Black Screen Problem Post Boot-Up Logo</u></a></li>
-<li><a href="https://win-community.techidaily.com/transferir-archivos-ios-sin-problemas-con-la-herramienta-para-telefonos-una-guia-completa/"><u>Transferir Archivos iOS Sin Problemas Con La Herramienta Para Teléfonos: Una Guía Completa</u></a></li>
-<li><a href="https://win-community.techidaily.com/understanding-the-role-of-backup-in-hyper-v-environments-essential-guide/"><u>Understanding the Role of Backup in Hyper-V Environments - Essential Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-wi-fi-calling-a-comprehensive-guide/"><u>Understanding Wi-Fi Calling: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unlock-seamless-gaming-how-to-attain-optimal-frame-rates-and-reduce-stuttering-with-advanced-fps-methods/"><u>Unlock Seamless Gaming: How To Attain Optimal Frame Rates and Reduce Stuttering with Advanced FPS Methods</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unveiling-the-power-of-photos-a-comprehensive-polarr-guide-for-2024/"><u>Unveiling the Power of Photos A Comprehensive Polarr Guide for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-avid-creators-gif-guide-from-tiktok-to-graphic-art-for-2024/"><u>[New] Avid Creators' GIF Guide From TikTok to Graphic Art for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-advanced-techniques-sending-subtitles-to-instagram-linkedin/"><u>[New] In 2024, Advanced Techniques Sending Subtitles to Instagram, LinkedIn</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ultimate-roguelike-rankings-the-best-10-games/"><u>[New] Ultimate Roguelike Rankings The Best 10 Games</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-secure-story-spectatorship-techniques-for-desktopandroidios-devices-at-no-cost/"><u>[Updated] Secure Story Spectatorship Techniques for Desktop/Android/iOS Devices (At No Cost)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-youtubes-monetizing-potential-with-strategic-short-videos/"><u>2024 Approved Unlock YouTube's Monetizing Potential with Strategic Short Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/avchd-on-redmi-13c-convert-mts-for-redmi-13c-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD on Redmi 13C-convert MTS for Redmi 13C</u></a></li>
+<li><a href="https://win-community.techidaily.com/bypassing-windows-defender-for-file-protection-strategies-and-insights-your-life-with-computers/"><u>Bypassing Windows Defender for File Protection: Strategies & Insights - Your Life with Computers</u></a></li>
+<li><a href="https://win-community.techidaily.com/discover-your-gpu-model-easy-guide-to-identifying-your-graphics-card-tech-insight/"><u>Discover Your GPU Model: Easy Guide to Identifying Your Graphics Card - Tech Insight</u></a></li>
+<li><a href="https://win-community.techidaily.com/fixing-lan-troubles-on-your-laptop-or-desktop-guidance-by-yl-computing-and-yl-software-experts/"><u>Fixing LAN Troubles on Your Laptop or Desktop - Guidance by YL Computing & YL Software Experts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-speak-with-style-mastering-the-art-of-altering-vocal-effects-on-snapchat/"><u>In 2024, Speak with Style Mastering the Art of Altering Vocal Effects on Snapchat</u></a></li>
+<li><a href="https://win-community.techidaily.com/is-crypto-truly-safe-for-your-finances-expert-analysis-by-yl-computing-and-yl-software-teams/"><u>Is Crypto Truly Safe for Your Finances? Expert Analysis by YL Computing & YL Software Teams</u></a></li>
+<li><a href="https://win-community.techidaily.com/troubleshooting-unresponsive-laps-with-dead-batteries-and-more-solutions-by-yl-tech-experts/"><u>Troubleshooting Unresponsive Laps with Dead Batteries & More - Solutions by YL Tech Experts</u></a></li>
+<li><a href="https://win-community.techidaily.com/unlimited-sing-along-explore-the-latest-song-library-in-karaoke-cloud-pro-by-pcdj/"><u>Unlimited Sing-Along: Explore the Latest Song Library in Karaoke Cloud Pro by PCDJ!</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-galaxy-s24-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Galaxy S24 Ultra</u></a></li>
+<li><a href="https://win-community.techidaily.com/yl-computing-premium-vegas-themed-backgrounds-wallpapers-and-graphics-for-your-pc/"><u>YL Computing: Premium Vegas-Themed Backgrounds, Wallpapers, and Graphics for Your PC</u></a></li>
 </ul></div>
 

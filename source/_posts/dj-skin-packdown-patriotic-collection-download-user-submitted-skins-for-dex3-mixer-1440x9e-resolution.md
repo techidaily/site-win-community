@@ -1,7 +1,7 @@
 ---
 title: DJ Skin Packdown! Patriotic Collection - Download User-Submitted Skins for DEX3 Mixer (1440X9e Resolution)
-date: 2024-11-27T18:24:43.005Z
-updated: 2024-11-30T19:16:27.199Z
+date: 2024-12-05T18:58:42.746Z
+updated: 2024-12-09T01:35:44.915Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ Download the skin below and be sure to let Emiliano know what you think of his D
 _Have a skin you wish to submit and share with the PCDJ community? Email us at [submit@pcdj.com](https://tools.techidaily.com/pcdj/products/)_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -54,21 +54,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/skinpack-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-novice-film-capture-scrutiny-report-for-2024/"><u>[New] Novice Film Capture Scrutiny Report for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-the-complete-laptop-and-mobile-manual-for-old-fb-stories/"><u>[New] The Complete Laptop & Mobile Manual for Old FB Stories</u></a></li>
-<li><a href="https://win-community.techidaily.com/1728476956499-hddssd/"><u>卓越シェアソフトウェア：HDDを高速SSDにスムーズコピーする手引き</u></a></li>
-<li><a href="https://win-community.techidaily.com/einrichten-von-event-gesteuerten-sicherungskopien-fur-besondere-anlasse/"><u>Einrichten Von Event-Gesteuerten Sicherungskopien Für Besondere Anlässe</u></a></li>
-<li><a href="https://win-community.techidaily.com/guida-facile-e-veloce-per-trasferire-il-tuo-concessionario-windows-11-in-meno-di-5-minuti/"><u>Guida Facile E Veloce per Trasferire Il Tuo Concessionario Windows 11 in Meno Di 5 Minuti</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-explore-the-world-of-video-calls-hangouts-for-android/"><u>In 2024, Explore the World of Video Calls Hangouts for Android</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-infinix-note-30-vip-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Infinix Note 30 VIP Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6s Plus Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-snap-share-repeat-the-ultimate-ps4-screenshot-sharing-guide/"><u>New In 2024, Snap, Share, Repeat The Ultimate PS4 Screenshot Sharing Guide</u></a></li>
-<li><a href="https://win-community.techidaily.com/no-puedes-ejecutar-windows-11-en-este-pc-estas-son-las-soluciones-y-consejos-de-evitacion-mas-efectivas/"><u>No Puedes Ejecutar Windows 11 en Este PC? Estas Son Las Soluciones Y Consejos De Evitación Más Efectivas</u></a></li>
-<li><a href="https://win-community.techidaily.com/quick-fixes-for-lenovos-0xc000021a-blue-screen-of-death/"><u>Quick Fixes for Lenovo's 0xC000021A Blue Screen of Death</u></a></li>
-<li><a href="https://win-community.techidaily.com/retrouvez-votre-document-perdu-sans-probleme-3-astuces-pratiques-pour-la-restauration-de-fichiers-en-ligne/"><u>Retrouvez Votre Document Perdu Sans Problème: 3 Astuces Pratiques Pour La Restauration De Fichiers en Ligne</u></a></li>
-<li><a href="https://win-community.techidaily.com/send-special-offers-via-email/"><u>Send Special Offers via Email</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-epic-journey-through-memory-lane-advanced-methods-for-capturing-your-sims-digital-adventures/"><u>The Epic Journey Through Memory Lane Advanced Methods for Capturing Your Sims' Digital Adventures</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-tips-for-boosting-gameplay-smoothness-eliminate-fps-drops-on-your-pc/"><u>Top Tips for Boosting Gameplay Smoothness: Eliminate FPS Drops on Your PC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-making-money-with-media-mastery-of-merchandise-musings/"><u>[New] Making Money with Media Mastery of Merchandise Musings</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nippet-filmmaker-pro-for-2024/"><u>[New] Snippet Filmmaker Pro for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-gadgets-for-capturing-zoom-sessions/"><u>[Updated] Essential Gadgets for Capturing Zoom Sessions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-lessons-in-motion-mastering-classroom-editing/"><u>2024 Approved Lessons in Motion Mastering Classroom Editing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-restore-lost-sounds-to-twitter-vids/"><u>2024 Approved Restore Lost Sounds to Twitter Vids</u></a></li>
+<li><a href="https://win-community.techidaily.com/boost-your-playlists-in-delaware-and-beyond-new-party-tyme-collection-awaits-you-in-dex-3-and-lyrx-ready-to-amplify-every-celebration/"><u>Boost Your Playlists in Delaware and Beyond - New Party Tyme Collection Awaits You in DEX 3 and LYRX, Ready to Amplify Every Celebration!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-seamlessly-get-latest-epson-printing-drivers-running-in-windows-11/"><u>How To Seamlessly Get Latest Epson Printing Drivers Running in Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-x-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone X Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/is-your-favorite-crypto-wallet-universal-expert-insight-on-multi-currency-balance-verification-tools-by-yl-computing/"><u>Is Your Favorite Crypto Wallet Universal: Expert Insight on Multi-Currency Balance Verification Tools by YL Computing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-ios-update-obstacles-with-these-9-handy-tips/"><u>Overcome iOS Update Obstacles with These 9 Handy Tips</u></a></li>
+<li><a href="https://win-community.techidaily.com/rewriting-the-rulebook-changing-open-settings-for-different-file-formats-in-windows-os-with-guidance-from-yl-software/"><u>Rewriting the Rulebook: Changing Open Settings for Different File Formats in Windows OS with Guidance From YL Software</u></a></li>
+<li><a href="https://win-community.techidaily.com/shifting-files-with-ease-a-comprehensive-guide-for-windows-users-exploring-solutions-by-yl-computing/"><u>Shifting Files with Ease: A Comprehensive Guide for Windows Users - Exploring Solutions by YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/speed-up-windows-apps-implement-effective-web-linking-strategies/"><u>Speed Up Windows Apps: Implement Effective Web Linking Strategies</u></a></li>
+<li><a href="https://win-community.techidaily.com/yl-softwares-high-resolution-dark-themed-wallpaper-showcasing-a-vibrant-light-blue-matrix-pattern-in-full-hd/"><u>YL Software's High-Resolution Dark Themed Wallpaper Showcasing a Vibrant Light Blue Matrix Pattern in Full HD</u></a></li>
 </ul></div>
 

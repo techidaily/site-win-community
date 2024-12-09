@@ -1,7 +1,7 @@
 ---
 title: "The High-Stakes Litigation of Commercial Singing Venues: Unpacking the $264 Million Lawsuit Against Kamu Ultra Karaoke and Its Impact on DJ Industry"
-date: 2024-11-29T18:58:23.639Z
-updated: 2024-11-30T16:52:36.569Z
+date: 2024-12-06T23:56:20.013Z
+updated: 2024-12-08T17:35:14.810Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ According to the complaint, filed in federal district court in Los Angeles, the 
 “The Venetian’s ‘Kamu Ultra Karaoke’ lounge is a brazenly illegal operation that uses YouTube to circumvent legitimate commercial licensing of Sybersound’s original Party Tyme Karaoke content,” said Peter Haviland, counsel for Sybersound Records. “We have become aware of this as a huge problem in karaoke lounges and events throughout the country, and we intend to stop it. Individuals can enjoy Party Tyme and other karaoke content through YouTube in their own homes and at their own private events. Commercial businesses, on the other hand, cannot exploit this content and make big profits from it without paying a fair subscription license for that commercial use.“ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,24 +72,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/11/legal-landscape-commercial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-duel-of-the-titans-gopro-hero-5-vs-nikon-km-170-for-2024/"><u>[New] Duel of the Titans GoPro Hero 5 VS Nikon KM-170 for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-supercharge-your-smartphones-video-quality/"><u>[New] Supercharge Your Smartphone's Video Quality</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-prime-selection-of-affordable-cams-for-action-sports-for-2024/"><u>[Updated] Prime Selection of Affordable Cams for Action Sports for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-fixing-full-screen-failure-in-obs/"><u>2024 Approved Fixing Full Screen Failure in Obs</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/comprehensive-step-by-step-tutorial-upgrading-your-dell-inspiron-15s-hard-drive-to-a-solid-state-drive/"><u>Comprehensive Step-by-Step Tutorial: Upgrading Your Dell Inspiron 15'S Hard Drive to a Solid State Drive</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/convert-youtube-videos-into-various-formats-like-mp3-and-mp4-directly-from-your-browser-on-pc-or-mac/"><u>Convert YouTube Videos Into Various Formats Like MP3 & MP4 Directly From Your Browser on PC or Mac</u></a></li>
-<li><a href="https://win-community.techidaily.com/easy-guide-transferring-the-windows-operating-system-to-a-portable-usb-device/"><u>Easy Guide: Transferring the Windows Operating System to a Portable USB Device</u></a></li>
-<li><a href="https://win-community.techidaily.com/effective-strategies-how-to-securely-transfer-data-from-windows-server-2019-to-a-network-attached-storage/"><u>Effective Strategies: How to Securely Transfer Data From Windows Server 2019 to a Network-Attached Storage</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/enhance-your-online-presence-with-manycams-real-time-recording-and-virtual-webcams/"><u>Enhance Your Online Presence with ManyCam's Real-Time Recording & Virtual Webcams</u></a></li>
-<li><a href="https://win-community.techidaily.com/entendiendo-las-variaciones-en-la-sincronizacion-una-guia-exhaustiva/"><u>Entendiendo Las Variaciones en La Sincronización: Una Guía Exhaustiva</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/explore-the-lenovo-thinkpad-x1-titanium-yoga-a-review-that-captures-what-makes-it-a-top-choice-for-loyal-thinkpad-admirers/"><u>Explore the Lenovo ThinkPad X1 Titanium Yoga: A Review That Captures What Makes It a Top Choice for Loyal ThinkPad Admirers</u></a></li>
-<li><a href="https://win-community.techidaily.com/guide-complet-pour-configurer-lautomatisation-de-sauvegarde-des-messages-de-courriel-en-utilisant-outlook-et-un-stockage-externe/"><u>Guide Complet Pour Configurer L'automatisation De Sauvegarde Des Messages De Courriel en Utilisant Outlook Et Un Stockage Externe</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-tecno-spark-20-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Tecno Spark 20 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/problemlosen-fur-fehlercode-0x8078006b-bei-der-windows-sicherung-zwei-praktische-methoden-erklart/"><u>Problemlösen Für Fehlercode 0X8078006b Bei Der Windows Sicherung: Zwei Praktische Methoden Erklärt</u></a></li>
-<li><a href="https://win-community.techidaily.com/recupera-file-eliminati-ripristina-i-dati-gratis-da-una-tua-usb-con-4-modi/"><u>Recupera File Eliminati: Ripristina I Dati Gratis Da Una Tua USB Con [4 Modi]</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-solutions-for-overcoming-dells-black-screen-problem-post-boot-up-logo/"><u>Step-by-Step Solutions for Overcoming Dell's Black Screen Problem Post Boot-Up Logo</u></a></li>
-<li><a href="https://win-community.techidaily.com/transferir-archivos-ios-sin-problemas-con-la-herramienta-para-telefonos-una-guia-completa/"><u>Transferir Archivos iOS Sin Problemas Con La Herramienta Para Teléfonos: Una Guía Completa</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/yl-software-unveiled-mastering-network-connection-management-in-the-control-panel/"><u>YL Software Unveiled: Mastering Network Connection Management in the Control Panel</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-youtube-metrics-with-ease/"><u>[New] Navigating YouTube Metrics with Ease</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tep-by-step-guide-to-elevating-your-channel-brand-growth-in-viewers/"><u>[New] Step-by-Step Guide to Elevating Your Channel Brand, Growth in Viewers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-zoom-optimization-coordinating-remote-gatherings/"><u>[New] Zoom Optimization Coordinating Remote Gatherings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-navigating-the-maze-of-stock-visual-acquisition/"><u>[Updated] 2024 Approved Navigating the Maze of Stock Visual Acquisition</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beyond-the-basics-elite-apps-to-dethrone-windows-11/"><u>Beyond the Basics: Elite Apps to Dethrone Windows 11</u></a></li>
+<li><a href="https://win-community.techidaily.com/ensuring-your-crypto-operations-meet-legal-standards-a-comprehensive-guide-by-yl-computing/"><u>Ensuring Your Crypto Operations Meet Legal Standards: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/expert-tips-for-fixing-communication-problems-between-your-scanner-and-pc-advice-from-yl-software/"><u>Expert Tips for Fixing Communication Problems Between Your Scanner & PC - Advice From YL Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-newly-announced-samsung-galaxy-z-fold-9-insights-on-price-points-arrival-dates-and-key-specifications/"><u>Explore the Newly Announced Samsung Galaxy Z Fold 9: Insights on Price Points, Arrival Dates and Key Specifications</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-can-you-identify-and-troubleshoot-issues-in-the-windows-registry-innovative-solutions-by-yl-computing/"><u>How Can You Identify and Troubleshoot Issues in the Windows Registry - Innovative Solutions by YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-s24plus-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy S24+ to New Phone | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-novice-to-expert-a-compreenhensive-fcp-guide/"><u>In 2024, From Novice to Expert A Compreenhensive FCP Guide</u></a></li>
+<li><a href="https://win-community.techidaily.com/optimize-processor-speed-advanced-techniques-by-yl-software-for-superior-cpu-functionality/"><u>Optimize Processor Speed: Advanced Techniques by YL Software for Superior CPU Functionality</u></a></li>
+<li><a href="https://win-community.techidaily.com/protect-yourself-from-crypto-fraud-essential-tips-and-strategies-by-yl-software/"><u>Protect Yourself From Crypto Fraud: Essential Tips & Strategies - By YL Software</u></a></li>
+<li><a href="https://win-community.techidaily.com/safeguarding-cryptocurrency-wallets-from-cyber-attacks-expert-tips-from-yl-software/"><u>Safeguarding Cryptocurrency Wallets From Cyber Attacks - Expert Tips From YL Software</u></a></li>
+<li><a href="https://win-community.techidaily.com/speedy-organizing-hack-assigning-colors-to-various-audiovideo-formats-in-your-digital-studio/"><u>Speedy Organizing Hack: Assigning Colors to Various Audio/Video Formats in Your Digital Studio</u></a></li>
+<li><a href="https://win-community.techidaily.com/troubleshooting-a-non-functional-disk-drive-insights-from-yl-computings-expertise/"><u>Troubleshooting a Non-Functional Disk Drive: Insights From YL Computing's Expertise</u></a></li>
 </ul></div>
 

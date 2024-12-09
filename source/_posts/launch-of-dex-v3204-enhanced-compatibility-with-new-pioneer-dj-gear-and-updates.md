@@ -1,7 +1,7 @@
 ---
 title: Launch of DEX v3.20.4 - Enhanced Compatibility with New Pioneer DJ Gear & Updates
-date: 2024-11-26T19:12:53.247Z
-updated: 2024-11-30T16:31:47.749Z
+date: 2024-12-04T20:02:12.083Z
+updated: 2024-12-08T22:48:03.142Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Also, a series of updates are included for the built-in streaming services, incl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in DEX 3.20.4
@@ -61,7 +61,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.4 version of our **best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,18 +83,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/03/DEX3204.jpg?fit=1031%2C623
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-intuitive-steps-setting-up-snapchat-macos-style/"><u>2024 Approved Intuitive Steps Setting up Snapchat macOS-Style</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/audiophiles-guide-to-the-renewed-lg-bp550-for-2024/"><u>Audiophile's Guide to the Renewed LG BP550 for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/comment-configurer-fedora-sur-un-ordinateur-fait-main-avec-aucun-ss-guidage-complet/"><u>Comment Configurer Fedora Sur Un Ordinateur Fait Main Avec Aucun S/S - Guidage Complet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/full-facetune-review-the-pathway-to-picture-perfection-for-2024/"><u>Full Facetune Review The Pathway to Picture Perfection for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-zbook-15-g3-driver-update-quick-download-and-configuration-guide-for-windows-users/"><u>HP ZBook 15 G3 Driver Update: Quick Download and Configuration Guide for Windows Users</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-avoid-posting-mistakes-on-twitter-by-knowing-the-aspect-ratio/"><u>In 2024, Avoid Posting Mistakes on Twitter by Knowing the Aspect Ratio</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revitalize-your-smart-tv-experience-with-these-essential-chromecast-updating-tips/"><u>Revitalize Your Smart TV Experience with These Essential Chromecast Updating Tips</u></a></li>
-<li><a href="https://tools.techidaily.com/softwarezirkel/products/"><u>Softwarezirkel's Products</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-tutorial-deleting-vhds-on-a-non-hyper-v-machine-for-optimized-storage-management/"><u>Step-by-Step Tutorial: Deleting VHDs on a Non-Hyper-V Machine for Optimized Storage Management</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-7-plus-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://win-community.techidaily.com/ultimate-guide-to-successful-sicherungsverwaltung-techniques-for-businesses/"><u>Ultimate Guide to Successful Sicherungsverwaltung Techniques for Businesses</u></a></li>
-<li><a href="https://win-community.techidaily.com/understanding-the-concept-of-a-sector-by-sector-copy-a-comprehensive-guide/"><u>Understanding the Concept of a 'Sector by Sector' Copy: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-community.techidaily.com/windows-11-10-8-7-aomei-backupper-pro/"><u>Windows 11, 10, 8, 7パーソナルコンピュータ用オプショナル バックアップツール:AOMEI Backupper Proの評価</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tep-by-step-establishing-a-signature-persona-on-youtube/"><u>[New] Step-by-Step Establishing a Signature Persona on YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-ultimate-guide-to-the-best-video-editors-not-on-youtoo/"><u>[Updated] In 2024, The Ultimate Guide to the Best Video Editors Not on YouToo</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/analyzing-the-root-causes-of-the-catastrophic-chinese-famine-a-study-by-yl-computing-and-yl-software/"><u>Analyzing the Root Causes of the Catastrophic Chinese Famine: A Study by YL Computing and YL Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/combatting-iphones-difficulty-in-autofocusing-for-2024/"><u>Combatting iPhone's Difficulty in Autofocusing for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-can-different-maintenance-practices-impact-your-pcs-efficiency-insights-from-yl-tech/"><u>How Can Different Maintenance Practices Impact Your PC's Efficiency? - Insights From YL Tech</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-galaxy-s23-fe-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Galaxy S23 FE</u></a></li>
+<li><a href="https://win-community.techidaily.com/identifying-and-troubleshooting-faulty-hardware-in-your-pc-expert-tips-from-yl-software/"><u>Identifying and Troubleshooting Faulty Hardware in Your PC - Expert Tips From YL Software</u></a></li>
+<li><a href="https://win-community.techidaily.com/identifying-the-root-causes-behind-driver-software-failures-insights-from-yl-computing/"><u>Identifying the Root Causes Behind Driver Software Failures: Insights From YL Computing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sharpviewzoomx7-professional-photo-size-controls/"><u>In 2024, SharpViewZoomX7 Professional Photo Size Controls</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-se-2020-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone SE (2020) to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/master-the-art-of-encryption-learn-how-to-password-lock-folders-and-documents-using-yl-software-techniques/"><u>Master the Art of Encryption: Learn How to Password-Lock Folders & Documents Using YL Software Techniques</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/new-years-linguistic-achievement-goal/"><u>New Year's Linguistic Achievement Goal</u></a></li>
+<li><a href="https://win-community.techidaily.com/pulselockers-final-update-chief-executive-confirms-shutdown-on-november-10-2017/"><u>Pulselocker's Final Update: Chief Executive Confirms Shutdown on November 10, 2017</u></a></li>
+<li><a href="https://win-community.techidaily.com/restore-windows-performance-by-repairing-corrupt-registry-files-in-depth-strategies-by-the-professionals-at-yl-computing/"><u>Restore Windows Performance by Repairing Corrupt Registry Files - In-Depth Strategies by the Professionals at YL Computing</u></a></li>
 </ul></div>
 
