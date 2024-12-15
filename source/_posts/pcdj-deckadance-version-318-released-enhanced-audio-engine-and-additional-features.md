@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Deckadance Version 3.18 Released: Enhanced Audio Engine & Additional Features!"
-date: 2024-12-04T23:57:11.937Z
-updated: 2024-12-08T19:37:04.310Z
+date: 2024-12-13T16:21:44.257Z
+updated: 2024-12-14T16:48:01.545Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ We suggest DEX 3 DJ’s update to the latest release as soon as possible.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in DEX 3.18.0.1
@@ -71,7 +71,7 @@ We suggest DEX 3 DJ’s update to the latest release as soon as possible.
 _Have questions about the latest 3.18 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,22 +93,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/07/dex318-update-blog-post-he
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-solved-obs-full-screen-not-working-for-2024/"><u>[Updated] [Solved] OBS Full Screen Not Working for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-growth-catalysts-increasing-audience-engagement-on-youtube-for-2024/"><u>[Updated] Growth Catalysts Increasing Audience Engagement on YouTube for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-accelerate-engagement-quick-instagram-likes-and-videos-strategy/"><u>[Updated] In 2024, Accelerate Engagement Quick Instagram Likes and Videos Strategy</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-lilliputian-storyboard-outline/"><u>[Updated] In 2024, Lilliputian Storyboard Outline</u></a></li>
-<li><a href="https://win-community.techidaily.com/a-historical-overview-of-qing-chinas-shift-in-global-alliances-and-policies-explore-with-yl-computing/"><u>A Historical Overview of Qing China's Shift in Global Alliances & Policies - Explore with YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/changing-your-operating-systems-preferred-language-on-windows-a-step-by-step-guide-tips-from-yl-software/"><u>Changing Your Operating System's Preferred Language on Windows: A Step-by-Step Guide - Tips From YL Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-how-to-instantly-close-unresponsive-apps-on-windows-11-via-the-stealthy-taskbar-trick-insights-by-zdnet/"><u>Discover How to Instantly Close Unresponsive Apps on Windows 11 via the Stealthy Taskbar Trick – Insights by ZDNET</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-15-pro-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone 15 Pro If Youve Tried Everything</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/kinemaster-zoom-mastery-guide-a-filmmakers-toolkit/"><u>Kinemaster Zoom Mastery Guide A Filmmaker's Toolkit</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/mao-zedongs-historic-announcement-the-establishment-date-of-the-peoples-republic-of-china-insights-by-yl-computing/"><u>Mao Zedong's Historic Announcement: The Establishment Date of the People's Republic of China - Insights by YL Computing</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-kids-a-google-play-2017-best-app-honoree/"><u>Mondly Kids - A Google Play 2017 Best App Honoree</u></a></li>
-<li><a href="https://win-community.techidaily.com/resolving-gpu-overheat-issues-with-expert-tips-from-yl-softwares-technical-article/"><u>Resolving GPU Overheat Issues with Expert Tips From YL Software’s Technical Article</u></a></li>
-<li><a href="https://win-community.techidaily.com/resolving-unexpected-app-crashes-and-freezing-problems-caused-by-memory-errors-a-guide-from-yl-computing/"><u>Resolving Unexpected App Crashes and Freezing Problems Caused by Memory Errors: A Guide From YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/solving-the-missing-device-driver-issue-a-step-by-step-guide-yl-tech-tips/"><u>Solving the 'Missing Device Driver' Issue: A Step-by-Step Guide - YL Tech Tips</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-process-to-download-and-set-up-proper-hardware-drivers-with-guidance-from-yl-software-experts/"><u>Step-by-Step Process to Download and Set Up Proper Hardware Drivers with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://win-community.techidaily.com/understanding-icos-significance-and-impact-in-the-crypto-world-explored-by-yl-computing/"><u>Understanding ICOs: Significance & Impact in the Crypto World - Explored by YL Computing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aking-text-dance-2-creative-animation-strategies-for-2024/"><u>[New] Making Text Dance 2 Creative Animation Strategies for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-creme-de-la-creme-of-fluid-interactive-games/"><u>[Updated] The Crème De La Créme of Fluid Interactive Games</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/best-20-songs-with-official-videos-released-in-2015-top-dj-mixes/"><u>Best 20 Songs with Official Videos Released in 2015 - Top DJ Mixes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experts-reveal-why-the-new-microsoft-surface-laptop-is-a-cut-above-rest/"><u>Experts Reveal Why the New Microsoft Surface Laptop Is a Cut Above Rest</u></a></li>
+<li><a href="https://win-able.techidaily.com/fully-optimized-enjoy-the-chaos-of-tiny-tinas-wonderlands-a-complete-fix-for-pc-users/"><u>Fully Optimized: Enjoy the Chaos of Tiny Tina's Wonderlands - A Complete Fix for PC Users</u></a></li>
+<li><a href="https://win-community.techidaily.com/get-the-ultimate-karaoke-experience-with-partytyme-subscription-access-to-new-hits-and-top-tracks/"><u>Get the Ultimate Karaoke Experience with PartyTyme - Subscription Access to New Hits & Top Tracks!</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/guide-enabling-password-save-feature-in-your-browser-tips-by-yl-computing/"><u>Guide: Enabling Password Save Feature in Your Browser - Tips by YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-se-2022-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-interactive-interface-for-podcasters-for-2024/"><u>Ideal Interactive Interface for Podcasters for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/install-extra-memory-on-your-pc-expert-tips-from-yl-software-professionals/"><u>Install Extra Memory on Your PC: Expert Tips From YL Software Professionals</u></a></li>
+<li><a href="https://win-community.techidaily.com/maximize-storage-on-windows-by-deleting-explorers-preview-cache-a-walkthrough-by-yl-software-experts/"><u>Maximize Storage on Windows by Deleting Explorer's Preview Cache - A Walkthrough by YL Software Experts</u></a></li>
+<li><a href="https://win-community.techidaily.com/trouble-with-your-scanner-find-solutions-here-at-yl-software/"><u>Trouble with Your Scanner? Find Solutions Here at YL Software!</u></a></li>
+<li><a href="https://win-community.techidaily.com/understanding-key-hurdles-in-the-world-of-digital-currencies-according-to-yl-computing/"><u>Understanding Key Hurdles in the World of Digital Currencies According to YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/unveiling-remarkable-contributions-of-the-yuan-rule-expert-analysis-from-yl-software/"><u>Unveiling Remarkable Contributions of the Yuan Rule - Expert Analysis From YL Software</u></a></li>
+<li><a href="https://win-community.techidaily.com/upgraded-pcdj-version-265-with-integrated-3-hercules-midi-controllers/"><u>Upgraded PCDJ Version 2.6.5 with Integrated 3 Hercules MIDI Controllers</u></a></li>
 </ul></div>
 

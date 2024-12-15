@@ -1,7 +1,7 @@
 ---
 title: Launch of DEX v3.20.4 - Enhanced Compatibility with New Pioneer DJ Gear & Updates
-date: 2024-12-04T20:02:12.083Z
-updated: 2024-12-08T22:48:03.142Z
+date: 2024-12-10T19:31:35.711Z
+updated: 2024-12-14T16:28:20.830Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Also, a series of updates are included for the built-in streaming services, incl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in DEX 3.20.4
@@ -61,7 +61,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.4 version of our **best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,20 +83,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/03/DEX3204.jpg?fit=1031%2C623
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/tep-by-step-establishing-a-signature-persona-on-youtube/"><u>[New] Step-by-Step Establishing a Signature Persona on YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-ultimate-guide-to-the-best-video-editors-not-on-youtoo/"><u>[Updated] In 2024, The Ultimate Guide to the Best Video Editors Not on YouToo</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/analyzing-the-root-causes-of-the-catastrophic-chinese-famine-a-study-by-yl-computing-and-yl-software/"><u>Analyzing the Root Causes of the Catastrophic Chinese Famine: A Study by YL Computing and YL Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/combatting-iphones-difficulty-in-autofocusing-for-2024/"><u>Combatting iPhone's Difficulty in Autofocusing for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-can-different-maintenance-practices-impact-your-pcs-efficiency-insights-from-yl-tech/"><u>How Can Different Maintenance Practices Impact Your PC's Efficiency? - Insights From YL Tech</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-galaxy-s23-fe-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Galaxy S23 FE</u></a></li>
-<li><a href="https://win-community.techidaily.com/identifying-and-troubleshooting-faulty-hardware-in-your-pc-expert-tips-from-yl-software/"><u>Identifying and Troubleshooting Faulty Hardware in Your PC - Expert Tips From YL Software</u></a></li>
-<li><a href="https://win-community.techidaily.com/identifying-the-root-causes-behind-driver-software-failures-insights-from-yl-computing/"><u>Identifying the Root Causes Behind Driver Software Failures: Insights From YL Computing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sharpviewzoomx7-professional-photo-size-controls/"><u>In 2024, SharpViewZoomX7 Professional Photo Size Controls</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-se-2020-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone SE (2020) to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/master-the-art-of-encryption-learn-how-to-password-lock-folders-and-documents-using-yl-software-techniques/"><u>Master the Art of Encryption: Learn How to Password-Lock Folders & Documents Using YL Software Techniques</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/new-years-linguistic-achievement-goal/"><u>New Year's Linguistic Achievement Goal</u></a></li>
-<li><a href="https://win-community.techidaily.com/pulselockers-final-update-chief-executive-confirms-shutdown-on-november-10-2017/"><u>Pulselocker's Final Update: Chief Executive Confirms Shutdown on November 10, 2017</u></a></li>
-<li><a href="https://win-community.techidaily.com/restore-windows-performance-by-repairing-corrupt-registry-files-in-depth-strategies-by-the-professionals-at-yl-computing/"><u>Restore Windows Performance by Repairing Corrupt Registry Files - In-Depth Strategies by the Professionals at YL Computing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-cutting-edge-fb-video-creators-20-free-apps-for-marketers/"><u>[New] Cutting-Edge FB Video Creators 20 Free Apps for Marketers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-instantaneous-installation-laugh-with-ifunny-memes-easily/"><u>[Updated] In 2024, Instantaneous Installation Laugh with iFunny Memes Easily</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-leading-innovations-in-video-calls-discover-the-top-10-apps-for-2024/"><u>[Updated] Leading Innovations in Video Calls Discover the Top 10 Apps for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/asian-equity-markets-surge-as-china-implements-favorable-stamp-duty-policies-early-trading-shows-positive-movement-with-singapore-stocks-climbing-by-105-ami4/"><u>Asian Equity Markets Surge as China Implements Favorable Stamp Duty Policies; Early Trading Shows Positive Movement, with Singapore Stocks Climbing by 1.05% Amidst Anticipation of US Jobs and Inflation Figures - YL Computing Insights</u></a></li>
+<li><a href="https://win-community.techidaily.com/beat-the-heat-advanced-techniques-for-preventing-computer-overheating-by-yl-software-professionals/"><u>Beat the Heat: Advanced Techniques for Preventing Computer Overheating by YL Software Professionals</u></a></li>
+<li><a href="https://win-community.techidaily.com/boost-your-playlists-in-delaware-and-beyond-new-party-tyme-collection-awaits-you-in-dex-3-and-lyrx-ready-to-amplify-every-celebration/"><u>Boost Your Playlists in Delaware and Beyond - New Party Tyme Collection Awaits You in DEX 3 and LYRX, Ready to Amplify Every Celebration!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/improved-netflixs-ad-free-viewing-experience-now-available/"><u>Improved Netflix's Ad-Free Viewing Experience Now Available</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-vivo-v30-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo V30 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-community.techidaily.com/is-your-favorite-crypto-wallet-universal-expert-insight-on-multi-currency-balance-verification-tools-by-yl-computing/"><u>Is Your Favorite Crypto Wallet Universal: Expert Insight on Multi-Currency Balance Verification Tools by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-dealing-with-windows-error-code-31-easy-fixes-inside/"><u>Master the Art of Dealing with Windows' Error Code 31: Easy Fixes Inside</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/render-images-with-radial-light-diffusion-technique/"><u>Render Images with Radial Light Diffusion Technique</u></a></li>
+<li><a href="https://win-community.techidaily.com/revolutionize-your-data-gathering-with-yls-latest-tool-effortlessly-extract-tweets-using-yl-web-scraper-solutions-by-yl-software/"><u>Revolutionize Your Data Gathering with YL's Latest Tool – Effortlessly Extract Tweets Using YL Web Scraper | Solutions by YL Software</u></a></li>
+<li><a href="https://win-community.techidaily.com/rewriting-the-rulebook-changing-open-settings-for-different-file-formats-in-windows-os-with-guidance-from-yl-software/"><u>Rewriting the Rulebook: Changing Open Settings for Different File Formats in Windows OS with Guidance From YL Software</u></a></li>
+<li><a href="https://win-community.techidaily.com/shifting-files-with-ease-a-comprehensive-guide-for-windows-users-exploring-solutions-by-yl-computing/"><u>Shifting Files with Ease: A Comprehensive Guide for Windows Users - Exploring Solutions by YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/yl-softwares-high-resolution-dark-themed-wallpaper-showcasing-a-vibrant-light-blue-matrix-pattern-in-full-hd/"><u>YL Software's High-Resolution Dark Themed Wallpaper Showcasing a Vibrant Light Blue Matrix Pattern in Full HD</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/ekspertnye-sovety-po-kopirovaniyu-zhestkogo-diska-vashego-noutbuka-dell-vershiny-tehnologij-s-sohraneniem-os/"><u>Экспертные Советы По Копированию Жесткого Диска Вашего Ноутбука Dell: Вершины Технологий С Сохранением ОС!</u></a></li>
 </ul></div>
 

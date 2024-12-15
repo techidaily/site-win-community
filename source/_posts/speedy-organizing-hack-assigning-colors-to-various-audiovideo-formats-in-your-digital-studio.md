@@ -1,7 +1,7 @@
 ---
 title: "Speedy Organizing Hack: Assigning Colors to Various Audio/Video Formats in Your Digital Studio"
-date: 2024-12-06T16:38:58.057Z
-updated: 2024-12-08T17:49:08.347Z
+date: 2024-12-11T17:29:42.839Z
+updated: 2024-12-14T22:35:40.429Z
 tags:
   - product
 categories:
@@ -36,13 +36,13 @@ DEX 3 provides color coding buttons on the far right side of any of the default 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH DEX 3 DJ SOFTWARE QUICK TIP VIDEO | HOW TO COLOR-CODE SPECIFIC MEDIA FILE TYPES
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -64,22 +64,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/colorcoding-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-easy-methods-for-dimming-audio-tracks-in-adobe-premiere/"><u>[New] In 2024, Easy Methods for Dimming Audio Tracks in Adobe Premiere</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-bring-your-creative-windows-video-projects-online-via-vimeo-for-2024/"><u>[Updated] Bring Your Creative Windows Video Projects Online via Vimeo for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-static-shots-to-time-lapse-video-tapestry/"><u>[Updated] From Static Shots to Time-Lapse Video Tapestry</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-goovision-9000-ultimate-os-snapshotter/"><u>[Updated] In 2024, GooVision 9000 Ultimate OS Snapshotter</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-art-of-recording-your-steam-gaming-sessions/"><u>2024 Approved The Art of Recording Your Steam Gaming Sessions</u></a></li>
-<li><a href="https://win-community.techidaily.com/fix-your-unresponsive-mouse-with-these-tips-by-yl-software-experts/"><u>Fix Your Unresponsive Mouse with These Tips by YL Software Experts</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/get-to-grips-with-the-korean-of-squid-game/"><u>Get to Grips with the Korean of Squid Game</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-to-fix-an-unreliable-wi-fi-network-tips-from-yl-computings-expert-guide/"><u>How to Fix an Unreliable Wi-Fi Network: Tips From YL Computing's Expert Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-throw-a-karaoke-party-at-home/"><u>How to Throw a Karaoke Party at Home</u></a></li>
-<li><a href="https://win-community.techidaily.com/mastering-windows-defender-a-step-by-step-guide-on-adjusting-configuration-yl-tech-tips/"><u>Mastering Window's Defender: A Step-by-Step Guide on Adjusting Configuration - YL Tech Tips</u></a></li>
-<li><a href="https://win-community.techidaily.com/part-one-of-mastering-scratch-decks-the-art-of-organizing-dj-tracks-with-pcdj/"><u>Part One of Mastering Scratch Decks: The Art of Organizing DJ Tracks with PCDJ</u></a></li>
-<li><a href="https://win-community.techidaily.com/protect-personal-information-master-the-art-of-file-encryption-using-yls-expert-tools/"><u>Protect Personal Information: Master the Art of File Encryption Using YL's Expert Tools</u></a></li>
-<li><a href="https://win-community.techidaily.com/resolving-issues-with-network-interface-card-driver-installation-tips-from-yl-software-experts/"><u>Resolving Issues with Network Interface Card Driver Installation: Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-community.techidaily.com/resolving-performance-issues-on-your-machine-with-windows-11-upgrade-guided-steps-by-yl-software/"><u>Resolving Performance Issues on Your Machine with Windows 11 Upgrade - Guided Steps by YL Software</u></a></li>
-<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-you-should-think-twice-the-cons-of-generative-ai-for-messaging-platforms/"><u>Why You Should Think Twice: The Cons of Generative AI for Messaging Platforms</u></a></li>
-<li><a href="https://win-community.techidaily.com/zip-it-up-fast-mastering-archive-creation-techniques-from-yl-software-experts/"><u>Zip It Up Fast: Mastering Archive Creation Techniques From YL Software Experts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/erfect-your-presentation-the-yt-guide-to-background-softening/"><u>[New] Perfect Your Presentation The YT Guide to Background Softening</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-best-bargain-scene-for-no-cost-video-capturing-on-chromebooks/"><u>[Updated] 2024 Approved Best Bargain Scene for No-Cost Video Capturing on Chromebooks</u></a></li>
+<li><a href="https://win-community.techidaily.com/checking-your-systems-compatibility-with-a-new-graphics-card-expert-advice-from-yl-computing/"><u>Checking Your System's Compatibility with a New Graphics Card - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/essential-guide-why-every-disc-jockey-requires-liability-coverage/"><u>Essential Guide: Why Every Disc Jockey Requires Liability Coverage</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-can-i-fix-a-buffering-laggy-video-stream-insights-from-yl-computings-expertise/"><u>How Can I Fix a Buffering, Laggy Video Stream: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-xltm-files-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a .xltm files free</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-s24-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy S24 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-depth-review-of-aurvana-ace-2-exceptional-audio-performance-and-moderate-noise-reduction-effectiveness/"><u>In-Depth Review of Aurvana Ace 2 - Exceptional Audio Performance and Moderate Noise Reduction Effectiveness</u></a></li>
+<li><a href="https://win-community.techidaily.com/ultimate-selection-of-harry-potter-hd-backgrounds-and-posters-curated-by-yl-softwares-image-archive/"><u>Ultimate Selection of Harry Potter HD Backgrounds & Posters - Curated by YL Software's Image Archive</u></a></li>
+<li><a href="https://win-community.techidaily.com/understanding-and-fixing-unresponsive-usb-connections-with-guidance-from-yl-computings-expertise/"><u>Understanding and Fixing Unresponsive USB Connections with Guidance From YL Computing's Expertise</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11s-epson-scanner-not-working-heres-how-to-fix-it/"><u>Windows 11'S Epson Scanner Not Working? Here's How To Fix It</u></a></li>
 </ul></div>
 

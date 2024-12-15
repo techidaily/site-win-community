@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Harmonizing Melodies in DEX 3: How to Easily Find Matching Keys for Flawless Transitions"
-date: 2024-12-06T23:42:26.921Z
-updated: 2024-12-09T01:56:47.820Z
+date: 2024-12-13T02:08:46.575Z
+updated: 2024-12-14T19:21:05.502Z
 tags:
   - product
 categories:
@@ -35,13 +35,13 @@ Additionally, [DEX 3](https://tools.techidaily.com/pcdj/products/) can change a 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using Automatic Key-Detection In DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How-To Search For Songs Of The Same Key In DEX 3
@@ -49,7 +49,7 @@ Additionally, [DEX 3](https://tools.techidaily.com/pcdj/products/) can change a 
 _Have questions about **key detection** or **searching songs by key** in DEX 3 **DJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,21 +71,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/04/keydetectionsearchingbykey
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-compact-cost-free-livestreaming-solutions-listed-in-a-nutshell-for-2024/"><u>[Updated] Compact, Cost-Free LiveStreaming Solutions Listed in a Nutshell for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-efficient-techniques-accelerating-or-decelerating-instagram-stories/"><u>[Updated] In 2024, Efficient Techniques Accelerating or Decelerating Instagram Stories</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-the-new-era-of-editing-with-powerdirector-24-edition/"><u>[Updated] In 2024, Mastering the New Era of Editing with PowerDirector '24 Edition</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-movie-capture-pc-mac-and-mobile-devices-for-2024/"><u>[Updated] Mastering Movie Capture PC, Mac, & Mobile Devices for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/1-how-to-personalize-your-windows-control-panel-tips-and-tricks-from-yl-computing/"><u>1. How to Personalize Your Windows Control Panel - Tips and Tricks From YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/a-step-by-step-guide-identifying-and-resolving-computer-hardware-issues-with-insights-from-yl-software/"><u>A Step-by-Step Guide: Identifying & Resolving Computer Hardware Issues with Insights From YL Software</u></a></li>
-<li><a href="https://win-community.techidaily.com/boosting-computer-speed-and-power-pro-techniques-by-yl-software-and-yl-computing/"><u>Boosting Computer Speed & Power: Pro Techniques by YL Software and YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-infinix-smart-7-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Infinix Smart 7 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/explore-the-all-in-one-power-of-pcdj-dex-3-for-music-production-video-editing-and-sing-alongs/"><u>Explore the All-in-One Power of PCDJ Dex 3 for Music Production, Video Editing & Sing Alongs!</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/high-definition-dota-2-graphics-and-backgrounds-premium-collection-by-yl-computing/"><u>High-Definition Dota 2 Graphics & Backgrounds: Premium Collection by YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-s24plus-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy S24+ for Free? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-revive-a-malfunctioning-samsung-blu-ray-player/"><u>Step-by-Step Guide to Revive a Malfunctioning Samsung Blu-Ray Player</u></a></li>
-<li><a href="https://win-community.techidaily.com/the-importance-of-clearing-out-excess-data-insights-by-yl-software-experts/"><u>The Importance of Clearing Out Excess Data: Insights by YL Software Experts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbocharge-windows-gaming-with-yuzus-speeds/"><u>Turbocharge Windows Gaming with Yuzu's Speeds</u></a></li>
-<li><a href="https://win-community.techidaily.com/update-your-screen-resolution-on-windows-using-the-control-panel-tips-from-yl-computing/"><u>Update Your Screen Resolution on Windows Using the Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-assembling-visual-slices-photo-montage-techniques-for-2024/"><u>[New] Assembling Visual Slices Photo Montage Techniques for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-guide-to-add-motion-blur-to-photos-in-adobe-illustrator/"><u>[New] In 2024, Guide to Add Motion Blur to Photos in Adobe Illustrator</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevate-your-videos-auditory-experience-on-youtube/"><u>[Updated] 2024 Approved Elevate Your Video's Auditory Experience on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-advanced-slidecasting-powerpoint-and-webcam-perfection/"><u>2024 Approved Advanced Slidecasting PowerPoint & Webcam Perfection</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/breaking-into-youtubes-top-100-with-effective-seo/"><u>Breaking Into YouTube's Top 100 With Effective SEO</u></a></li>
+<li><a href="https://win-community.techidaily.com/effective-techniques-to-maintain-and-clean-your-printers-feed-roller-insights-from-yl-computing/"><u>Effective Techniques to Maintain and Clean Your Printer's Feed Roller: Insights From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/exploring-the-connection-between-the-qin-and-han-empires-an-in-depth-analysis-by-yl-computing/"><u>Exploring the Connection Between the Qin and Han Empires: An In-Depth Analysis by YL Computing</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/free-14-day-trial-of-karaoke-cloud-pro-offered-on-pcdj-exclusive-press-announcement/"><u>Free 14-Day Trial of Karaoke Cloud Pro Offered on PCDJ - Exclusive Press Announcement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-net-runtime-error-on-your-pc/"><u>How to Resolve .NET Runtime Error on Your PC</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/identifying-the-israeli-vernacular/"><u>Identifying the Israeli Vernacular?</u></a></li>
+<li><a href="https://win-community.techidaily.com/solving-issues-with-loud-computer-fans-expert-advice-from-yl-computing/"><u>Solving Issues with Loud Computer Fans - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/strategies-for-effective-obs-live-feeds-on-facebook-for-2024/"><u>Strategies for Effective OBS Live Feeds on Facebook for 2024</u></a></li>
 </ul></div>
 

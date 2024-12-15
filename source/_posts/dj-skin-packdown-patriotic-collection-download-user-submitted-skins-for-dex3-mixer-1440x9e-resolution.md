@@ -1,7 +1,7 @@
 ---
 title: DJ Skin Packdown! Patriotic Collection - Download User-Submitted Skins for DEX3 Mixer (1440X9e Resolution)
-date: 2024-12-05T18:58:42.746Z
-updated: 2024-12-09T01:35:44.915Z
+date: 2024-12-08T23:06:28.577Z
+updated: 2024-12-14T20:18:12.146Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ Download the skin below and be sure to let Emiliano know what you think of his D
 _Have a skin you wish to submit and share with the PCDJ community? Email us at [submit@pcdj.com](https://tools.techidaily.com/pcdj/products/)_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -54,19 +54,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/skinpack-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-making-money-with-media-mastery-of-merchandise-musings/"><u>[New] Making Money with Media Mastery of Merchandise Musings</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nippet-filmmaker-pro-for-2024/"><u>[New] Snippet Filmmaker Pro for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-essential-gadgets-for-capturing-zoom-sessions/"><u>[Updated] Essential Gadgets for Capturing Zoom Sessions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-lessons-in-motion-mastering-classroom-editing/"><u>2024 Approved Lessons in Motion Mastering Classroom Editing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-restore-lost-sounds-to-twitter-vids/"><u>2024 Approved Restore Lost Sounds to Twitter Vids</u></a></li>
-<li><a href="https://win-community.techidaily.com/boost-your-playlists-in-delaware-and-beyond-new-party-tyme-collection-awaits-you-in-dex-3-and-lyrx-ready-to-amplify-every-celebration/"><u>Boost Your Playlists in Delaware and Beyond - New Party Tyme Collection Awaits You in DEX 3 and LYRX, Ready to Amplify Every Celebration!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-seamlessly-get-latest-epson-printing-drivers-running-in-windows-11/"><u>How To Seamlessly Get Latest Epson Printing Drivers Running in Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-x-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone X Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/is-your-favorite-crypto-wallet-universal-expert-insight-on-multi-currency-balance-verification-tools-by-yl-computing/"><u>Is Your Favorite Crypto Wallet Universal: Expert Insight on Multi-Currency Balance Verification Tools by YL Computing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-ios-update-obstacles-with-these-9-handy-tips/"><u>Overcome iOS Update Obstacles with These 9 Handy Tips</u></a></li>
-<li><a href="https://win-community.techidaily.com/rewriting-the-rulebook-changing-open-settings-for-different-file-formats-in-windows-os-with-guidance-from-yl-software/"><u>Rewriting the Rulebook: Changing Open Settings for Different File Formats in Windows OS with Guidance From YL Software</u></a></li>
-<li><a href="https://win-community.techidaily.com/shifting-files-with-ease-a-comprehensive-guide-for-windows-users-exploring-solutions-by-yl-computing/"><u>Shifting Files with Ease: A Comprehensive Guide for Windows Users - Exploring Solutions by YL Computing</u></a></li>
-<li><a href="https://windows11.techidaily.com/speed-up-windows-apps-implement-effective-web-linking-strategies/"><u>Speed Up Windows Apps: Implement Effective Web Linking Strategies</u></a></li>
-<li><a href="https://win-community.techidaily.com/yl-softwares-high-resolution-dark-themed-wallpaper-showcasing-a-vibrant-light-blue-matrix-pattern-in-full-hd/"><u>YL Software's High-Resolution Dark Themed Wallpaper Showcasing a Vibrant Light Blue Matrix Pattern in Full HD</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-11-free-youtube-video-rippers-to-download-youtube-videos/"><u>[New] 2024 Approved 11 FREE YouTube Video Rippers to Download YouTube Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-perfecting-iphone-photography-mastery-of-macro-and-close-up-details-for-2024/"><u>[New] Perfecting iPhone Photography Mastery of Macro and Close-Up Details for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-transforming-web-popularity-into-video-concepts-using-google-trends/"><u>[Updated] 2024 Approved Transforming Web Popularity Into Video Concepts Using Google Trends</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-recover-missing-audio-from-tweeted-videos/"><u>[Updated] Recover Missing Audio From Tweeted Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-5-high-quality-online-meeting-capture-devices/"><u>[Updated] Top 5 High-Quality Online Meeting Capture Devices</u></a></li>
+<li><a href="https://win-community.techidaily.com/a-historical-overview-of-qing-chinas-shift-in-global-alliances-and-policies-explore-with-yl-computing/"><u>A Historical Overview of Qing China's Shift in Global Alliances & Policies - Explore with YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-on-repairing-startup-problems-in-mozilla-thunderbird/"><u>Comprehensive Guide on Repairing Startup Problems in Mozilla Thunderbird</u></a></li>
+<li><a href="https://win-community.techidaily.com/controllers-vs-dvs-a-dynamic-showdown-in-djing-beat-blending-tactics/"><u>Controllers vs DVS: A Dynamic Showdown in DJing | Beat Blending Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-keep-your-dualsense-in-top-form-virtually/"><u>How to Keep Your DualSense in Top Form Virtually</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-12-pro-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 12 Pro 5G Device</u></a></li>
+<li><a href="https://win-community.techidaily.com/mao-zedongs-historic-announcement-the-establishment-date-of-the-peoples-republic-of-china-insights-by-yl-computing/"><u>Mao Zedong's Historic Announcement: The Establishment Date of the People's Republic of China - Insights by YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/resolving-unexpected-app-crashes-and-freezing-problems-caused-by-memory-errors-a-guide-from-yl-computing/"><u>Resolving Unexpected App Crashes and Freezing Problems Caused by Memory Errors: A Guide From YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211031807-9781088270479-tarros-de-hechizos-para-principiantes/"><u>Tarros de Hechizos para Principiantes | Free Book</u></a></li>
+<li><a href="https://win-community.techidaily.com/unveiling-historical-timelines-pinpointing-the-beginning-of-sino-japanese-warfare-analysis-from-yl-software/"><u>Unveiling Historical Timelines: Pinpointing the Beginning of Sino-Japanese Warfare – Analysis From YL Software</u></a></li>
 </ul></div>
 

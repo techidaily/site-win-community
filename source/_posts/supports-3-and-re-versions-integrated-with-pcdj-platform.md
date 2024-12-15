@@ -1,7 +1,7 @@
 ---
 title: Supports 3 and RE Versions - Integrated With PCDJ Platform
-date: 2024-12-07T01:55:26.763Z
-updated: 2024-12-09T01:48:11.278Z
+date: 2024-12-08T00:09:26.210Z
+updated: 2024-12-14T18:12:48.092Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Priced at only $249 on most online DJ equipment retailer websites, the **DDJ-SB3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s a Look at the Key Features of the Pioneer DJ DDJ-SB3 Digital DJ Controller
@@ -51,7 +51,7 @@ Priced at only $249 on most online DJ equipment retailer websites, the **DDJ-SB3
 _Have questions about the **Pioneer DJ DDJ-SB3** **DJ controller** and how it works with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments sections below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,20 +73,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/04/DDJ-SB3-NOWDEX3SUPPORTED.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-avid-creators-gif-guide-from-tiktok-to-graphic-art-for-2024/"><u>[New] Avid Creators' GIF Guide From TikTok to Graphic Art for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-advanced-techniques-sending-subtitles-to-instagram-linkedin/"><u>[New] In 2024, Advanced Techniques Sending Subtitles to Instagram, LinkedIn</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-ultimate-roguelike-rankings-the-best-10-games/"><u>[New] Ultimate Roguelike Rankings The Best 10 Games</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-secure-story-spectatorship-techniques-for-desktopandroidios-devices-at-no-cost/"><u>[Updated] Secure Story Spectatorship Techniques for Desktop/Android/iOS Devices (At No Cost)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-youtubes-monetizing-potential-with-strategic-short-videos/"><u>2024 Approved Unlock YouTube's Monetizing Potential with Strategic Short Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/avchd-on-redmi-13c-convert-mts-for-redmi-13c-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD on Redmi 13C-convert MTS for Redmi 13C</u></a></li>
-<li><a href="https://win-community.techidaily.com/bypassing-windows-defender-for-file-protection-strategies-and-insights-your-life-with-computers/"><u>Bypassing Windows Defender for File Protection: Strategies & Insights - Your Life with Computers</u></a></li>
-<li><a href="https://win-community.techidaily.com/discover-your-gpu-model-easy-guide-to-identifying-your-graphics-card-tech-insight/"><u>Discover Your GPU Model: Easy Guide to Identifying Your Graphics Card - Tech Insight</u></a></li>
-<li><a href="https://win-community.techidaily.com/fixing-lan-troubles-on-your-laptop-or-desktop-guidance-by-yl-computing-and-yl-software-experts/"><u>Fixing LAN Troubles on Your Laptop or Desktop - Guidance by YL Computing & YL Software Experts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-speak-with-style-mastering-the-art-of-altering-vocal-effects-on-snapchat/"><u>In 2024, Speak with Style Mastering the Art of Altering Vocal Effects on Snapchat</u></a></li>
-<li><a href="https://win-community.techidaily.com/is-crypto-truly-safe-for-your-finances-expert-analysis-by-yl-computing-and-yl-software-teams/"><u>Is Crypto Truly Safe for Your Finances? Expert Analysis by YL Computing & YL Software Teams</u></a></li>
-<li><a href="https://win-community.techidaily.com/troubleshooting-unresponsive-laps-with-dead-batteries-and-more-solutions-by-yl-tech-experts/"><u>Troubleshooting Unresponsive Laps with Dead Batteries & More - Solutions by YL Tech Experts</u></a></li>
-<li><a href="https://win-community.techidaily.com/unlimited-sing-along-explore-the-latest-song-library-in-karaoke-cloud-pro-by-pcdj/"><u>Unlimited Sing-Along: Explore the Latest Song Library in Karaoke Cloud Pro by PCDJ!</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-galaxy-s24-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Galaxy S24 Ultra</u></a></li>
-<li><a href="https://win-community.techidaily.com/yl-computing-premium-vegas-themed-backgrounds-wallpapers-and-graphics-for-your-pc/"><u>YL Computing: Premium Vegas-Themed Backgrounds, Wallpapers, and Graphics for Your PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-does-quick-subscribe-strategy-boost-audience-growth-for-2024/"><u>[New] Does Quick-Subscribe Strategy Boost Audience Growth for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-rev-up-your-recruiting-strategy-with-hot-tapes/"><u>[New] Rev Up Your Recruiting Strategy with Hot Tapes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-power-of-personal-storytelling-in-video-content-for-2024/"><u>[New] The Power of Personal Storytelling in Video Content for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-the-art-of-real-time-photography-on-google-meet/"><u>[Updated] 2024 Approved Mastering the Art of Real-Time Photography on Google Meet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-premier-silent-sound-converters/"><u>[Updated] 2024 Approved Premier Silent Sound Converters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-spoofing-success-the-path-to-parody-proficiency/"><u>[Updated] Spoofing Success The Path to Parody Proficiency</u></a></li>
+<li><a href="https://win-community.techidaily.com/boost-your-pcs-performance-by-clearing-up-storage-tips-and-tricks-yl-computing-blog/"><u>Boost Your PC's Performance by Clearing Up Storage: Tips & Tricks - YL Computing Blog</u></a></li>
+<li><a href="https://win-community.techidaily.com/dealing-with-sudden-hardware-issues-expert-advice-by-yl-software-team/"><u>Dealing with Sudden Hardware Issues: Expert Advice by YL Software Team</u></a></li>
+<li><a href="https://win-community.techidaily.com/diagnosing-a-defective-gpu-expert-tips-from-yl-computing/"><u>Diagnosing a Defective GPU: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-7-plus-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 7 Plus Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastering-social-media-marketing-a-10-step-guide-to-success-for-2024/"><u>Mastering Social Media Marketing A 10-Step Guide to Success for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-guide-adding-software-via-windows-control-panel-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Adding Software via Windows Control Panel - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/streamline-your-workflow-advanced-strategies-for-simultaneously-scanning-multiple-documents-using-yl-software-solutions/"><u>Streamline Your Workflow: Advanced Strategies for Simultaneously Scanning Multiple Documents Using YL Software Solutions</u></a></li>
+<li><a href="https://win-community.techidaily.com/unlock-full-performance-expert-tips-from-yl-software-for-efficient-computer-resource-utilization/"><u>Unlock Full Performance: Expert Tips From YL Software for Efficient Computer Resource Utilization</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-toms-computer-review-platform/"><u>Unveiling the Secrets of Tom's Computer Review Platform</u></a></li>
 </ul></div>
 

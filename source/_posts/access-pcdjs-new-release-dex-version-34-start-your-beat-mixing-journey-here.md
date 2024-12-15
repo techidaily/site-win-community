@@ -1,7 +1,7 @@
 ---
 title: "Access PCDJ's New Release: DEX Version 3.4 – Start Your Beat Mixing Journey Here"
-date: 2024-12-01T17:22:20.535Z
-updated: 2024-12-08T17:40:25.771Z
+date: 2024-12-14T01:32:41.026Z
+updated: 2024-12-14T19:53:08.320Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,20 +93,14 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/arnings-in-the-virtual-playground/"><u>[New] Earnings in the Virtual Playground</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-easy-and-fast-youtubes-best-subtitle-getters-for-2024/"><u>[Updated] Free, Easy and Fast YouTube's Best Subtitle Getters for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/asian-equity-markets-surge-as-china-implements-favorable-stamp-duty-policies-early-trading-shows-positive-movement-with-singapore-stocks-climbing-by-105-ami4/"><u>Asian Equity Markets Surge as China Implements Favorable Stamp Duty Policies; Early Trading Shows Positive Movement, with Singapore Stocks Climbing by 1.05% Amidst Anticipation of US Jobs and Inflation Figures - YL Computing Insights</u></a></li>
-<li><a href="https://win-community.techidaily.com/beat-the-heat-advanced-techniques-for-preventing-computer-overheating-by-yl-software-professionals/"><u>Beat the Heat: Advanced Techniques for Preventing Computer Overheating by YL Software Professionals</u></a></li>
-<li><a href="https://win-community.techidaily.com/crafting-a-successful-strategy-mobile-dj-business-planning-part-2-explained-in-video/"><u>Crafting a Successful Strategy: Mobile DJ Business Planning [Part 2] Explained in Video</u></a></li>
-<li><a href="https://win-community.techidaily.com/dynamic-catwoman-wallpapers-and-desktop-backgrounds-high-quality-visual-content-by-yl-computing/"><u>Dynamic Catwoman Wallpapers & Desktop Backgrounds - High-Quality Visual Content by YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/introducing-lyrx-premium-karaoke-studio-tailored-for-mac-enthusiasts-and-dj-pros/"><u>Introducing Lyrx: Premium Karaoke Studio Tailored for Mac Enthusiasts and DJ Pros!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-boosts-geforce-210-performance-on-win10-os/"><u>NVIDIA Boosts GeForce 210 Performance on WIN10 OS</u></a></li>
-<li><a href="https://win-community.techidaily.com/revolutionize-your-data-gathering-with-yls-latest-tool-effortlessly-extract-tweets-using-yl-web-scraper-solutions-by-yl-software/"><u>Revolutionize Your Data Gathering with YL's Latest Tool – Effortlessly Extract Tweets Using YL Web Scraper | Solutions by YL Software</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-guide-downloading-videos-from-vine-and-youtube-for-free/"><u>Step-by-Step Guide: Downloading Videos From Vine and YouTube for Free</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/troubleshooting-guide-solving-vlc-casting-problems-and-resolving-black-screen-errors/"><u>Troubleshooting Guide: Solving VLC Casting Problems & Resolving Black Screen Errors</u></a></li>
-<li><a href="https://win-community.techidaily.com/understanding-bsod-detecting-potential-hardware-faults-with-expert-advice-from-yl-computing-solutions/"><u>Understanding BSOD: Detecting Potential Hardware Faults with Expert Advice From YL Computing Solutions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/vlog-edit-mastery-harnessing-the-power-of-jump-cuts-for-2024/"><u>Vlog Edit Mastery Harnessing the Power of Jump Cuts for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-essential-insight-into-the-best-6-harnesses-for-gopro-headsets-for-2024/"><u>[New] Essential Insight Into The Best 6 Harnesses for GoPro Headsets for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/1-customizing-your-windows-mouse-cursor-a-step-by-step-guide-by-yl-computing/"><u>1. Customizing Your Windows Mouse Cursor: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-kinemaster-techniques-and-top-10-online-rivals/"><u>2024 Approved Mastering KineMaster Techniques & Top 10 Online Rivals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-big-problems-with-openais-chatgpt/"><u>8 Big Problems With OpenAI's ChatGPT</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/broadcast-preservation-in-the-age-of-web-radio/"><u>Broadcast Preservation in the Age of Web Radio</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-g54-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola G54 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win-community.techidaily.com/solving-the-hardware-detection-failed-issue-a-guide-the-tech-insights-of-yl/"><u>Solving the 'Hardware Detection Failed' Issue: A Guide - The Tech Insights of YL</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-process-for-changing-filenames-and-folders-insights-by-yl-software-experts/"><u>Step-by-Step Process for Changing Filenames & Folders: Insights by YL Software Experts</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-process-for-installing-new-sound-card-driver-software-expert-advice-by-yl-computing/"><u>Step-by-Step Process for Installing New Sound Card Driver Software - Expert Advice by YL Computing</u></a></li>
 </ul></div>
 
