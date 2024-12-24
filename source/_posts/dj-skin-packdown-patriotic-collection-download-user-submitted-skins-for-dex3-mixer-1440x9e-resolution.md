@@ -1,7 +1,7 @@
 ---
 title: DJ Skin Packdown! Patriotic Collection - Download User-Submitted Skins for DEX3 Mixer (1440X9e Resolution)
-date: 2024-12-08T23:06:28.577Z
-updated: 2024-12-14T20:18:12.146Z
+date: 2024-12-22T22:23:52.418Z
+updated: 2024-12-23T19:17:14.093Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ Download the skin below and be sure to let Emiliano know what you think of his D
 _Have a skin you wish to submit and share with the PCDJ community? Email us at [submit@pcdj.com](https://tools.techidaily.com/pcdj/products/)_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -54,19 +54,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/skinpack-coverimage.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-11-free-youtube-video-rippers-to-download-youtube-videos/"><u>[New] 2024 Approved 11 FREE YouTube Video Rippers to Download YouTube Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-perfecting-iphone-photography-mastery-of-macro-and-close-up-details-for-2024/"><u>[New] Perfecting iPhone Photography Mastery of Macro and Close-Up Details for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-transforming-web-popularity-into-video-concepts-using-google-trends/"><u>[Updated] 2024 Approved Transforming Web Popularity Into Video Concepts Using Google Trends</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-recover-missing-audio-from-tweeted-videos/"><u>[Updated] Recover Missing Audio From Tweeted Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-5-high-quality-online-meeting-capture-devices/"><u>[Updated] Top 5 High-Quality Online Meeting Capture Devices</u></a></li>
-<li><a href="https://win-community.techidaily.com/a-historical-overview-of-qing-chinas-shift-in-global-alliances-and-policies-explore-with-yl-computing/"><u>A Historical Overview of Qing China's Shift in Global Alliances & Policies - Explore with YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-on-repairing-startup-problems-in-mozilla-thunderbird/"><u>Comprehensive Guide on Repairing Startup Problems in Mozilla Thunderbird</u></a></li>
-<li><a href="https://win-community.techidaily.com/controllers-vs-dvs-a-dynamic-showdown-in-djing-beat-blending-tactics/"><u>Controllers vs DVS: A Dynamic Showdown in DJing | Beat Blending Tactics</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-keep-your-dualsense-in-top-form-virtually/"><u>How to Keep Your DualSense in Top Form Virtually</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-12-pro-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 12 Pro 5G Device</u></a></li>
-<li><a href="https://win-community.techidaily.com/mao-zedongs-historic-announcement-the-establishment-date-of-the-peoples-republic-of-china-insights-by-yl-computing/"><u>Mao Zedong's Historic Announcement: The Establishment Date of the People's Republic of China - Insights by YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/resolving-unexpected-app-crashes-and-freezing-problems-caused-by-memory-errors-a-guide-from-yl-computing/"><u>Resolving Unexpected App Crashes and Freezing Problems Caused by Memory Errors: A Guide From YL Computing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211031807-9781088270479-tarros-de-hechizos-para-principiantes/"><u>Tarros de Hechizos para Principiantes | Free Book</u></a></li>
-<li><a href="https://win-community.techidaily.com/unveiling-historical-timelines-pinpointing-the-beginning-of-sino-japanese-warfare-analysis-from-yl-software/"><u>Unveiling Historical Timelines: Pinpointing the Beginning of Sino-Japanese Warfare – Analysis From YL Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/irecting-the-flow-of-digital-storytelling-through-youtube-fusion-for-2024/"><u>[New] Directing the Flow of Digital Storytelling Through Youtube Fusion for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-synthesizing-worlds-latest-trends-in-virtual-tech/"><u>[New] Synthesizing Worlds Latest Trends in Virtual Tech</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-20-guidelines-livestream-webinars-at-no-extra-charge/"><u>[Updated] 20 Guidelines Livestream Webinars at No Extra Charge</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-should-you-keep-previewing-fb-activity-visible-insights/"><u>[Updated] 2024 Approved Should You Keep Previewing FB Activity Visible? Insights</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-fixed-most-effective-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/"><u>2024 Approved [Fixed] Most-Effective 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro</u></a></li>
+<li><a href="https://win-community.techidaily.com/connecting-multiple-displays-efficiently-a-step-by-step-guide-by-yl-computing/"><u>Connecting Multiple Displays Efficiently: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/discover-how-to-access-and-understand-your-files-details-on-windows-expert-guide-by-yl-software/"><u>Discover How to Access and Understand Your Files' Details on Windows - Expert Guide by YL Software</u></a></li>
+<li><a href="https://win-community.techidaily.com/effective-strategies-for-controlling-access-with-windows-user-accounts-tips-from-yl-software-expertise/"><u>Effective Strategies for Controlling Access with Windows User Accounts - Tips From YL Software Expertise</u></a></li>
+<li><a href="https://win-community.techidaily.com/high-resolution-little-caprice-wallpapers-and-hd-desktop-scenes-download-now-with-yl-computing/"><u>High-Resolution Little Caprice Wallpapers & HD Desktop Scenes - Download Now with YL Computing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-non-copyrighted-meditation-sounds/"><u>In 2024, Non-Copyrighted Meditation Sounds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-listening-made-easy-with-direct-recording/"><u>In 2024, YouTube Listening Made Easy with Direct Recording</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/protective-mechanisms-of-windows-defender-for-secure-operating-systems-explained-yl-software-guidance/"><u>Protective Mechanisms of Windows Defender for Secure Operating Systems Explained - YL Software Guidance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-solution-dayz-fps-drop-problem-solved-with-ease/"><u>Quick Solution: DayZ FPS Drop Problem Solved with Ease</u></a></li>
+<li><a href="https://win-community.techidaily.com/resolving-audio-problems-a-guide-to-fixing-your-windows-sound-card-tips-from-yl-computing/"><u>Resolving Audio Problems: A Guide to Fixing Your Windows Sound Card - Tips From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/terrifying-woodland-canopy-high-resolution-scenery-digital-artwork-and-visuals-by-yl-computing/"><u>Terrifying Woodland Canopy: High-Resolution Scenery, Digital Artwork & Visuals by YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/the-high-stakes-litigation-of-commercial-singing-venues-unpacking-the-264-million-lawsuit-against-kamu-ultra-karaoke-and-its-impact-on-dj-industry/"><u>The High-Stakes Litigation of Commercial Singing Venues: Unpacking the $264 Million Lawsuit Against Kamu Ultra Karaoke and Its Impact on DJ Industry</u></a></li>
+<li><a href="https://win-community.techidaily.com/troubleshooting-your-computers-sound-card-issues-expertise-from-yl-software/"><u>Troubleshooting Your Computer's Sound Card Issues: Expertise From YL Software</u></a></li>
 </ul></div>
 

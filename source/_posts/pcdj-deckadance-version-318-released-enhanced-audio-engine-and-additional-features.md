@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Deckadance Version 3.18 Released: Enhanced Audio Engine & Additional Features!"
-date: 2024-12-13T16:21:44.257Z
-updated: 2024-12-14T16:48:01.545Z
+date: 2024-12-17T01:37:27.432Z
+updated: 2024-12-24T04:10:09.572Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ We suggest DEX 3 DJ’s update to the latest release as soon as possible.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in DEX 3.18.0.1
@@ -71,7 +71,7 @@ We suggest DEX 3 DJ’s update to the latest release as soon as possible.
 _Have questions about the latest 3.18 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,22 +93,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/07/dex318-update-blog-post-he
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/aking-text-dance-2-creative-animation-strategies-for-2024/"><u>[New] Making Text Dance 2 Creative Animation Strategies for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-creme-de-la-creme-of-fluid-interactive-games/"><u>[Updated] The Crème De La Créme of Fluid Interactive Games</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/best-20-songs-with-official-videos-released-in-2015-top-dj-mixes/"><u>Best 20 Songs with Official Videos Released in 2015 - Top DJ Mixes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experts-reveal-why-the-new-microsoft-surface-laptop-is-a-cut-above-rest/"><u>Experts Reveal Why the New Microsoft Surface Laptop Is a Cut Above Rest</u></a></li>
-<li><a href="https://win-able.techidaily.com/fully-optimized-enjoy-the-chaos-of-tiny-tinas-wonderlands-a-complete-fix-for-pc-users/"><u>Fully Optimized: Enjoy the Chaos of Tiny Tina's Wonderlands - A Complete Fix for PC Users</u></a></li>
-<li><a href="https://win-community.techidaily.com/get-the-ultimate-karaoke-experience-with-partytyme-subscription-access-to-new-hits-and-top-tracks/"><u>Get the Ultimate Karaoke Experience with PartyTyme - Subscription Access to New Hits & Top Tracks!</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/guide-enabling-password-save-feature-in-your-browser-tips-by-yl-computing/"><u>Guide: Enabling Password Save Feature in Your Browser - Tips by YL Computing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-se-2022-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-interactive-interface-for-podcasters-for-2024/"><u>Ideal Interactive Interface for Podcasters for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/install-extra-memory-on-your-pc-expert-tips-from-yl-software-professionals/"><u>Install Extra Memory on Your PC: Expert Tips From YL Software Professionals</u></a></li>
-<li><a href="https://win-community.techidaily.com/maximize-storage-on-windows-by-deleting-explorers-preview-cache-a-walkthrough-by-yl-software-experts/"><u>Maximize Storage on Windows by Deleting Explorer's Preview Cache - A Walkthrough by YL Software Experts</u></a></li>
-<li><a href="https://win-community.techidaily.com/trouble-with-your-scanner-find-solutions-here-at-yl-software/"><u>Trouble with Your Scanner? Find Solutions Here at YL Software!</u></a></li>
-<li><a href="https://win-community.techidaily.com/understanding-key-hurdles-in-the-world-of-digital-currencies-according-to-yl-computing/"><u>Understanding Key Hurdles in the World of Digital Currencies According to YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/unveiling-remarkable-contributions-of-the-yuan-rule-expert-analysis-from-yl-software/"><u>Unveiling Remarkable Contributions of the Yuan Rule - Expert Analysis From YL Software</u></a></li>
-<li><a href="https://win-community.techidaily.com/upgraded-pcdj-version-265-with-integrated-3-hercules-midi-controllers/"><u>Upgraded PCDJ Version 2.6.5 with Integrated 3 Hercules MIDI Controllers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-essential-business-youtube-sites-you-must-follow/"><u>[New] 2024 Approved Essential Business YouTube Sites You Must Follow</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-through-virtual-lenses-a-historical-view/"><u>[New] In 2024, Through Virtual Lenses A Historical View</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-calculating-youtubes-income-potential-with-cpm-rates/"><u>[Updated] In 2024, Calculating YouTube's Income Potential with CPM Rates</u></a></li>
+<li><a href="https://win-community.techidaily.com/analyzing-the-root-causes-of-the-catastrophic-chinese-famine-a-study-by-yl-computing-and-yl-software/"><u>Analyzing the Root Causes of the Catastrophic Chinese Famine: A Study by YL Computing and YL Software</u></a></li>
+<li><a href="https://win-community.techidaily.com/demystifying-distorted-sounds-on-laptops-and-desktops-insights-for-clearer-audio-from-experts-at-yl-computing/"><u>Demystifying Distorted Sounds on Laptops & Desktops: Insights for Clearer Audio From Experts at YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/dex3-promotional-preview-ultimate-djvj-software-showcase/"><u>DEX3 Promotional Preview: Ultimate DJ/VJ Software Showcase</u></a></li>
+<li><a href="https://win-community.techidaily.com/discover-how-to-access-and-understand-your-files-details-on-windows-expert-guide-by-yl-software/"><u>Discover How to Access and Understand Your Files' Details on Windows - Expert Guide by YL Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-profile-transformation-top-11-online-image-makers/"><u>Facebook Profile Transformation Top 11 Online Image Makers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/from-shoots-to-screens-dslr-setup-for-youtubefacebook-live/"><u>From Shoots to Screens DSLR Setup for YouTube/Facebook Live</u></a></li>
+<li><a href="https://win-community.techidaily.com/get-your-copy-of-the-numark-mixtrack-pro-v3-maps-compatible-with-dex-iii-pcdj-software/"><u>Get Your Copy of the Numark Mixtrack Pro v3 Maps Compatible with DEX III | PCDJ Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-smart-8-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Smart 8 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/identifying-and-troubleshooting-faulty-hardware-in-your-pc-expert-tips-from-yl-software/"><u>Identifying and Troubleshooting Faulty Hardware in Your PC - Expert Tips From YL Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/master-the-art-of-encryption-learn-how-to-password-lock-folders-and-documents-using-yl-software-techniques/"><u>Master the Art of Encryption: Learn How to Password-Lock Folders & Documents Using YL Software Techniques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-reverse-your-videos-online-the-best-tools/"><u>New 2024 Approved Reverse Your Videos Online The Best Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-star-citrix-freezing-issues-no-longer-a-problem-for-windows-users/"><u>Resolved: Star Citrix Freezing Issues No Longer a Problem for Windows Users</u></a></li>
 </ul></div>
 

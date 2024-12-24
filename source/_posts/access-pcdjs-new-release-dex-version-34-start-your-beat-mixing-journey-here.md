@@ -1,7 +1,7 @@
 ---
 title: "Access PCDJ's New Release: DEX Version 3.4 – Start Your Beat Mixing Journey Here"
-date: 2024-12-14T01:32:41.026Z
-updated: 2024-12-14T19:53:08.320Z
+date: 2024-12-16T20:15:57.931Z
+updated: 2024-12-24T04:37:33.453Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,14 +93,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-essential-insight-into-the-best-6-harnesses-for-gopro-headsets-for-2024/"><u>[New] Essential Insight Into The Best 6 Harnesses for GoPro Headsets for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/1-customizing-your-windows-mouse-cursor-a-step-by-step-guide-by-yl-computing/"><u>1. Customizing Your Windows Mouse Cursor: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-kinemaster-techniques-and-top-10-online-rivals/"><u>2024 Approved Mastering KineMaster Techniques & Top 10 Online Rivals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-big-problems-with-openais-chatgpt/"><u>8 Big Problems With OpenAI's ChatGPT</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/broadcast-preservation-in-the-age-of-web-radio/"><u>Broadcast Preservation in the Age of Web Radio</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-g54-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola G54 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://win-community.techidaily.com/solving-the-hardware-detection-failed-issue-a-guide-the-tech-insights-of-yl/"><u>Solving the 'Hardware Detection Failed' Issue: A Guide - The Tech Insights of YL</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-process-for-changing-filenames-and-folders-insights-by-yl-software-experts/"><u>Step-by-Step Process for Changing Filenames & Folders: Insights by YL Software Experts</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-process-for-installing-new-sound-card-driver-software-expert-advice-by-yl-computing/"><u>Step-by-Step Process for Installing New Sound Card Driver Software - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-building-blocks-for-a-stellar-documentary-storyline-for-2024/"><u>[Updated] Building Blocks for a Stellar Documentary Storyline for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/1-how-to-personalize-your-windows-control-panel-tips-and-tricks-from-yl-computing/"><u>1. How to Personalize Your Windows Control Panel - Tips and Tricks From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/a-step-by-step-guide-identifying-and-resolving-computer-hardware-issues-with-insights-from-yl-software/"><u>A Step-by-Step Guide: Identifying & Resolving Computer Hardware Issues with Insights From YL Software</u></a></li>
+<li><a href="https://win-community.techidaily.com/boosting-computer-speed-and-power-pro-techniques-by-yl-software-and-yl-computing/"><u>Boosting Computer Speed & Power: Pro Techniques by YL Software and YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/explore-the-all-in-one-power-of-pcdj-dex-3-for-music-production-video-editing-and-sing-alongs/"><u>Explore the All-in-One Power of PCDJ Dex 3 for Music Production, Video Editing & Sing Alongs!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hero-session-vs-cube-a-face-off-in-video-editors-for-2024/"><u>Hero Session Vs. Cube A Face-Off in Video Editors for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/high-definition-dota-2-graphics-and-backgrounds-premium-collection-by-yl-computing/"><u>High-Definition Dota 2 Graphics & Backgrounds: Premium Collection by YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-gt-neo-5-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme GT Neo 5</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-best-screenshot-and-recorder-software-for-professors/"><u>In 2024, Best Screenshot and Recorder Software for Professors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-collage-apps-for-an-android-aesthetic/"><u>In 2024, Pioneering Collage Apps for an Android Aesthetic</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-video-editing-mastery-top-effects-to-elevate-your-videos/"><u>New 2024 Approved Video Editing Mastery Top Effects to Elevate Your Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ethical-imperative-in-ai-regulation-openais-perspective/"><u>The Ethical Imperative in AI Regulation - OpenAI's Perspective</u></a></li>
 </ul></div>
 

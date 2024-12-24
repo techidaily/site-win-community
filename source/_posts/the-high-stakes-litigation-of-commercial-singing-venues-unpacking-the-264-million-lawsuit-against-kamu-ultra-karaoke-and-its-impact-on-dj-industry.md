@@ -1,7 +1,7 @@
 ---
 title: "The High-Stakes Litigation of Commercial Singing Venues: Unpacking the $264 Million Lawsuit Against Kamu Ultra Karaoke and Its Impact on DJ Industry"
-date: 2024-12-09T23:39:44.885Z
-updated: 2024-12-15T00:33:53.914Z
+date: 2024-12-16T23:05:40.164Z
+updated: 2024-12-23T23:10:57.291Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ According to the complaint, filed in federal district court in Los Angeles, the 
 “The Venetian’s ‘Kamu Ultra Karaoke’ lounge is a brazenly illegal operation that uses YouTube to circumvent legitimate commercial licensing of Sybersound’s original Party Tyme Karaoke content,” said Peter Haviland, counsel for Sybersound Records. “We have become aware of this as a huge problem in karaoke lounges and events throughout the country, and we intend to stop it. Individuals can enjoy Party Tyme and other karaoke content through YouTube in their own homes and at their own private events. Commercial businesses, on the other hand, cannot exploit this content and make big profits from it without paying a fair subscription license for that commercial use.“ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,21 +72,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/11/legal-landscape-commercial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-windows-11s-top-video-capture-tools-essentials-edition/"><u>[New] 2024 Approved Windows 11'S Top Video Capture Tools Essentials Edition</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-quick-and-easy-the-5-best-tools-for-facebook-live-videos/"><u>[New] Quick & Easy The 5 Best Tools for Facebook Live Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-configuration-ticking-clocks-setup-guide-for-broadcasting-platforms-for-2024/"><u>[New] Ultimate Configuration Ticking Clocks Setup Guide for Broadcasting Platforms for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-top-streamers-choice-does-virusmix-or-wirecast-rule-the-game/"><u>[Updated] 2024 Approved Top Streamers Choice Does VirusMix or WireCast Rule the Game?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-pro-mastering-the-craft-of-yt-shorts/"><u>[Updated] In 2024, From Novice to Pro Mastering the Craft of YT Shorts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-turn-off-chatter-secrets-for-muting-users-on-gomeet/"><u>2024 Approved Turn Off Chatter Secrets for Muting Users on GoMeet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/anticipated-announcements-in-apples-october-event-spotlight-on-revolutionary-m4-mac-mini-innovative-ipads-and-advanced-ai-features/"><u>Anticipated Announcements in Apple's October Event: Spotlight on Revolutionary M4 Mac Mini, Innovative iPads, and Advanced AI Features</u></a></li>
-<li><a href="https://win-community.techidaily.com/beginners-journey-into-dj-controller-magic-unlocking-the-secrets-of-the-pcdj-dex-3-re-edition/"><u>Beginner's Journey Into DJ Controller Magic: Unlocking the Secrets of the PCDJ Dex 3 Re Edition</u></a></li>
-<li><a href="https://win-community.techidaily.com/boost-your-pcs-performance-expert-tips-from-yl-computing-on-accelerating-computer-speed/"><u>Boost Your PC's Performance: Expert Tips From YL Computing on Accelerating Computer Speed</u></a></li>
-<li><a href="https://win-community.techidaily.com/exploring-the-world-of-dj-controllers-what-purpose-do-they-serve-and-is-it-time-to-upgrade-your-setup/"><u>Exploring the World of DJ Controllers – What Purpose Do They Serve and Is It Time to Upgrade Your Setup?</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-to-reliably-check-if-your-sound-card-works-tips-by-yl-software-experts/"><u>How to Reliably Check if Your Sound Card Works: Tips by YL Software Experts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-zte-blade-a73-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your ZTE Blade A73 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win-community.techidaily.com/key-bitcoin-resistance-points-identified-by-traders-amidst-waning-34k-support-insights-from-yl-computing-and-yl-software/"><u>Key Bitcoin Resistance Points Identified by Traders Amidst Waning $34K Support - Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/yl-computing-tutorial-easily-adjusting-networkinternet-properties-using-our-tools/"><u>YL Computing Tutorial: Easily Adjusting Network/Internet Properties Using Our Tools</u></a></li>
-<li><a href="https://win-community.techidaily.com/yl-software-insights-effective-techniques-for-uninstalling-programs-on-your-computer/"><u>YL Software Insights: Effective Techniques for Uninstalling Programs on Your Computer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-revolutionize-your-tech-life-with-no-cost-mac-recording-tools/"><u>[New] In 2024, Revolutionize Your Tech Life with No-Cost Mac Recording Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-gopros-superhero-5-and-sj7-showdown/"><u>[Updated] GoPro's Superhero 5 and SJ7 Showdown</u></a></li>
+<li><a href="https://win-community.techidaily.com/1-step-by-step-guide-customizing-your-desktop-wallpaper-with-ease-insights-from-yl-computings-software-solutions/"><u>1. 'Step-by-Step Guide: Customizing Your Desktop Wallpaper with Ease - Insights From YL Computing's Software Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-14-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone 14 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-reverse-a-video-on-iphone/"><u>In 2024, How to Reverse a Video on iPhone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/launch-of-dex-v3204-enhanced-compatibility-with-new-pioneer-dj-gear-and-updates/"><u>Launch of DEX v3.20.4 - Enhanced Compatibility with New Pioneer DJ Gear & Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/resume-rapidity-key-to-xbox-series-xands-gameplay/"><u>Résumé Rapidity: Key to Xbox Series X&S Gameplay?</u></a></li>
+<li><a href="https://win-community.techidaily.com/stunning-metro-exodus-wallpapers-and-desktop-backgrounds-by-yl-computing-download-now/"><u>Stunning Metro Exodus Wallpapers & Desktop Backgrounds by YL Computing - Download Now</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ty-mics-the-budgetists-guide-for-youtubers/"><u>Thrifty Mics The Budgetist's Guide for Youtubers</u></a></li>
+<li><a href="https://win-community.techidaily.com/ultimate-guide-to-harmonizing-melodies-in-dex-3-how-to-easily-find-matching-keys-for-flawless-transitions/"><u>Ultimate Guide to Harmonizing Melodies in DEX 3: How to Easily Find Matching Keys for Flawless Transitions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unparalleled-gaming-audio-experience-save-150-on-the-top-rated-speakers-now-at-amazon-reviewed-by-zdnet/"><u>Unparalleled Gaming Audio Experience: Save $150 on the Top-Rated Speakers Now at Amazon - Reviewed by ZDNet</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-you-dont-have-to-be-a-skilled-video-editor-to-convert-image-to-videos-because-there-are-a-lot-of-online-image-to-video-maker-tools-that-enab/"><u>Updated In 2024, You Dont Have to Be a Skilled Video Editor to Convert Image to Videos, because There Are a Lot of Online Image to Video Maker Tools that Enable You to Create a New Video From Photos in Just a Few Eas</u></a></li>
+<li><a href="https://win-community.techidaily.com/vibrant-star-showers-and-dynamic-spotlights-in-hd-for-smartphone-backgrounds-create-your-own-ambiance-with-yl-softwares-exclusive-wallpaper/"><u>Vibrant Star Showers and Dynamic Spotlights in HD for Smartphone Backgrounds – Create Your Own Ambiance with YL Software's Exclusive Wallpaper</u></a></li>
+<li><a href="https://win-community.techidaily.com/yl-software-reviews-the-ultimate-comparison-of-leading-antivirus-programs-for-enhanced-security/"><u>YL Software Reviews: The Ultimate Comparison of Leading Antivirus Programs for Enhanced Security</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Launch of DEX v3.20.4 - Enhanced Compatibility with New Pioneer DJ Gear & Updates
-date: 2024-12-10T19:31:35.711Z
-updated: 2024-12-14T16:28:20.830Z
+date: 2024-12-19T20:20:34.097Z
+updated: 2024-12-24T04:53:23.276Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Also, a series of updates are included for the built-in streaming services, incl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in DEX 3.20.4
@@ -61,7 +61,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.4 version of our **best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,22 +83,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/03/DEX3204.jpg?fit=1031%2C623
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-cutting-edge-fb-video-creators-20-free-apps-for-marketers/"><u>[New] Cutting-Edge FB Video Creators 20 Free Apps for Marketers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-instantaneous-installation-laugh-with-ifunny-memes-easily/"><u>[Updated] In 2024, Instantaneous Installation Laugh with iFunny Memes Easily</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-leading-innovations-in-video-calls-discover-the-top-10-apps-for-2024/"><u>[Updated] Leading Innovations in Video Calls Discover the Top 10 Apps for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/asian-equity-markets-surge-as-china-implements-favorable-stamp-duty-policies-early-trading-shows-positive-movement-with-singapore-stocks-climbing-by-105-ami4/"><u>Asian Equity Markets Surge as China Implements Favorable Stamp Duty Policies; Early Trading Shows Positive Movement, with Singapore Stocks Climbing by 1.05% Amidst Anticipation of US Jobs and Inflation Figures - YL Computing Insights</u></a></li>
-<li><a href="https://win-community.techidaily.com/beat-the-heat-advanced-techniques-for-preventing-computer-overheating-by-yl-software-professionals/"><u>Beat the Heat: Advanced Techniques for Preventing Computer Overheating by YL Software Professionals</u></a></li>
-<li><a href="https://win-community.techidaily.com/boost-your-playlists-in-delaware-and-beyond-new-party-tyme-collection-awaits-you-in-dex-3-and-lyrx-ready-to-amplify-every-celebration/"><u>Boost Your Playlists in Delaware and Beyond - New Party Tyme Collection Awaits You in DEX 3 and LYRX, Ready to Amplify Every Celebration!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/improved-netflixs-ad-free-viewing-experience-now-available/"><u>Improved Netflix's Ad-Free Viewing Experience Now Available</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-vivo-v30-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo V30 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://win-community.techidaily.com/is-your-favorite-crypto-wallet-universal-expert-insight-on-multi-currency-balance-verification-tools-by-yl-computing/"><u>Is Your Favorite Crypto Wallet Universal: Expert Insight on Multi-Currency Balance Verification Tools by YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-dealing-with-windows-error-code-31-easy-fixes-inside/"><u>Master the Art of Dealing with Windows' Error Code 31: Easy Fixes Inside</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor 70 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/render-images-with-radial-light-diffusion-technique/"><u>Render Images with Radial Light Diffusion Technique</u></a></li>
-<li><a href="https://win-community.techidaily.com/revolutionize-your-data-gathering-with-yls-latest-tool-effortlessly-extract-tweets-using-yl-web-scraper-solutions-by-yl-software/"><u>Revolutionize Your Data Gathering with YL's Latest Tool – Effortlessly Extract Tweets Using YL Web Scraper | Solutions by YL Software</u></a></li>
-<li><a href="https://win-community.techidaily.com/rewriting-the-rulebook-changing-open-settings-for-different-file-formats-in-windows-os-with-guidance-from-yl-software/"><u>Rewriting the Rulebook: Changing Open Settings for Different File Formats in Windows OS with Guidance From YL Software</u></a></li>
-<li><a href="https://win-community.techidaily.com/shifting-files-with-ease-a-comprehensive-guide-for-windows-users-exploring-solutions-by-yl-computing/"><u>Shifting Files with Ease: A Comprehensive Guide for Windows Users - Exploring Solutions by YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/yl-softwares-high-resolution-dark-themed-wallpaper-showcasing-a-vibrant-light-blue-matrix-pattern-in-full-hd/"><u>YL Software's High-Resolution Dark Themed Wallpaper Showcasing a Vibrant Light Blue Matrix Pattern in Full HD</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/ekspertnye-sovety-po-kopirovaniyu-zhestkogo-diska-vashego-noutbuka-dell-vershiny-tehnologij-s-sohraneniem-os/"><u>Экспертные Советы По Копированию Жесткого Диска Вашего Ноутбука Dell: Вершины Технологий С Сохранением ОС!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-10-sci-fi-vr-adventures-unveiling-distant-realities/"><u>[New] 10 Sci-Fi VR Adventures Unveiling Distant Realities</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004566236-solved-origin-crash-issue-quickly-and-easily/"><u>[Solved] Origin Crash Issue | Quickly & Easily</u></a></li>
+<li><a href="https://win-community.techidaily.com/exploring-the-timeline-and-locations-of-the-cultural-revolution-insights-from-yl-computing/"><u>Exploring the Timeline and Locations of the Cultural Revolution: Insights From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/high-definition-bmw-8-series-convertible-desktop-and-mobile-walls-premium-quality-graphics-by-yl-computing/"><u>High-Definition BMW 8 Series Convertible Desktop & Mobile Walls - Premium Quality Graphics by YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/high-definition-bmw-z4-roadster-visuals-custom-walls-desktops-and-more-created-by-yl-computing/"><u>High-Definition BMW Z4 Roadster Visuals: Custom Walls, Desktops & More - Created by YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-to-switch-your-primary-language-on-windows-pc-step-by-step-guide-by-yl-computing/"><u>How to Switch Your Primary Language on Windows PC - Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-infinix-note-30-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Infinix Note 30 5G Without PUK Codes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-f5-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Poco F5 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/roku-or-fire-tv-stick-choosing-the-perfect-streaming-device/"><u>Roku or Fire TV Stick: Choosing the Perfect Streaming Device</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/streamlined-screencasting-experts-top-recommendations/"><u>Streamlined Screencasting Experts' Top Recommendations</u></a></li>
+<li><a href="https://win-community.techidaily.com/stunning-samsung-galaxy-s20-backgrounds-by-yl-computing-your-guide-to-the-best-digital-designs/"><u>Stunning Samsung Galaxy S20 Backgrounds by YL Computing: Your Guide to the Best Digital Designs</u></a></li>
+<li><a href="https://win-community.techidaily.com/understanding-the-causes-of-slow-loading-times-in-your-windows-applications-expert-insights-from-yl-computing/"><u>Understanding the Causes of Slow Loading Times in Your Windows Applications - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/upgrading-visual-appeal-a-how-to-guide-for-twitter-video-image-changes/"><u>Upgrading Visual Appeal A How-To Guide for Twitter Video Image Changes</u></a></li>
 </ul></div>
 
