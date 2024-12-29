@@ -1,7 +1,7 @@
 ---
 title: "Access PCDJ's New Release: DEX Version 3.4 – Start Your Beat Mixing Journey Here"
-date: 2024-12-16T20:15:57.931Z
-updated: 2024-12-24T04:37:33.453Z
+date: 2024-12-25T17:17:58.443Z
+updated: 2024-12-29T16:34:57.265Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,17 +93,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-building-blocks-for-a-stellar-documentary-storyline-for-2024/"><u>[Updated] Building Blocks for a Stellar Documentary Storyline for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/1-how-to-personalize-your-windows-control-panel-tips-and-tricks-from-yl-computing/"><u>1. How to Personalize Your Windows Control Panel - Tips and Tricks From YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/a-step-by-step-guide-identifying-and-resolving-computer-hardware-issues-with-insights-from-yl-software/"><u>A Step-by-Step Guide: Identifying & Resolving Computer Hardware Issues with Insights From YL Software</u></a></li>
-<li><a href="https://win-community.techidaily.com/boosting-computer-speed-and-power-pro-techniques-by-yl-software-and-yl-computing/"><u>Boosting Computer Speed & Power: Pro Techniques by YL Software and YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/explore-the-all-in-one-power-of-pcdj-dex-3-for-music-production-video-editing-and-sing-alongs/"><u>Explore the All-in-One Power of PCDJ Dex 3 for Music Production, Video Editing & Sing Alongs!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hero-session-vs-cube-a-face-off-in-video-editors-for-2024/"><u>Hero Session Vs. Cube A Face-Off in Video Editors for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/high-definition-dota-2-graphics-and-backgrounds-premium-collection-by-yl-computing/"><u>High-Definition Dota 2 Graphics & Backgrounds: Premium Collection by YL Computing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-gt-neo-5-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme GT Neo 5</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-best-screenshot-and-recorder-software-for-professors/"><u>In 2024, Best Screenshot and Recorder Software for Professors</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-collage-apps-for-an-android-aesthetic/"><u>In 2024, Pioneering Collage Apps for an Android Aesthetic</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-video-editing-mastery-top-effects-to-elevate-your-videos/"><u>New 2024 Approved Video Editing Mastery Top Effects to Elevate Your Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ethical-imperative-in-ai-regulation-openais-perspective/"><u>The Ethical Imperative in AI Regulation - OpenAI's Perspective</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-chuckles-on-the-clouds-designing-hits-for-fb-and-instagram-meme-culture/"><u>[New] 2024 Approved Chuckles on the Clouds Designing Hits for FB & Instagram Meme Culture</u></a></li>
+<li><a href="https://win-community.techidaily.com/1-boost-your-gpu-efficiency-expert-tips-from-yl-computings-latest-guide/"><u>1. Boost Your GPU Efficiency: Expert Tips From YL Computing's Latest Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oneplus-nord-ce-3-lite-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My OnePlus Nord CE 3 Lite 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/bypassing-specific-files-in-windows-defender-scans-a-comprehensive-guide-tips-by-yl-computing/"><u>Bypassing Specific Files in Windows Defender Scans: A Comprehensive Guide - Tips by YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/exciting-update-pocket-songs-addition-expands-features-for-party-tyme-karaoke-members/"><u>Exciting Update: 'Pocket Songs' Addition Expands Features for Party Tyme Karaoke Members!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-standard-to-spectacited-mobile-devices-vr-conversion-path-for-2024/"><u>From Standard to Spectacited Mobile Device's VR Conversion Path for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-x90swithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo X90Swith/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-11-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme 11 Pro Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-7-digital-photography-devices-for-high-quality-video-streams/"><u>Ideal 7 Digital Photography Devices for High-Quality Video Streams</u></a></li>
+<li><a href="https://win-community.techidaily.com/overcoming-av-issues-a-deep-dive-into-common-problems-with-solutions-by-yl-software-experts/"><u>Overcoming AV Issues: A Deep Dive Into Common Problems with Solutions by YL Software Experts</u></a></li>
+<li><a href="https://win-community.techidaily.com/quick-launch-strategies-by-yl-software-how-to-minimize-computer-boot-duration-effortlessly/"><u>Quick Launch Strategies by YL Software: How to Minimize Computer Boot Duration Effortlessly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-how-to-fix-slowdowns-in-dying-light-gameplay/"><u>Resolved: How to Fix Slowdowns in Dying Light Gameplay</u></a></li>
+<li><a href="https://win-community.techidaily.com/unveiling-the-power-of-digital-quizzes-how-to-excel-using-digigames-trivia-and-buzzers-tech-video/"><u>Unveiling the Power of Digital Quizzes: How to Excel Using Digigames' Trivia and Buzzers Tech (Video)</u></a></li>
 </ul></div>
 

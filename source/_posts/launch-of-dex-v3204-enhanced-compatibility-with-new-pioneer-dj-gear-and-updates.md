@@ -1,7 +1,7 @@
 ---
 title: Launch of DEX v3.20.4 - Enhanced Compatibility with New Pioneer DJ Gear & Updates
-date: 2024-12-19T20:20:34.097Z
-updated: 2024-12-24T04:53:23.276Z
+date: 2024-12-22T18:19:18.719Z
+updated: 2024-12-29T17:55:54.907Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Also, a series of updates are included for the built-in streaming services, incl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in DEX 3.20.4
@@ -61,7 +61,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.4 version of our **best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,18 +83,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/03/DEX3204.jpg?fit=1031%2C623
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-10-sci-fi-vr-adventures-unveiling-distant-realities/"><u>[New] 10 Sci-Fi VR Adventures Unveiling Distant Realities</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004566236-solved-origin-crash-issue-quickly-and-easily/"><u>[Solved] Origin Crash Issue | Quickly & Easily</u></a></li>
-<li><a href="https://win-community.techidaily.com/exploring-the-timeline-and-locations-of-the-cultural-revolution-insights-from-yl-computing/"><u>Exploring the Timeline and Locations of the Cultural Revolution: Insights From YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/high-definition-bmw-8-series-convertible-desktop-and-mobile-walls-premium-quality-graphics-by-yl-computing/"><u>High-Definition BMW 8 Series Convertible Desktop & Mobile Walls - Premium Quality Graphics by YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/high-definition-bmw-z4-roadster-visuals-custom-walls-desktops-and-more-created-by-yl-computing/"><u>High-Definition BMW Z4 Roadster Visuals: Custom Walls, Desktops & More - Created by YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-to-switch-your-primary-language-on-windows-pc-step-by-step-guide-by-yl-computing/"><u>How to Switch Your Primary Language on Windows PC - Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-infinix-note-30-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Infinix Note 30 5G Without PUK Codes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-f5-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Poco F5 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/roku-or-fire-tv-stick-choosing-the-perfect-streaming-device/"><u>Roku or Fire TV Stick: Choosing the Perfect Streaming Device</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/streamlined-screencasting-experts-top-recommendations/"><u>Streamlined Screencasting Experts' Top Recommendations</u></a></li>
-<li><a href="https://win-community.techidaily.com/stunning-samsung-galaxy-s20-backgrounds-by-yl-computing-your-guide-to-the-best-digital-designs/"><u>Stunning Samsung Galaxy S20 Backgrounds by YL Computing: Your Guide to the Best Digital Designs</u></a></li>
-<li><a href="https://win-community.techidaily.com/understanding-the-causes-of-slow-loading-times-in-your-windows-applications-expert-insights-from-yl-computing/"><u>Understanding the Causes of Slow Loading Times in Your Windows Applications - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/upgrading-visual-appeal-a-how-to-guide-for-twitter-video-image-changes/"><u>Upgrading Visual Appeal A How-To Guide for Twitter Video Image Changes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-expertly-design-your-3d-openers-best-picks/"><u>[Updated] 2024 Approved Expertly Design Your 3D Openers Best Picks</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-climbing-to-youtube-zenith-a-step-by-step-guide-to-creative-studio-mastery/"><u>[Updated] Climbing to YouTube Zenith A Step-by-Step Guide to Creative Studio Mastery</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-ultimate-gaming-queens-top-10-female-youtubers/"><u>[Updated] In 2024, Ultimate Gaming Queens Top 10 Female YouTubers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-inject-personality-into-snaps-on-snapchat-through-voice-customization/"><u>2024 Approved Inject Personality Into Snaps on Snapchat Through Voice Customization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-starter-gear-for-gopro-cameras/"><u>2024 Approved Top Starter Gear for GoPro Cameras</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/fix-your-unresponsive-mouse-with-these-tips-by-yl-software-experts/"><u>Fix Your Unresponsive Mouse with These Tips by YL Software Experts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/funny-frenzy-top-10-tweets/"><u>Funny Frenzy Top 10 Tweets</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-easily-update-or-download-intels-graphics-drivers-for-your-windows-pc-version-10-and-11/"><u>How to Easily Update or Download Intel's Graphics Drivers for Your Windows PC (Version 10 & 11)</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-to-fix-an-unreliable-wi-fi-network-tips-from-yl-computings-expert-guide/"><u>How to Fix an Unreliable Wi-Fi Network: Tips From YL Computing's Expert Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-swift-skim-windows-file-compilation/"><u>In 2024, Swift Skim Windows File Compilation</u></a></li>
+<li><a href="https://win-community.techidaily.com/mastering-windows-defender-a-step-by-step-guide-on-adjusting-configuration-yl-tech-tips/"><u>Mastering Window's Defender: A Step-by-Step Guide on Adjusting Configuration - YL Tech Tips</u></a></li>
+<li><a href="https://win-community.techidaily.com/part-one-of-mastering-scratch-decks-the-art-of-organizing-dj-tracks-with-pcdj/"><u>Part One of Mastering Scratch Decks: The Art of Organizing DJ Tracks with PCDJ</u></a></li>
+<li><a href="https://win-community.techidaily.com/protect-personal-information-master-the-art-of-file-encryption-using-yls-expert-tools/"><u>Protect Personal Information: Master the Art of File Encryption Using YL's Expert Tools</u></a></li>
+<li><a href="https://win-community.techidaily.com/resolving-issues-with-network-interface-card-driver-installation-tips-from-yl-software-experts/"><u>Resolving Issues with Network Interface Card Driver Installation: Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-community.techidaily.com/resolving-performance-issues-on-your-machine-with-windows-11-upgrade-guided-steps-by-yl-software/"><u>Resolving Performance Issues on Your Machine with Windows 11 Upgrade - Guided Steps by YL Software</u></a></li>
+<li><a href="https://win-community.techidaily.com/zip-it-up-fast-mastering-archive-creation-techniques-from-yl-software-experts/"><u>Zip It Up Fast: Mastering Archive Creation Techniques From YL Software Experts</u></a></li>
 </ul></div>
 

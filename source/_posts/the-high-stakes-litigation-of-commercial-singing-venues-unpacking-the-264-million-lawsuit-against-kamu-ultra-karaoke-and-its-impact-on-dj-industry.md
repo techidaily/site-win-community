@@ -1,7 +1,7 @@
 ---
 title: "The High-Stakes Litigation of Commercial Singing Venues: Unpacking the $264 Million Lawsuit Against Kamu Ultra Karaoke and Its Impact on DJ Industry"
-date: 2024-12-16T23:05:40.164Z
-updated: 2024-12-23T23:10:57.291Z
+date: 2024-12-23T17:36:26.324Z
+updated: 2024-12-29T16:24:13.669Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ According to the complaint, filed in federal district court in Los Angeles, the 
 “The Venetian’s ‘Kamu Ultra Karaoke’ lounge is a brazenly illegal operation that uses YouTube to circumvent legitimate commercial licensing of Sybersound’s original Party Tyme Karaoke content,” said Peter Haviland, counsel for Sybersound Records. “We have become aware of this as a huge problem in karaoke lounges and events throughout the country, and we intend to stop it. Individuals can enjoy Party Tyme and other karaoke content through YouTube in their own homes and at their own private events. Commercial businesses, on the other hand, cannot exploit this content and make big profits from it without paying a fair subscription license for that commercial use.“ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,20 +72,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/11/legal-landscape-commercial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-revolutionize-your-tech-life-with-no-cost-mac-recording-tools/"><u>[New] In 2024, Revolutionize Your Tech Life with No-Cost Mac Recording Tools</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-gopros-superhero-5-and-sj7-showdown/"><u>[Updated] GoPro's Superhero 5 and SJ7 Showdown</u></a></li>
-<li><a href="https://win-community.techidaily.com/1-step-by-step-guide-customizing-your-desktop-wallpaper-with-ease-insights-from-yl-computings-software-solutions/"><u>1. 'Step-by-Step Guide: Customizing Your Desktop Wallpaper with Ease - Insights From YL Computing's Software Solutions</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-14-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone 14 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-reverse-a-video-on-iphone/"><u>In 2024, How to Reverse a Video on iPhone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/launch-of-dex-v3204-enhanced-compatibility-with-new-pioneer-dj-gear-and-updates/"><u>Launch of DEX v3.20.4 - Enhanced Compatibility with New Pioneer DJ Gear & Updates</u></a></li>
-<li><a href="https://games-able.techidaily.com/resume-rapidity-key-to-xbox-series-xands-gameplay/"><u>Résumé Rapidity: Key to Xbox Series X&S Gameplay?</u></a></li>
-<li><a href="https://win-community.techidaily.com/stunning-metro-exodus-wallpapers-and-desktop-backgrounds-by-yl-computing-download-now/"><u>Stunning Metro Exodus Wallpapers & Desktop Backgrounds by YL Computing - Download Now</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ty-mics-the-budgetists-guide-for-youtubers/"><u>Thrifty Mics The Budgetist's Guide for Youtubers</u></a></li>
-<li><a href="https://win-community.techidaily.com/ultimate-guide-to-harmonizing-melodies-in-dex-3-how-to-easily-find-matching-keys-for-flawless-transitions/"><u>Ultimate Guide to Harmonizing Melodies in DEX 3: How to Easily Find Matching Keys for Flawless Transitions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unparalleled-gaming-audio-experience-save-150-on-the-top-rated-speakers-now-at-amazon-reviewed-by-zdnet/"><u>Unparalleled Gaming Audio Experience: Save $150 on the Top-Rated Speakers Now at Amazon - Reviewed by ZDNet</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-you-dont-have-to-be-a-skilled-video-editor-to-convert-image-to-videos-because-there-are-a-lot-of-online-image-to-video-maker-tools-that-enab/"><u>Updated In 2024, You Dont Have to Be a Skilled Video Editor to Convert Image to Videos, because There Are a Lot of Online Image to Video Maker Tools that Enable You to Create a New Video From Photos in Just a Few Eas</u></a></li>
-<li><a href="https://win-community.techidaily.com/vibrant-star-showers-and-dynamic-spotlights-in-hd-for-smartphone-backgrounds-create-your-own-ambiance-with-yl-softwares-exclusive-wallpaper/"><u>Vibrant Star Showers and Dynamic Spotlights in HD for Smartphone Backgrounds – Create Your Own Ambiance with YL Software's Exclusive Wallpaper</u></a></li>
-<li><a href="https://win-community.techidaily.com/yl-software-reviews-the-ultimate-comparison-of-leading-antivirus-programs-for-enhanced-security/"><u>YL Software Reviews: The Ultimate Comparison of Leading Antivirus Programs for Enhanced Security</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-tech-innovator-point-of-view-unveiling-the-best-fb-video-downloaders-on-android/"><u>2024 Approved Tech Innovator' Point of View Unveiling the Best FB Video Downloaders on Android</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/advanced-techniques-for-voice-to-text-transcription-in-whatsapp-for-2024/"><u>Advanced Techniques for Voice-to-Text Transcription in WhatsApp for 2024</u></a></li>
+<li><a href="https://discover-data.techidaily.com/discerning-reliable-crypto-exchange-platforms-insights-from-yl-computing/"><u>Discerning Reliable Crypto Exchange Platforms: Insights From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/effective-techniques-to-maintain-and-clean-your-printers-feed-roller-insights-from-yl-computing/"><u>Effective Techniques to Maintain and Clean Your Printer's Feed Roller: Insights From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/exploring-the-connection-between-the-qin-and-han-empires-an-in-depth-analysis-by-yl-computing/"><u>Exploring the Connection Between the Qin and Han Empires: An In-Depth Analysis by YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/free-14-day-trial-of-karaoke-cloud-pro-offered-on-pcdj-exclusive-press-announcement/"><u>Free 14-Day Trial of Karaoke Cloud Pro Offered on PCDJ - Exclusive Press Announcement</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-funfactory-enjoy-video-making-with-ease/"><u>In 2024, FunFactory Enjoy Video Making with Ease</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lightning-fast-fileshare-on-windows-os/"><u>Lightning-Fast Fileshare on Windows OS</u></a></li>
+<li><a href="https://win-community.techidaily.com/yl-softwares-high-resolution-dark-themed-wallpaper-showcasing-a-vibrant-light-blue-matrix-pattern-in-full-hd/"><u>YL Software's High-Resolution Dark Themed Wallpaper Showcasing a Vibrant Light Blue Matrix Pattern in Full HD</u></a></li>
 </ul></div>
 
