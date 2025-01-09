@@ -1,7 +1,7 @@
 ---
 title: "Access PCDJ's New Release: DEX Version 3.4 – Start Your Beat Mixing Journey Here"
-date: 2024-12-25T17:17:58.443Z
-updated: 2024-12-29T16:34:57.265Z
+date: 2025-01-04T16:24:05.159Z
+updated: 2025-01-09T01:22:47.744Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,18 +93,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-chuckles-on-the-clouds-designing-hits-for-fb-and-instagram-meme-culture/"><u>[New] 2024 Approved Chuckles on the Clouds Designing Hits for FB & Instagram Meme Culture</u></a></li>
-<li><a href="https://win-community.techidaily.com/1-boost-your-gpu-efficiency-expert-tips-from-yl-computings-latest-guide/"><u>1. Boost Your GPU Efficiency: Expert Tips From YL Computing's Latest Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oneplus-nord-ce-3-lite-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My OnePlus Nord CE 3 Lite 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/bypassing-specific-files-in-windows-defender-scans-a-comprehensive-guide-tips-by-yl-computing/"><u>Bypassing Specific Files in Windows Defender Scans: A Comprehensive Guide - Tips by YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/exciting-update-pocket-songs-addition-expands-features-for-party-tyme-karaoke-members/"><u>Exciting Update: 'Pocket Songs' Addition Expands Features for Party Tyme Karaoke Members!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-standard-to-spectacited-mobile-devices-vr-conversion-path-for-2024/"><u>From Standard to Spectacited Mobile Device's VR Conversion Path for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-x90swithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo X90Swith/without a PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-11-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme 11 Pro Data? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-7-digital-photography-devices-for-high-quality-video-streams/"><u>Ideal 7 Digital Photography Devices for High-Quality Video Streams</u></a></li>
-<li><a href="https://win-community.techidaily.com/overcoming-av-issues-a-deep-dive-into-common-problems-with-solutions-by-yl-software-experts/"><u>Overcoming AV Issues: A Deep Dive Into Common Problems with Solutions by YL Software Experts</u></a></li>
-<li><a href="https://win-community.techidaily.com/quick-launch-strategies-by-yl-software-how-to-minimize-computer-boot-duration-effortlessly/"><u>Quick Launch Strategies by YL Software: How to Minimize Computer Boot Duration Effortlessly</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-how-to-fix-slowdowns-in-dying-light-gameplay/"><u>Resolved: How to Fix Slowdowns in Dying Light Gameplay</u></a></li>
-<li><a href="https://win-community.techidaily.com/unveiling-the-power-of-digital-quizzes-how-to-excel-using-digigames-trivia-and-buzzers-tech-video/"><u>Unveiling the Power of Digital Quizzes: How to Excel Using Digigames' Trivia and Buzzers Tech (Video)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-riding-secure-the-creme-de-la-cam-selection-for-motorcyclists/"><u>[Updated] 2024 Approved Riding Secure - The Crème De La Cam Selection for Motorcyclists</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-instagram-boost-your-following/"><u>[Updated] In 2024, Mastering Instagram Boost Your Following</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-key-20-free-pubg-thumbnail-collections/"><u>2024 Approved Key 20 Free PUBG Thumbnail Collections</u></a></li>
+<li><a href="https://win-community.techidaily.com/connecting-multiple-displays-efficiently-a-step-by-step-guide-by-yl-computing/"><u>Connecting Multiple Displays Efficiently: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210521772-9781789049527-creating-real-happiness-a-to-z/"><u>Creating Real Happiness A to Z | Free Book</u></a></li>
+<li><a href="https://win-community.techidaily.com/effective-strategies-for-controlling-access-with-windows-user-accounts-tips-from-yl-software-expertise/"><u>Effective Strategies for Controlling Access with Windows User Accounts - Tips From YL Software Expertise</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-gaming-experience-to-120fps-with-this-essential-ps5-optimization-guide/"><u>Elevate Your Gaming Experience to 120Fps with This Essential PS5 Optimization Guide</u></a></li>
+<li><a href="https://win-community.techidaily.com/high-resolution-little-caprice-wallpapers-and-hd-desktop-scenes-download-now-with-yl-computing/"><u>High-Resolution Little Caprice Wallpapers & HD Desktop Scenes - Download Now with YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-asus-rog-phone-7-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Asus ROG Phone 7 Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-preeminent-6-social-media-sites-favored-by-professionals/"><u>In 2024, Preeminent 6 Social Media Sites Favored by Professionals</u></a></li>
+<li><a href="https://win-community.techidaily.com/resolving-audio-problems-a-guide-to-fixing-your-windows-sound-card-tips-from-yl-computing/"><u>Resolving Audio Problems: A Guide to Fixing Your Windows Sound Card - Tips From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/the-high-stakes-litigation-of-commercial-singing-venues-unpacking-the-264-million-lawsuit-against-kamu-ultra-karaoke-and-its-impact-on-dj-industry/"><u>The High-Stakes Litigation of Commercial Singing Venues: Unpacking the $264 Million Lawsuit Against Kamu Ultra Karaoke and Its Impact on DJ Industry</u></a></li>
+<li><a href="https://win-community.techidaily.com/troubleshooting-your-computers-sound-card-issues-expertise-from-yl-software/"><u>Troubleshooting Your Computer's Sound Card Issues: Expertise From YL Software</u></a></li>
 </ul></div>
 

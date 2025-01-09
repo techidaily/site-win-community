@@ -1,7 +1,7 @@
 ---
 title: "The High-Stakes Litigation of Commercial Singing Venues: Unpacking the $264 Million Lawsuit Against Kamu Ultra Karaoke and Its Impact on DJ Industry"
-date: 2024-12-23T17:36:26.324Z
-updated: 2024-12-29T16:24:13.669Z
+date: 2025-01-04T02:03:21.662Z
+updated: 2025-01-09T02:51:05.930Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ According to the complaint, filed in federal district court in Los Angeles, the 
 “The Venetian’s ‘Kamu Ultra Karaoke’ lounge is a brazenly illegal operation that uses YouTube to circumvent legitimate commercial licensing of Sybersound’s original Party Tyme Karaoke content,” said Peter Haviland, counsel for Sybersound Records. “We have become aware of this as a huge problem in karaoke lounges and events throughout the country, and we intend to stop it. Individuals can enjoy Party Tyme and other karaoke content through YouTube in their own homes and at their own private events. Commercial businesses, on the other hand, cannot exploit this content and make big profits from it without paying a fair subscription license for that commercial use.“ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,14 +72,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/11/legal-landscape-commercial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-tech-innovator-point-of-view-unveiling-the-best-fb-video-downloaders-on-android/"><u>2024 Approved Tech Innovator' Point of View Unveiling the Best FB Video Downloaders on Android</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/advanced-techniques-for-voice-to-text-transcription-in-whatsapp-for-2024/"><u>Advanced Techniques for Voice-to-Text Transcription in WhatsApp for 2024</u></a></li>
-<li><a href="https://discover-data.techidaily.com/discerning-reliable-crypto-exchange-platforms-insights-from-yl-computing/"><u>Discerning Reliable Crypto Exchange Platforms: Insights From YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/effective-techniques-to-maintain-and-clean-your-printers-feed-roller-insights-from-yl-computing/"><u>Effective Techniques to Maintain and Clean Your Printer's Feed Roller: Insights From YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/exploring-the-connection-between-the-qin-and-han-empires-an-in-depth-analysis-by-yl-computing/"><u>Exploring the Connection Between the Qin and Han Empires: An In-Depth Analysis by YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/free-14-day-trial-of-karaoke-cloud-pro-offered-on-pcdj-exclusive-press-announcement/"><u>Free 14-Day Trial of Karaoke Cloud Pro Offered on PCDJ - Exclusive Press Announcement</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-funfactory-enjoy-video-making-with-ease/"><u>In 2024, FunFactory Enjoy Video Making with Ease</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/lightning-fast-fileshare-on-windows-os/"><u>Lightning-Fast Fileshare on Windows OS</u></a></li>
-<li><a href="https://win-community.techidaily.com/yl-softwares-high-resolution-dark-themed-wallpaper-showcasing-a-vibrant-light-blue-matrix-pattern-in-full-hd/"><u>YL Software's High-Resolution Dark Themed Wallpaper Showcasing a Vibrant Light Blue Matrix Pattern in Full HD</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-capturing-perfection-a-deep-dive-into-apeaksofts-technology/"><u>[New] Capturing Perfection A Deep Dive Into Apeaksoft's Technology</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-tunes-with-mac-studios/"><u>[Updated] Mastering Tunes with Mac Studios</u></a></li>
+<li><a href="https://win-community.techidaily.com/best-20-songs-with-official-videos-released-in-2015-top-dj-mixes/"><u>Best 20 Songs with Official Videos Released in 2015 - Top DJ Mixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/choosing-between-macbook-pro-and-macbook-air-a-comprehensive-guide-zdnet/"><u>Choosing Between MacBook Pro and MacBook Air - A Comprehensive Guide | ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-capture-slow-motion-videos-with-gopro-hero-10-for-2024/"><u>How to Capture Slow Motion Videos with GoPro Hero 10 for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/install-extra-memory-on-your-pc-expert-tips-from-yl-software-professionals/"><u>Install Extra Memory on Your PC: Expert Tips From YL Software Professionals</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/journey-into-the-metaverse-top-8-vr-headgear/"><u>Journey Into the Metaverse Top 8 VR Headgear</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-honor-90-pro-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Honor 90 Pro.</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-instant-amd-software-issues/"><u>Solve Instant AMD Software Issues</u></a></li>
+<li><a href="https://win-community.techidaily.com/trouble-with-your-scanner-find-solutions-here-at-yl-software/"><u>Trouble with Your Scanner? Find Solutions Here at YL Software!</u></a></li>
+<li><a href="https://win-community.techidaily.com/upgraded-pcdj-version-265-with-integrated-3-hercules-midi-controllers/"><u>Upgraded PCDJ Version 2.6.5 with Integrated 3 Hercules MIDI Controllers</u></a></li>
 </ul></div>
 

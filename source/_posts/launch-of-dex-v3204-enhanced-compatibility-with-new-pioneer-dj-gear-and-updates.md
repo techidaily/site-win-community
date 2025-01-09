@@ -1,7 +1,7 @@
 ---
 title: Launch of DEX v3.20.4 - Enhanced Compatibility with New Pioneer DJ Gear & Updates
-date: 2024-12-22T18:19:18.719Z
-updated: 2024-12-29T17:55:54.907Z
+date: 2025-01-06T00:29:26.125Z
+updated: 2025-01-08T21:42:13.008Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Also, a series of updates are included for the built-in streaming services, incl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in DEX 3.20.4
@@ -61,7 +61,7 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 _Have questions about the latest 3.20.4 version of our **best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,22 +83,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/03/DEX3204.jpg?fit=1031%2C623
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-expertly-design-your-3d-openers-best-picks/"><u>[Updated] 2024 Approved Expertly Design Your 3D Openers Best Picks</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-climbing-to-youtube-zenith-a-step-by-step-guide-to-creative-studio-mastery/"><u>[Updated] Climbing to YouTube Zenith A Step-by-Step Guide to Creative Studio Mastery</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-ultimate-gaming-queens-top-10-female-youtubers/"><u>[Updated] In 2024, Ultimate Gaming Queens Top 10 Female YouTubers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-inject-personality-into-snaps-on-snapchat-through-voice-customization/"><u>2024 Approved Inject Personality Into Snaps on Snapchat Through Voice Customization</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-starter-gear-for-gopro-cameras/"><u>2024 Approved Top Starter Gear for GoPro Cameras</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/fix-your-unresponsive-mouse-with-these-tips-by-yl-software-experts/"><u>Fix Your Unresponsive Mouse with These Tips by YL Software Experts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/funny-frenzy-top-10-tweets/"><u>Funny Frenzy Top 10 Tweets</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-easily-update-or-download-intels-graphics-drivers-for-your-windows-pc-version-10-and-11/"><u>How to Easily Update or Download Intel's Graphics Drivers for Your Windows PC (Version 10 & 11)</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-to-fix-an-unreliable-wi-fi-network-tips-from-yl-computings-expert-guide/"><u>How to Fix an Unreliable Wi-Fi Network: Tips From YL Computing's Expert Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-swift-skim-windows-file-compilation/"><u>In 2024, Swift Skim Windows File Compilation</u></a></li>
-<li><a href="https://win-community.techidaily.com/mastering-windows-defender-a-step-by-step-guide-on-adjusting-configuration-yl-tech-tips/"><u>Mastering Window's Defender: A Step-by-Step Guide on Adjusting Configuration - YL Tech Tips</u></a></li>
-<li><a href="https://win-community.techidaily.com/part-one-of-mastering-scratch-decks-the-art-of-organizing-dj-tracks-with-pcdj/"><u>Part One of Mastering Scratch Decks: The Art of Organizing DJ Tracks with PCDJ</u></a></li>
-<li><a href="https://win-community.techidaily.com/protect-personal-information-master-the-art-of-file-encryption-using-yls-expert-tools/"><u>Protect Personal Information: Master the Art of File Encryption Using YL's Expert Tools</u></a></li>
-<li><a href="https://win-community.techidaily.com/resolving-issues-with-network-interface-card-driver-installation-tips-from-yl-software-experts/"><u>Resolving Issues with Network Interface Card Driver Installation: Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-community.techidaily.com/resolving-performance-issues-on-your-machine-with-windows-11-upgrade-guided-steps-by-yl-software/"><u>Resolving Performance Issues on Your Machine with Windows 11 Upgrade - Guided Steps by YL Software</u></a></li>
-<li><a href="https://win-community.techidaily.com/zip-it-up-fast-mastering-archive-creation-techniques-from-yl-software-experts/"><u>Zip It Up Fast: Mastering Archive Creation Techniques From YL Software Experts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treamlining-content-across-platforms-youtube-and-igtv-for-2024/"><u>[New] Streamlining Content Across Platforms YouTube & IGTV for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-filefixers-experts-evaluation-for-2024/"><u>[Updated] FileFixers Experts Evaluation for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-mastery-in-making-gifs-into-stickers-on-messaging-platforms-with-this-guide/"><u>[Updated] Mastery in Making Gifs Into Stickers on Messaging Platforms with This Guide</u></a></li>
+<li><a href="https://win-community.techidaily.com/backup-essentials-a-step-by-step-guide-using-windows-control-panel-yl-computing/"><u>Backup Essentials: A Step-by-Step Guide Using Windows Control Panel - YL Computing</u></a></li>
+<li><a href="https://solve-news.techidaily.com/enhanced-analytics-with-cookiebot-technology/"><u>Enhanced Analytics with Cookiebot Technology</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-to-manage-and-remove-unneeded-applications-insights-from-yl-computing-and-yl-software/"><u>How to Manage and Remove Unneeded Applications: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-samsung-galaxy-s23-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Samsung Galaxy S23 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-lava-blaze-2-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Lava Blaze 2 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://win-community.techidaily.com/optimize-pc-performance-by-effectively-detecting-and-eliminating-malware-insights-from-yl-computing-experts/"><u>Optimize PC Performance by Effectively Detecting and Eliminating Malware - Insights From YL Computing Experts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-a51-5g-evaluation-excellent-deal-for-budget-conscious-tech-enthusiasts/"><u>Samsung Galaxy A51 5G Evaluation: Excellent Deal for Budget-Conscious Tech Enthusiasts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/scholarstreams-essential-educational-youtube-sites-for-2024/"><u>ScholarStreams Essential Educational YouTube Sites for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/setting-up-your-printer-on-windows-10-a-step-by-step-guide-yl-computing/"><u>Setting Up Your Printer on Windows 10: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/solving-sound-card-issues-understanding-why-your-pc-crashes-during-audio-usage-tips-from-yl-computing/"><u>Solving Sound Card Issues: Understanding Why Your PC Crashes During Audio Usage - Tips From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-guide-removing-harmful-files-from-your-pc-yl-computing-solutions/"><u>Step-by-Step Guide: Removing Harmful Files From Your PC - YL Computing Solutions</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-solutions-to-break-free-from-iphones-data-recovery-stalemate/"><u>Step-by-Step Solutions to Break Free From iPhone's 'Data Recovery' Stalemate</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/transform-your-pdf-collection-into-interactive-flip-books-using-flipbuilder-easy-guide/"><u>Transform Your PDF Collection Into Interactive Flip Books Using FlipBuilder - Easy Guide</u></a></li>
+<li><a href="https://win-community.techidaily.com/troubleshooting-fix-your-pc-when-it-ignores-the-external-hdd-expert-tips-from-yl-computing/"><u>Troubleshooting: Fix Your PC When It Ignores the External HDD - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/unveiling-the-technology-of-windows-defenders-malware-virus-and-spyware-identification-expert-analysis-by-yl-software/"><u>Unveiling the Technology of Windows Defender's Malware, Virus, and Spyware Identification – Expert Analysis by YL Software</u></a></li>
+<li><a href="https://win-community.techidaily.com/yl-software-tutorial-protect-your-data-by-setting-filefolder-as-read-only-in-windows-operating-system/"><u>YL Software Tutorial: Protect Your Data by Setting File/Folder as Read-Only in Windows Operating System</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Supports 3 and RE Versions - Integrated With PCDJ Platform
-date: 2024-12-08T00:09:26.210Z
-updated: 2024-12-14T18:12:48.092Z
+date: 2025-01-06T21:07:02.750Z
+updated: 2025-01-09T02:13:39.524Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Priced at only $249 on most online DJ equipment retailer websites, the **DDJ-SB3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s a Look at the Key Features of the Pioneer DJ DDJ-SB3 Digital DJ Controller
@@ -51,7 +51,7 @@ Priced at only $249 on most online DJ equipment retailer websites, the **DDJ-SB3
 _Have questions about the **Pioneer DJ DDJ-SB3** **DJ controller** and how it works with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments sections below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,20 +73,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/04/DDJ-SB3-NOWDEX3SUPPORTED.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-does-quick-subscribe-strategy-boost-audience-growth-for-2024/"><u>[New] Does Quick-Subscribe Strategy Boost Audience Growth for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-rev-up-your-recruiting-strategy-with-hot-tapes/"><u>[New] Rev Up Your Recruiting Strategy with Hot Tapes</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-power-of-personal-storytelling-in-video-content-for-2024/"><u>[New] The Power of Personal Storytelling in Video Content for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-the-art-of-real-time-photography-on-google-meet/"><u>[Updated] 2024 Approved Mastering the Art of Real-Time Photography on Google Meet</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-premier-silent-sound-converters/"><u>[Updated] 2024 Approved Premier Silent Sound Converters</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-spoofing-success-the-path-to-parody-proficiency/"><u>[Updated] Spoofing Success The Path to Parody Proficiency</u></a></li>
-<li><a href="https://win-community.techidaily.com/boost-your-pcs-performance-by-clearing-up-storage-tips-and-tricks-yl-computing-blog/"><u>Boost Your PC's Performance by Clearing Up Storage: Tips & Tricks - YL Computing Blog</u></a></li>
-<li><a href="https://win-community.techidaily.com/dealing-with-sudden-hardware-issues-expert-advice-by-yl-software-team/"><u>Dealing with Sudden Hardware Issues: Expert Advice by YL Software Team</u></a></li>
-<li><a href="https://win-community.techidaily.com/diagnosing-a-defective-gpu-expert-tips-from-yl-computing/"><u>Diagnosing a Defective GPU: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-7-plus-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 7 Plus Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/mastering-social-media-marketing-a-10-step-guide-to-success-for-2024/"><u>Mastering Social Media Marketing A 10-Step Guide to Success for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-guide-adding-software-via-windows-control-panel-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Adding Software via Windows Control Panel - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/streamline-your-workflow-advanced-strategies-for-simultaneously-scanning-multiple-documents-using-yl-software-solutions/"><u>Streamline Your Workflow: Advanced Strategies for Simultaneously Scanning Multiple Documents Using YL Software Solutions</u></a></li>
-<li><a href="https://win-community.techidaily.com/unlock-full-performance-expert-tips-from-yl-software-for-efficient-computer-resource-utilization/"><u>Unlock Full Performance: Expert Tips From YL Software for Efficient Computer Resource Utilization</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-toms-computer-review-platform/"><u>Unveiling the Secrets of Tom's Computer Review Platform</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-creating-engaging-visual-narratives-from-photographs-using-pixiz-written/"><u>[New] 2024 Approved Creating Engaging Visual Narratives From Photographs Using Pixiz' Written</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-gimbals-matched-for-high-res-dslrs/"><u>[New] Best Gimbals Matched for High-Res DSLRs</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unmatched-downloader-transform-your-tiktok-to-mp4-effortlessly/"><u>2024 Approved Unmatched Downloader Transform Your TikTok to MP4 Effortlessly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-unboxing-and-in-depth-review-of-apple-watch-series-9/"><u>Comprehensive Guide: Unboxing & In-Depth Review of Apple Watch Series 9</u></a></li>
+<li><a href="https://win-community.techidaily.com/comprehensive-tutorial-to-refresh-or-reinstate-hardware-drivers-on-your-windows-machine-yl-computing-expertise/"><u>Comprehensive Tutorial to Refresh or Reinstate Hardware Drivers on Your Windows Machine - YL Computing Expertise</u></a></li>
+<li><a href="https://win-community.techidaily.com/daily-care-routines-for-your-printer-insights-and-advice-by-yl-software-professionals/"><u>Daily Care Routines for Your Printer - Insights and Advice by YL Software Professionals</u></a></li>
+<li><a href="https://win-community.techidaily.com/exploring-financial-frontiers-the-disparity-between-cryptocurrency-and-traditional-fiat-explained-by-yl-software/"><u>Exploring Financial Frontiers: The Disparity Between Cryptocurrency and Traditional Fiat Explained by YL Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 7 Plus Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/making-your-favorite-tiktok-beats-your-personal-mobile-alarm-signal-for-2024/"><u>Making Your Favorite TikTok Beats Your Personal Mobile Alarm Signal for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-crossplatform-recording-the-ultimate-202n4-guide-to-documenting-ps4-gameplay-on-your-pc/"><u>Mastering Crossplatform Recording: The Ultimate 202N4 Guide to Documenting PS4 Gameplay on Your PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/maximizing-display-youtube-video-upgrades/"><u>Maximizing Display YouTube Video Upgrades</u></a></li>
+<li><a href="https://win-community.techidaily.com/prevent-gpu-failures-identifying-and-solving-overheating-issues-in-computers-with-tips-from-yl-software-experts/"><u>Prevent GPU Failures: Identifying and Solving Overheating Issues in Computers with Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-effective-methods-for-hiding-data-in-windows-operating-systems-insights-from-yl-software-solutions/"><u>Step-by-Step: Effective Methods for Hiding Data in Windows Operating Systems - Insights From YL Software Solutions</u></a></li>
+<li><a href="https://win-community.techidaily.com/top-free-data-restoration-solutions-for-windows-operating-system-find-your-best-fit/"><u>Top Free Data Restoration Solutions for Windows Operating System - Find Your Best Fit</u></a></li>
+<li><a href="https://win-community.techidaily.com/troubleshooting-guide-resolving-graphics-card-issues-in-windows-by-yl-computing-experts/"><u>Troubleshooting Guide: Resolving Graphics Card Issues in Windows by YL Computing Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visionary-dialogue-and-scenery-a-film-lovers-treasure/"><u>Visionary Dialogue and Scenery A Film Lover's Treasure</u></a></li>
+<li><a href="https://win-community.techidaily.com/why-wont-my-scanner-recognize-documents-expert-advice-from-yl-computing-for-quick-fixes/"><u>Why Won't My Scanner Recognize Documents? Expert Advice From YL Computing for Quick Fixes</u></a></li>
+<li><a href="https://win-community.techidaily.com/yl-software-solutions-easily-erase-word-documents-from-windows-systems/"><u>YL Software Solutions: Easily Erase Word Documents From Windows Systems</u></a></li>
 </ul></div>
 
