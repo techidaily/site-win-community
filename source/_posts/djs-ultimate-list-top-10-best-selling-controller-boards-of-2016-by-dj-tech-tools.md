@@ -1,7 +1,7 @@
 ---
 title: "DJ's Ultimate List: Top 10 Best-Selling Controller Boards of 2016 by DJ Tech Tools"
-date: 2025-01-06T20:20:01.467Z
-updated: 2025-01-08T17:41:04.670Z
+date: 2025-01-11T19:57:24.180Z
+updated: 2025-01-14T17:28:42.932Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Traktor Kontrol S4 MK2 DJ Controller (NOT SUPPORTED BY DEX 3 OR DEX 3 RE)
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/number10-controllers.jpg?fit=706%2C360&ssl=1 "Traktor Kontrol S4 MK2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Numark Mixtrack 3 (SUPPORTED BY DEX 3 AND DEX 3 RE)
@@ -41,7 +41,7 @@ Numark Mixtrack 3 (SUPPORTED BY DEX 3 AND DEX 3 RE)
 ![Numark Mixtrack 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/02/number9-controllers.jpg?fit=706%2C360&ssl=1 "Numark Mixtrack 3")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Pioneer XDJ-RX (NOT SUPPORTED BY DEX 3 OR DEX 3 RE)
@@ -52,6 +52,10 @@ Numark MixDeck Express (SUPPORTED BY DEX 3 AND DEX 3 RE)
 
 ![Numark MixDeck Express](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/02/number7-controllers.jpg?fit=706%2C360&ssl=1 "Numark MixDeck Express")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Pioneer DDJ-SZ (NOT SUPPORTED BY DEX 3 OR DEX 3 RE)
 
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/number6-controllers.jpg?fit=706%2C360&ssl=1 "Pioneer DDJ-SZ")
@@ -60,17 +64,9 @@ Numark Party Mix (NOT SUPPORTED YET – WILL BE BY MARCH 17TH 2017)
 
 ![Numark Party Mix](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/number5-controllers.jpg?fit=706%2C360&ssl=1 "Numark Party Mix")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Numark MixTrack Pro 3 (SUPPORTED BY DEX 3 AND DEX 3 RE)
 
 ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/02/number4-controllers.jpg?fit=706%2C360&ssl=1 "Numark MixTrack Pro 3")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Pioneer DDJ-SR (SUPPORTED BY DEX 3 AND DEX 3 RE)
 
@@ -80,15 +76,19 @@ Pioneer DDJ-SX2 (SUPPORTED BY DEX 3 AND DEX 3 RE)
 
 ![Pioneer DDJ-SX2](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/number2-controllers.jpg?fit=706%2C360&ssl=1 "Pioneer DDJ-SX2")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Pioneer DDJ-SB2 (SUPPORTED BY DEX 3 AND DEX 3 RE)
 
 ![Pioneer DDJ-SB2](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/02/number1-controllers.jpg?fit=706%2C360&ssl=1 "Pioneer DDJ-SB2")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _Have questions about **DJ controllers** from brands like **Numark** and **Pioneer DJ**? Questions about how our [**DJ software**](https://tools.techidaily.com/pcdj/products/) works with supported **[DJ controllers](https://tools.techidaily.com/pcdj/products/)**? Please leave them in the comments section below!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -109,14 +109,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/djcontrollerstopselling-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-4-proven-methods-for-screenshotting-and-recording/"><u>[Updated] 4 Proven Methods for Screenshotting & Recording</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-5-star-channel-cutting-long-urls-down-for-youtube-videos/"><u>[Updated] 5-Star Channel Cutting Long URLs Down for YouTube Videos</u></a></li>
-<li><a href="https://win-community.techidaily.com/boost-your-pcs-performance-by-clearing-up-storage-tips-and-tricks-yl-computing-blog/"><u>Boost Your PC's Performance by Clearing Up Storage: Tips & Tricks - YL Computing Blog</u></a></li>
-<li><a href="https://win-community.techidaily.com/diagnosing-a-defective-gpu-expert-tips-from-yl-computing/"><u>Diagnosing a Defective GPU: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/forties-fluency-why-language-mastery-matters-now-more-than-ever/"><u>Forties Fluency: Why Language Mastery Matters Now More Than Ever</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-poco-x6-by-fonelab-android-recover-data/"><u>How to recover lost data from Poco X6?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/livechat-capture-suite-fb-version-for-2024/"><u>LiveChat Capture Suite FB Version for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-guide-adding-software-via-windows-control-panel-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Adding Software via Windows Control Panel - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/streamline-your-workflow-advanced-strategies-for-simultaneously-scanning-multiple-documents-using-yl-software-solutions/"><u>Streamline Your Workflow: Advanced Strategies for Simultaneously Scanning Multiple Documents Using YL Software Solutions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-revitalize-your-reels-a-compreenas-guide-for-enhancer-22/"><u>[New] 2024 Approved Revitalize Your Reels A Compreenas Guide for Enhancer 2.2</u></a></li>
+<li><a href="https://win-community.techidaily.com/get-the-ultimate-karaoke-experience-with-partytyme-subscription-access-to-new-hits-and-top-tracks/"><u>Get the Ultimate Karaoke Experience with PartyTyme - Subscription Access to New Hits & Top Tracks!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-microphone-functionality-on-sony-playstation-4/"><u>How to Restore Microphone Functionality on Sony PlayStation 4</u></a></li>
+<li><a href="https://win-community.techidaily.com/maximize-storage-on-windows-by-deleting-explorers-preview-cache-a-walkthrough-by-yl-software-experts/"><u>Maximize Storage on Windows by Deleting Explorer's Preview Cache - A Walkthrough by YL Software Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/scrutinizing-the-economics-behind-short-video-earnings-for-2024/"><u>Scrutinizing the Economics Behind Short Video Earnings for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/understanding-key-hurdles-in-the-world-of-digital-currencies-according-to-yl-computing/"><u>Understanding Key Hurdles in the World of Digital Currencies According to YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/unveiling-remarkable-contributions-of-the-yuan-rule-expert-analysis-from-yl-software/"><u>Unveiling Remarkable Contributions of the Yuan Rule - Expert Analysis From YL Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updated-printer-drivers-epson-gt-s50-suitable-for-windows-os-7-to-10/"><u>Updated Printer Drivers: Epson GT S50 Suitable for Windows OS 7 to 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-expect-from-the-new-galaxy-z-flip-price-speculations-and-release-timeline-for-the-latest-samsung-innovation/"><u>What to Expect From the New Galaxy Z Flip? Price Speculations & Release Timeline for the Latest Samsung Innovation</u></a></li>
 </ul></div>
 

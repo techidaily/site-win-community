@@ -1,7 +1,7 @@
 ---
 title: Supports 3 and RE Versions - Integrated With PCDJ Platform
-date: 2025-01-06T21:07:02.750Z
-updated: 2025-01-09T02:13:39.524Z
+date: 2025-01-10T20:52:30.639Z
+updated: 2025-01-14T21:05:51.370Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Priced at only $249 on most online DJ equipment retailer websites, the **DDJ-SB3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s a Look at the Key Features of the Pioneer DJ DDJ-SB3 Digital DJ Controller
@@ -51,7 +51,7 @@ Priced at only $249 on most online DJ equipment retailer websites, the **DDJ-SB3
 _Have questions about the **Pioneer DJ DDJ-SB3** **DJ controller** and how it works with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments sections below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,24 +73,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/04/DDJ-SB3-NOWDEX3SUPPORTED.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-creating-engaging-visual-narratives-from-photographs-using-pixiz-written/"><u>[New] 2024 Approved Creating Engaging Visual Narratives From Photographs Using Pixiz' Written</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-best-gimbals-matched-for-high-res-dslrs/"><u>[New] Best Gimbals Matched for High-Res DSLRs</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unmatched-downloader-transform-your-tiktok-to-mp4-effortlessly/"><u>2024 Approved Unmatched Downloader Transform Your TikTok to MP4 Effortlessly</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-unboxing-and-in-depth-review-of-apple-watch-series-9/"><u>Comprehensive Guide: Unboxing & In-Depth Review of Apple Watch Series 9</u></a></li>
-<li><a href="https://win-community.techidaily.com/comprehensive-tutorial-to-refresh-or-reinstate-hardware-drivers-on-your-windows-machine-yl-computing-expertise/"><u>Comprehensive Tutorial to Refresh or Reinstate Hardware Drivers on Your Windows Machine - YL Computing Expertise</u></a></li>
-<li><a href="https://win-community.techidaily.com/daily-care-routines-for-your-printer-insights-and-advice-by-yl-software-professionals/"><u>Daily Care Routines for Your Printer - Insights and Advice by YL Software Professionals</u></a></li>
-<li><a href="https://win-community.techidaily.com/exploring-financial-frontiers-the-disparity-between-cryptocurrency-and-traditional-fiat-explained-by-yl-software/"><u>Exploring Financial Frontiers: The Disparity Between Cryptocurrency and Traditional Fiat Explained by YL Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 7 Plus Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/making-your-favorite-tiktok-beats-your-personal-mobile-alarm-signal-for-2024/"><u>Making Your Favorite TikTok Beats Your Personal Mobile Alarm Signal for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-crossplatform-recording-the-ultimate-202n4-guide-to-documenting-ps4-gameplay-on-your-pc/"><u>Mastering Crossplatform Recording: The Ultimate 202N4 Guide to Documenting PS4 Gameplay on Your PC</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/maximizing-display-youtube-video-upgrades/"><u>Maximizing Display YouTube Video Upgrades</u></a></li>
-<li><a href="https://win-community.techidaily.com/prevent-gpu-failures-identifying-and-solving-overheating-issues-in-computers-with-tips-from-yl-software-experts/"><u>Prevent GPU Failures: Identifying and Solving Overheating Issues in Computers with Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-effective-methods-for-hiding-data-in-windows-operating-systems-insights-from-yl-software-solutions/"><u>Step-by-Step: Effective Methods for Hiding Data in Windows Operating Systems - Insights From YL Software Solutions</u></a></li>
-<li><a href="https://win-community.techidaily.com/top-free-data-restoration-solutions-for-windows-operating-system-find-your-best-fit/"><u>Top Free Data Restoration Solutions for Windows Operating System - Find Your Best Fit</u></a></li>
-<li><a href="https://win-community.techidaily.com/troubleshooting-guide-resolving-graphics-card-issues-in-windows-by-yl-computing-experts/"><u>Troubleshooting Guide: Resolving Graphics Card Issues in Windows by YL Computing Experts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/visionary-dialogue-and-scenery-a-film-lovers-treasure/"><u>Visionary Dialogue and Scenery A Film Lover's Treasure</u></a></li>
-<li><a href="https://win-community.techidaily.com/why-wont-my-scanner-recognize-documents-expert-advice-from-yl-computing-for-quick-fixes/"><u>Why Won't My Scanner Recognize Documents? Expert Advice From YL Computing for Quick Fixes</u></a></li>
-<li><a href="https://win-community.techidaily.com/yl-software-solutions-easily-erase-word-documents-from-windows-systems/"><u>YL Software Solutions: Easily Erase Word Documents From Windows Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-new-best-facebook-story-savers-for-free-extensiononlinemobile-apps-for-2024/"><u>[New] NEW Best Facebook Story Savers for FREE [Extension/Online/Mobile Apps] for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-focus-on-clarity-top-10-phones-excelling-at-4k-video-recording/"><u>[Updated] Focus on Clarity Top 10 Phones Excelling at 4K Video Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-free-tools-for-flawless-srt-conversion/"><u>[Updated] In 2024, Top Free Tools for Flawless SRT Conversion</u></a></li>
+<li><a href="https://win-community.techidaily.com/1-how-to-personalize-your-windows-control-panel-tips-and-tricks-from-yl-computing/"><u>1. How to Personalize Your Windows Control Panel - Tips and Tricks From YL Computing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-revolutionize-vision-the-best-10-techniques-for-text-effects/"><u>2024 Approved Revolutionize Vision - The Best 10 Techniques for Text Effects</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-insiders-secrets-of-screencastify-recording/"><u>2024 Approved The Insider’s Secrets of Screencastify Recording</u></a></li>
+<li><a href="https://win-community.techidaily.com/a-step-by-step-guide-identifying-and-resolving-computer-hardware-issues-with-insights-from-yl-software/"><u>A Step-by-Step Guide: Identifying & Resolving Computer Hardware Issues with Insights From YL Software</u></a></li>
+<li><a href="https://win-community.techidaily.com/boosting-computer-speed-and-power-pro-techniques-by-yl-software-and-yl-computing/"><u>Boosting Computer Speed & Power: Pro Techniques by YL Software and YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/changing-your-operating-systems-preferred-language-on-windows-a-step-by-step-guide-tips-from-yl-software/"><u>Changing Your Operating System's Preferred Language on Windows: A Step-by-Step Guide - Tips From YL Software</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/elite-home-theater-selections-for-best-3d-blu-ray-viewing-for-2024/"><u>Elite Home Theater Selections for Best 3D Blu-Ray Viewing for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/ftx-and-alameda-collaborate-transferring-over-night-131-million-in-cryptocurrency-ends-up-on-exchanges/"><u>FTX and Alameda Collaborate: Transferring Over Night, $13.1 Million in Cryptocurrency Ends Up on Exchanges</u></a></li>
+<li><a href="https://win-community.techidaily.com/global-trends-vs-domestic-predictions-mastering-precious-metal-analysis-with-yls-advanced-technologies-and-solutions/"><u>Global Trends Vs. Domestic Predictions: Mastering Precious Metal Analysis with YL's Advanced Technologies and Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-blur-a-picture-on-iphone-4-ways/"><u>How to Blur a Picture on iPhone [4 Ways]</u></a></li>
+<li><a href="https://win-community.techidaily.com/recover-lost-files-in-windows-with-yl-softwares-easy-tutorial-for-data-retrieval/"><u>Recover Lost Files in Windows with YL Software's Easy Tutorial for Data Retrieval</u></a></li>
+<li><a href="https://win-community.techidaily.com/resolving-gpu-overheat-issues-with-expert-tips-from-yl-softwares-technical-article/"><u>Resolving GPU Overheat Issues with Expert Tips From YL Software’s Technical Article</u></a></li>
+<li><a href="https://win-community.techidaily.com/solving-the-missing-device-driver-issue-a-step-by-step-guide-yl-tech-tips/"><u>Solving the 'Missing Device Driver' Issue: A Step-by-Step Guide - YL Tech Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleash-the-power-of-extreme-temperature-resistance-how-this-robust-android-outshines-iphones-with-its-remarkable-heat-tolerance-zdnet/"><u>Unleash the Power of Extreme Temperature Resistance: How This Robust Android Outshines iPhones with Its Remarkable Heat Tolerance | ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/video-editing-on-imac-with-m1-processor/"><u>Video Editing on iMac with M1 Processor</u></a></li>
 </ul></div>
 

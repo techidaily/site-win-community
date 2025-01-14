@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Deckadance Version 3.18 Released: Enhanced Audio Engine & Additional Features!"
-date: 2025-01-01T16:04:53.568Z
-updated: 2025-01-09T00:20:11.896Z
+date: 2025-01-11T17:50:49.636Z
+updated: 2025-01-14T16:55:57.200Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ We suggest DEX 3 DJ’s update to the latest release as soon as possible.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in DEX 3.18.0.1
@@ -71,7 +71,7 @@ We suggest DEX 3 DJ’s update to the latest release as soon as possible.
 _Have questions about the latest 3.18 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,16 +93,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/07/dex318-update-blog-post-he
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fast-track-channel-growth-to-partner-status-aim-for-10000-views-for-2024/"><u>[Updated] Fast-Track Channel Growth to Partner Status – Aim for 10,000 Views for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nokia-c110-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Nokia C110</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/androidflv/"><u>Android上で簡単にFLV動画が視聴可能になる手順集</u></a></li>
-<li><a href="https://win-community.techidaily.com/expert-analysis-understanding-the-reasons-behind-excessive-fan-noise-in-modern-computers-yl-technology-insights/"><u>Expert Analysis: Understanding the Reasons Behind Excessive Fan Noise in Modern Computers - YL Technology Insights</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-to-switch-your-primary-language-on-windows-pc-step-by-step-guide-by-yl-computing/"><u>How to Switch Your Primary Language on Windows PC - Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-xs-max-how-to-unlock-a-disabled-iphone-xs-max-by-drfone-ios/"><u>In 2024, Disabled iPhone XS Max How to Unlock a Disabled iPhone XS Max?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-the-ultimate-guide-to-picking-prime-stream-services/"><u>In 2024, The Ultimate Guide to Picking Prime Stream Services</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722867846729-microsoft-outages-show-why-governments-need-to-ditch-big-tech/"><u>Microsoft Outages Show Why Governments Need To Ditch Big Tech</u></a></li>
-<li><a href="https://win-community.techidaily.com/sing-your-heart-out-with-karaoke-cloud-pro-arens-new-releases-fall-just-wont-feature-pcdj/"><u>Sing Your Heart Out with Karaoke Cloud Pro AREN's New Releases – Fall Just Won’t Feature! | PCDJ</u></a></li>
-<li><a href="https://win-community.techidaily.com/understanding-the-causes-of-slow-loading-times-in-your-windows-applications-expert-insights-from-yl-computing/"><u>Understanding the Causes of Slow Loading Times in Your Windows Applications - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/yl-softwares-guide-ensuring-seamless-operation-and-longevity-for-your-computer-system/"><u>YL Software's Guide: Ensuring Seamless Operation and Longevity for Your Computer System</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-softening-playlist-sounds-on-pcmac-systems/"><u>[New] In 2024, Softening Playlist Sounds on PC/Mac Systems</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-from-setting-up-to-broadcasting-a-discoguide/"><u>2024 Approved From Setting Up to Broadcasting A DiscoGuide</u></a></li>
+<li><a href="https://win-community.techidaily.com/beginners-journey-into-dj-controller-magic-unlocking-the-secrets-of-the-pcdj-dex-3-re-edition/"><u>Beginner's Journey Into DJ Controller Magic: Unlocking the Secrets of the PCDJ Dex 3 Re Edition</u></a></li>
+<li><a href="https://win-community.techidaily.com/boost-your-pcs-performance-expert-tips-from-yl-computing-on-accelerating-computer-speed/"><u>Boost Your PC's Performance: Expert Tips From YL Computing on Accelerating Computer Speed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-downloading-the-latest-usb-c-drivers-on-windows-10/"><u>Complete Guide to Downloading the Latest USB-C Drivers on Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-to-get-your-headphones-working-properly-on-a-windows-11-device/"><u>Comprehensive Fixes to Get Your Headphones Working Properly on a Windows 11 Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-the-hottest-programming-languages-of-2023-a-comprehensive-guide-by-techexpert/"><u>Decoding the Hottest Programming Languages of 2023: A Comprehensive Guide by TechExpert</u></a></li>
+<li><a href="https://win-community.techidaily.com/exploring-the-world-of-dj-controllers-what-purpose-do-they-serve-and-is-it-time-to-upgrade-your-setup/"><u>Exploring the World of DJ Controllers – What Purpose Do They Serve and Is It Time to Upgrade Your Setup?</u></a></li>
+<li><a href="https://win-community.techidaily.com/fix-your-unresponsive-mouse-with-these-tips-by-yl-software-experts/"><u>Fix Your Unresponsive Mouse with These Tips by YL Software Experts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-blank-page-to-airwaves-writing-engaging-podcast-episodes-for-2024/"><u>From Blank Page to Airwaves Writing Engaging Podcast Episodes for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-to-reliably-check-if-your-sound-card-works-tips-by-yl-software-experts/"><u>How to Reliably Check if Your Sound Card Works: Tips by YL Software Experts</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/key-bitcoin-resistance-points-identified-by-traders-amidst-waning-34k-support-insights-from-yl-computing-and-yl-software/"><u>Key Bitcoin Resistance Points Identified by Traders Amidst Waning $34K Support - Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://win-community.techidaily.com/mastering-windows-defender-a-step-by-step-guide-on-adjusting-configuration-yl-tech-tips/"><u>Mastering Window's Defender: A Step-by-Step Guide on Adjusting Configuration - YL Tech Tips</u></a></li>
+<li><a href="https://win-community.techidaily.com/part-one-of-mastering-scratch-decks-the-art-of-organizing-dj-tracks-with-pcdj/"><u>Part One of Mastering Scratch Decks: The Art of Organizing DJ Tracks with PCDJ</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/resolved-issues-with-windows-11-task-scheduler-functionality/"><u>Resolved Issues with Windows 11 Task Scheduler Functionality</u></a></li>
+<li><a href="https://win-community.techidaily.com/resolving-performance-issues-on-your-machine-with-windows-11-upgrade-guided-steps-by-yl-software/"><u>Resolving Performance Issues on Your Machine with Windows 11 Upgrade - Guided Steps by YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-11-sticky-notes-sync-errors/"><u>Resolving Windows 11 Sticky Notes Sync Errors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-itunes-video-downloading-for-ios-users-for-2024/"><u>The Ultimate Guide to iTunes Video Downloading for iOS Users for 2024</u></a></li>
 </ul></div>
 

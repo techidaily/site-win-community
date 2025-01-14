@@ -1,7 +1,7 @@
 ---
 title: "The High-Stakes Litigation of Commercial Singing Venues: Unpacking the $264 Million Lawsuit Against Kamu Ultra Karaoke and Its Impact on DJ Industry"
-date: 2025-01-04T02:03:21.662Z
-updated: 2025-01-09T02:51:05.930Z
+date: 2025-01-10T18:41:52.649Z
+updated: 2025-01-14T19:41:33.388Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ According to the complaint, filed in federal district court in Los Angeles, the 
 “The Venetian’s ‘Kamu Ultra Karaoke’ lounge is a brazenly illegal operation that uses YouTube to circumvent legitimate commercial licensing of Sybersound’s original Party Tyme Karaoke content,” said Peter Haviland, counsel for Sybersound Records. “We have become aware of this as a huge problem in karaoke lounges and events throughout the country, and we intend to stop it. Individuals can enjoy Party Tyme and other karaoke content through YouTube in their own homes and at their own private events. Commercial businesses, on the other hand, cannot exploit this content and make big profits from it without paying a fair subscription license for that commercial use.“ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,16 +72,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/11/legal-landscape-commercial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-capturing-perfection-a-deep-dive-into-apeaksofts-technology/"><u>[New] Capturing Perfection A Deep Dive Into Apeaksoft's Technology</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-tunes-with-mac-studios/"><u>[Updated] Mastering Tunes with Mac Studios</u></a></li>
-<li><a href="https://win-community.techidaily.com/best-20-songs-with-official-videos-released-in-2015-top-dj-mixes/"><u>Best 20 Songs with Official Videos Released in 2015 - Top DJ Mixes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/choosing-between-macbook-pro-and-macbook-air-a-comprehensive-guide-zdnet/"><u>Choosing Between MacBook Pro and MacBook Air - A Comprehensive Guide | ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-capture-slow-motion-videos-with-gopro-hero-10-for-2024/"><u>How to Capture Slow Motion Videos with GoPro Hero 10 for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/install-extra-memory-on-your-pc-expert-tips-from-yl-software-professionals/"><u>Install Extra Memory on Your PC: Expert Tips From YL Software Professionals</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/journey-into-the-metaverse-top-8-vr-headgear/"><u>Journey Into the Metaverse Top 8 VR Headgear</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-honor-90-pro-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Honor 90 Pro.</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solve-instant-amd-software-issues/"><u>Solve Instant AMD Software Issues</u></a></li>
-<li><a href="https://win-community.techidaily.com/trouble-with-your-scanner-find-solutions-here-at-yl-software/"><u>Trouble with Your Scanner? Find Solutions Here at YL Software!</u></a></li>
-<li><a href="https://win-community.techidaily.com/upgraded-pcdj-version-265-with-integrated-3-hercules-midi-controllers/"><u>Upgraded PCDJ Version 2.6.5 with Integrated 3 Hercules MIDI Controllers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ise-to-the-top-mastering-youtube-descriptions-with-customizable-templates/"><u>[New] Rise to the Top Mastering YouTube Descriptions with Customizable Templates</u></a></li>
+<li><a href="https://win-community.techidaily.com/celebrate-cinco-de-mayo-with-stunning-hd-photo-backgrounds-vibrant-images-to-decorate-your-space/"><u>Celebrate Cinco De Mayo with Stunning HD Photo Backgrounds – Vibrant Images to Decorate Your Space</u></a></li>
+<li><a href="https://win-community.techidaily.com/controllers-vs-dvs-a-dynamic-showdown-in-djing-beat-blending-tactics/"><u>Controllers vs DVS: A Dynamic Showdown in DJing | Beat Blending Tactics</u></a></li>
+<li><a href="https://win-community.techidaily.com/crafting-a-successful-strategy-mobile-dj-business-planning-part-2-explained-in-video/"><u>Crafting a Successful Strategy: Mobile DJ Business Planning [Part 2] Explained in Video</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-programming-bootcamp-providers-for-2e22-a-comprehensive-guide-by-zdnet/"><u>Discover the Leading Programming Bootcamp Providers for 2E22: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://win-community.techidaily.com/download-stunning-hd-backdrops-for-stranger-things-s04-from-yl-softwares-visual-collection/"><u>Download Stunning HD Backdrops for Stranger Things S04 From YL Software's Visual Collection</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/mobile-dj-mastery-top-strategies-for-managing-clients-and-using-pcdj/"><u>Mobile DJ Mastery: Top Strategies for Managing Clients & Using PCDJ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-custom-user-settings-failure-no-longer-an-issue/"><u>Resolved: Custom User Settings Failure No Longer an Issue</u></a></li>
+<li><a href="https://win-community.techidaily.com/resolving-print-clogging-issues-insights-into-managing-your-printer-spooler-via-yl-software-tools/"><u>Resolving Print Clogging Issues: Insights Into Managing Your Printer Spooler via YL Software Tools</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/section-abbr)/"><u>Section Abbr></u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-ipod-iphone-and-ipad-widget-glitches-in-10-simple-steps/"><u>Solve iPod, iPhone & iPad Widget Glitches in 10 Simple Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-your-discord-app-steps-to-prevent-and-repair-crashes/"><u>Solving Your Discord App: Steps to Prevent and Repair Crashes</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-guide-accessing-windows-10-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Accessing Windows 10 Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/understanding-bsod-detecting-potential-hardware-faults-with-expert-advice-from-yl-computing-solutions/"><u>Understanding BSOD: Detecting Potential Hardware Faults with Expert Advice From YL Computing Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hard-drive-technology-with-tom/"><u>Unveiling the Latest in Hard Drive Technology with Tom</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-hides-behind-facebooks-invisible-mode/"><u>What Hides Behind Facebook's Invisible Mode?</u></a></li>
 </ul></div>
 
