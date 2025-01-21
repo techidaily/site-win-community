@@ -1,7 +1,7 @@
 ---
 title: Supports 3 and RE Versions - Integrated With PCDJ Platform
-date: 2025-01-10T20:52:30.639Z
-updated: 2025-01-14T21:05:51.370Z
+date: 2025-01-16T18:01:27.505Z
+updated: 2025-01-20T21:41:22.111Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Priced at only $249 on most online DJ equipment retailer websites, the **DDJ-SB3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s a Look at the Key Features of the Pioneer DJ DDJ-SB3 Digital DJ Controller
@@ -51,7 +51,7 @@ Priced at only $249 on most online DJ equipment retailer websites, the **DDJ-SB3
 _Have questions about the **Pioneer DJ DDJ-SB3** **DJ controller** and how it works with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments sections below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,24 +73,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/04/DDJ-SB3-NOWDEX3SUPPORTED.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-new-best-facebook-story-savers-for-free-extensiononlinemobile-apps-for-2024/"><u>[New] NEW Best Facebook Story Savers for FREE [Extension/Online/Mobile Apps] for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-focus-on-clarity-top-10-phones-excelling-at-4k-video-recording/"><u>[Updated] Focus on Clarity Top 10 Phones Excelling at 4K Video Recording</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-free-tools-for-flawless-srt-conversion/"><u>[Updated] In 2024, Top Free Tools for Flawless SRT Conversion</u></a></li>
-<li><a href="https://win-community.techidaily.com/1-how-to-personalize-your-windows-control-panel-tips-and-tricks-from-yl-computing/"><u>1. How to Personalize Your Windows Control Panel - Tips and Tricks From YL Computing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-revolutionize-vision-the-best-10-techniques-for-text-effects/"><u>2024 Approved Revolutionize Vision - The Best 10 Techniques for Text Effects</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-insiders-secrets-of-screencastify-recording/"><u>2024 Approved The Insider’s Secrets of Screencastify Recording</u></a></li>
-<li><a href="https://win-community.techidaily.com/a-step-by-step-guide-identifying-and-resolving-computer-hardware-issues-with-insights-from-yl-software/"><u>A Step-by-Step Guide: Identifying & Resolving Computer Hardware Issues with Insights From YL Software</u></a></li>
-<li><a href="https://win-community.techidaily.com/boosting-computer-speed-and-power-pro-techniques-by-yl-software-and-yl-computing/"><u>Boosting Computer Speed & Power: Pro Techniques by YL Software and YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/changing-your-operating-systems-preferred-language-on-windows-a-step-by-step-guide-tips-from-yl-software/"><u>Changing Your Operating System's Preferred Language on Windows: A Step-by-Step Guide - Tips From YL Software</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/elite-home-theater-selections-for-best-3d-blu-ray-viewing-for-2024/"><u>Elite Home Theater Selections for Best 3D Blu-Ray Viewing for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/ftx-and-alameda-collaborate-transferring-over-night-131-million-in-cryptocurrency-ends-up-on-exchanges/"><u>FTX and Alameda Collaborate: Transferring Over Night, $13.1 Million in Cryptocurrency Ends Up on Exchanges</u></a></li>
-<li><a href="https://win-community.techidaily.com/global-trends-vs-domestic-predictions-mastering-precious-metal-analysis-with-yls-advanced-technologies-and-solutions/"><u>Global Trends Vs. Domestic Predictions: Mastering Precious Metal Analysis with YL's Advanced Technologies and Solutions</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-blur-a-picture-on-iphone-4-ways/"><u>How to Blur a Picture on iPhone [4 Ways]</u></a></li>
-<li><a href="https://win-community.techidaily.com/recover-lost-files-in-windows-with-yl-softwares-easy-tutorial-for-data-retrieval/"><u>Recover Lost Files in Windows with YL Software's Easy Tutorial for Data Retrieval</u></a></li>
-<li><a href="https://win-community.techidaily.com/resolving-gpu-overheat-issues-with-expert-tips-from-yl-softwares-technical-article/"><u>Resolving GPU Overheat Issues with Expert Tips From YL Software’s Technical Article</u></a></li>
-<li><a href="https://win-community.techidaily.com/solving-the-missing-device-driver-issue-a-step-by-step-guide-yl-tech-tips/"><u>Solving the 'Missing Device Driver' Issue: A Step-by-Step Guide - YL Tech Tips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unleash-the-power-of-extreme-temperature-resistance-how-this-robust-android-outshines-iphones-with-its-remarkable-heat-tolerance-zdnet/"><u>Unleash the Power of Extreme Temperature Resistance: How This Robust Android Outshines iPhones with Its Remarkable Heat Tolerance | ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/video-editing-on-imac-with-m1-processor/"><u>Video Editing on iMac with M1 Processor</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mastering-facebook-live-embedding-techniques-on-websites-for-2024/"><u>[Updated] Mastering Facebook Live Embedding Techniques on Websites for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-visual-flow-mastery-with-simple-transitions-for-2024/"><u>[Updated] Visual Flow Mastery with Simple Transitions for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-essential-tactics-for-adding-vimeo-clips-to-powerpoint-slides/"><u>2024 Approved Essential Tactics for Adding Vimeo Clips to PowerPoint Slides</u></a></li>
+<li><a href="https://win-community.techidaily.com/actualiser-facilement-vers-la-version-23h2-de-windows-11-un-guide-etape-par-etape-pour-les-passionnes-dinformatique/"><u>Actualiser Facilement Vers La Version 23H2 De Windows 11 : Un Guide Étape Par Étape Pour Les Passionnés D'informatique</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-evolutionary-trio-distinguishing-gpt-4-from-its-siblings-gpt-4-turbo-and-n/"><u>AI Evolutionary Trio: Distinguishing GPT-4 From Its Siblings - GPT-4 Turbo and N</u></a></li>
+<li><a href="https://win-community.techidaily.com/bequeme-migrationsstrategie-wann-ist-ein-ssd-zu-klein-fur-ein-system/"><u>Bequeme Migrationsstrategie: Wann Ist Ein SSD Zu Klein Für Ein System?</u></a></li>
+<li><a href="https://win-community.techidaily.com/datenwiederherstellung-fur-microsoft-word-beste-strategien-erklart/"><u>Datenwiederherstellung Für Microsoft Word: Beste Strategien Erklärt!</u></a></li>
+<li><a href="https://win-community.techidaily.com/easy-steps-to-secure-and-restore-system-status-on-windows-server-2008-r2/"><u>Easy Steps to Secure and Restore System Status on Windows Server 2008 R2</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/innovative-breakthrough-apple-eyes-ai-enabled-domestic-robotics-spotlighting-two-game-changing-devices-as-reported/"><u>Innovative Breakthrough?: Apple Eyes AI-Enabled Domestic Robotics, Spotlighting Two Game-Changing Devices as Reported</u></a></li>
+<li><a href="https://win-community.techidaily.com/mastering-database-transfer-einfach-und-sicher-von-der-sql-datenbank-zu-einem-neuen-datentrager-befordern/"><u>Mastering Database Transfer: Einfach Und Sicher Von Der SQL-Datenbank Zu Einem Neuen Datenträger Befördern</u></a></li>
+<li><a href="https://win-community.techidaily.com/perdu-dans-le-cyberespace-retrouvez-votre-fichier-excel-disparu-du-bureau-grace-a-ces-5-techniques-infaillibles/"><u>Perdu Dans Le Cyberespace : Retrouvez Votre Fichier Excel Disparu Du Bureau Grâce À Ces 5 Techniques Infaillibles !</u></a></li>
+<li><a href="https://win-community.techidaily.com/protection-par-mot-de-passe-pour-vos-fichiers-sur-les-systemes-windows-1011-techniques-dassurance-a-trois-volets-detaillees/"><u>Protection Par Mot De Passe Pour Vos Fichiers Sur Les Systèmes Windows 10/11 - Techniques D'assurance À Trois Volets Détaillées</u></a></li>
+<li><a href="https://driver-install.techidaily.com/restore-functionality-with-reinstalled-atheros-drivers/"><u>Restore Functionality with Reinstalled Atheros Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/reviving-your-google-meet-camera-effective-solutions-for-connectivity-issues/"><u>Reviving Your Google Meet Camera: Effective Solutions for Connectivity Issues</u></a></li>
+<li><a href="https://win-community.techidaily.com/techniques-simplifiees-et-fiables-comment-mapper-votre-equipement-dans-la-nouvelle-edition-de-windows-11/"><u>Techniques Simplifiées Et Fiables : Comment Mapper Votre Équipement Dans La Nouvelle Édition De Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-15-plus-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 15 Plus You Should Try Out</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Infinix Smart 8 HD | Dr.fone</u></a></li>
 </ul></div>
 

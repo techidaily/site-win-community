@@ -1,7 +1,7 @@
 ---
 title: "DJ's Ultimate List: Top 10 Best-Selling Controller Boards of 2016 by DJ Tech Tools"
-date: 2025-01-11T19:57:24.180Z
-updated: 2025-01-14T17:28:42.932Z
+date: 2025-01-19T18:03:51.617Z
+updated: 2025-01-20T21:50:36.150Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Traktor Kontrol S4 MK2 DJ Controller (NOT SUPPORTED BY DEX 3 OR DEX 3 RE)
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/number10-controllers.jpg?fit=706%2C360&ssl=1 "Traktor Kontrol S4 MK2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Numark Mixtrack 3 (SUPPORTED BY DEX 3 AND DEX 3 RE)
@@ -41,7 +41,7 @@ Numark Mixtrack 3 (SUPPORTED BY DEX 3 AND DEX 3 RE)
 ![Numark Mixtrack 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/02/number9-controllers.jpg?fit=706%2C360&ssl=1 "Numark Mixtrack 3")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Pioneer XDJ-RX (NOT SUPPORTED BY DEX 3 OR DEX 3 RE)
@@ -53,7 +53,7 @@ Numark MixDeck Express (SUPPORTED BY DEX 3 AND DEX 3 RE)
 ![Numark MixDeck Express](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/02/number7-controllers.jpg?fit=706%2C360&ssl=1 "Numark MixDeck Express")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Pioneer DDJ-SZ (NOT SUPPORTED BY DEX 3 OR DEX 3 RE)
@@ -63,6 +63,10 @@ Pioneer DDJ-SZ (NOT SUPPORTED BY DEX 3 OR DEX 3 RE)
 Numark Party Mix (NOT SUPPORTED YET – WILL BE BY MARCH 17TH 2017)
 
 ![Numark Party Mix](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/number5-controllers.jpg?fit=706%2C360&ssl=1 "Numark Party Mix")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Numark MixTrack Pro 3 (SUPPORTED BY DEX 3 AND DEX 3 RE)
 
@@ -77,7 +81,7 @@ Pioneer DDJ-SX2 (SUPPORTED BY DEX 3 AND DEX 3 RE)
 ![Pioneer DDJ-SX2](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/number2-controllers.jpg?fit=706%2C360&ssl=1 "Pioneer DDJ-SX2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Pioneer DDJ-SB2 (SUPPORTED BY DEX 3 AND DEX 3 RE)
@@ -85,10 +89,6 @@ Pioneer DDJ-SB2 (SUPPORTED BY DEX 3 AND DEX 3 RE)
 ![Pioneer DDJ-SB2](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/02/number1-controllers.jpg?fit=706%2C360&ssl=1 "Pioneer DDJ-SB2")
 
 _Have questions about **DJ controllers** from brands like **Numark** and **Pioneer DJ**? Questions about how our [**DJ software**](https://tools.techidaily.com/pcdj/products/) works with supported **[DJ controllers](https://tools.techidaily.com/pcdj/products/)**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -109,14 +109,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/djcontrollerstopselling-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-revitalize-your-reels-a-compreenas-guide-for-enhancer-22/"><u>[New] 2024 Approved Revitalize Your Reels A Compreenas Guide for Enhancer 2.2</u></a></li>
-<li><a href="https://win-community.techidaily.com/get-the-ultimate-karaoke-experience-with-partytyme-subscription-access-to-new-hits-and-top-tracks/"><u>Get the Ultimate Karaoke Experience with PartyTyme - Subscription Access to New Hits & Top Tracks!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-microphone-functionality-on-sony-playstation-4/"><u>How to Restore Microphone Functionality on Sony PlayStation 4</u></a></li>
-<li><a href="https://win-community.techidaily.com/maximize-storage-on-windows-by-deleting-explorers-preview-cache-a-walkthrough-by-yl-software-experts/"><u>Maximize Storage on Windows by Deleting Explorer's Preview Cache - A Walkthrough by YL Software Experts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/scrutinizing-the-economics-behind-short-video-earnings-for-2024/"><u>Scrutinizing the Economics Behind Short Video Earnings for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/understanding-key-hurdles-in-the-world-of-digital-currencies-according-to-yl-computing/"><u>Understanding Key Hurdles in the World of Digital Currencies According to YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/unveiling-remarkable-contributions-of-the-yuan-rule-expert-analysis-from-yl-software/"><u>Unveiling Remarkable Contributions of the Yuan Rule - Expert Analysis From YL Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/updated-printer-drivers-epson-gt-s50-suitable-for-windows-os-7-to-10/"><u>Updated Printer Drivers: Epson GT S50 Suitable for Windows OS 7 to 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-to-expect-from-the-new-galaxy-z-flip-price-speculations-and-release-timeline-for-the-latest-samsung-innovation/"><u>What to Expect From the New Galaxy Z Flip? Price Speculations & Release Timeline for the Latest Samsung Innovation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-blueprint-for-successful-youtube-video-plans-and-outlines/"><u>[New] The Blueprint for Successful YouTube Video Plans and Outlines</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-prime-steadicams-to-elevate-uav-video-production-quality/"><u>[Updated] 2024 Approved Prime Steadicams to Elevate UAV Video Production Quality</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-ultimate-mp4-uploader-for-fb/"><u>[Updated] In 2024, Ultimate MP4 Uploader for FB</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-depth-review-unveiling-bublcams-full-potential/"><u>[Updated] In-Depth Review Unveiling Bublcam's Full Potential</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-to-embrace-or-not-the-itop-screen-recorder-dilemran/"><u>2024 Approved To Embrace or Not The ITop Screen Recorder Dilemran</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-oppo-a1x-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Oppo A1x 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/exploring-the-timeline-and-locations-of-the-cultural-revolution-insights-from-yl-computing/"><u>Exploring the Timeline and Locations of the Cultural Revolution: Insights From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/high-definition-bmw-8-series-convertible-desktop-and-mobile-walls-premium-quality-graphics-by-yl-computing/"><u>High-Definition BMW 8 Series Convertible Desktop & Mobile Walls - Premium Quality Graphics by YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/high-definition-bmw-z4-roadster-visuals-custom-walls-desktops-and-more-created-by-yl-computing/"><u>High-Definition BMW Z4 Roadster Visuals: Custom Walls, Desktops & More - Created by YL Computing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-minimizing-motion-blur-in-media-creation/"><u>In 2024, Minimizing Motion Blur in Media Creation</u></a></li>
+<li><a href="https://win-community.techidaily.com/stunning-samsung-galaxy-s20-backgrounds-by-yl-computing-your-guide-to-the-best-digital-designs/"><u>Stunning Samsung Galaxy S20 Backgrounds by YL Computing: Your Guide to the Best Digital Designs</u></a></li>
+<li><a href="https://win-community.techidaily.com/understanding-the-causes-of-slow-loading-times-in-your-windows-applications-expert-insights-from-yl-computing/"><u>Understanding the Causes of Slow Loading Times in Your Windows Applications - Expert Insights From YL Computing</u></a></li>
 </ul></div>
 

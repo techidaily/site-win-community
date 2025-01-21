@@ -1,7 +1,7 @@
 ---
 title: "Access PCDJ's New Release: DEX Version 3.4 – Start Your Beat Mixing Journey Here"
-date: 2025-01-11T21:26:37.992Z
-updated: 2025-01-14T20:55:30.450Z
+date: 2025-01-13T18:43:17.110Z
+updated: 2025-01-21T00:42:14.435Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,20 +93,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-accurate-tilt-controls-high-end-phonecamera-mounts/"><u>[Updated] Accurate Tilt Controls High-End Phone/Camera Mounts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-capture-to-share-a-quick-guide-to-instagram-video-uploads-on-desktop/"><u>[Updated] In 2024, From Capture to Share A Quick Guide to Instagram Video Uploads on Desktop</u></a></li>
-<li><a href="https://win-community.techidaily.com/1-seamless-file-sharing-techniques-on-windows-a-comprehensive-guide-by-yl-computing/"><u>1. Seamless File Sharing Techniques on Windows: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-audience-appeal-expert-tips-on-post-production-and-editing-in-garageband/"><u>2024 Approved Audience Appeal Expert Tips on Post-Production and Editing in GarageBand</u></a></li>
-<li><a href="https://win-community.techidaily.com/backup-essentials-a-step-by-step-guide-using-windows-control-panel-yl-computing/"><u>Backup Essentials: A Step-by-Step Guide Using Windows Control Panel - YL Computing</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/best-live-chat-apps-to-try-with-shopify-for-2024/"><u>Best Live Chat Apps To Try With Shopify for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/digital-footprint-and-interactive-iconography-honors-for-2024/"><u>Digital Footprint and Interactive Iconography Honors for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/guide-to-restoring-lost-data-with-winfr-software-for-windows-xpvista781011/"><u>Guide to Restoring Lost Data with Winfr Software for Windows XP/Vista/7/8/10/11</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-to-personalize-your-mouse-configuration-on-windows-using-the-control-panel-a-guide-by-yl-software/"><u>How to Personalize Your Mouse Configuration on Windows Using the Control Panel: A Guide by YL Software</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ring-self-portraits-top-techniques-for-youtube-presentations-for-2024/"><u>Mastering Self-Portraits Top Techniques for YouTube Presentations for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-the-sea-of-data-utilizing-facebooks-transparent-tools/"><u>Navigating the Sea of Data: Utilizing Facebook's Transparent Tools</u></a></li>
-<li><a href="https://win-community.techidaily.com/optimize-pc-performance-by-effectively-detecting-and-eliminating-malware-insights-from-yl-computing-experts/"><u>Optimize PC Performance by Effectively Detecting and Eliminating Malware - Insights From YL Computing Experts</u></a></li>
-<li><a href="https://win-community.techidaily.com/setting-up-your-printer-on-windows-10-a-step-by-step-guide-yl-computing/"><u>Setting Up Your Printer on Windows 10: A Step-by-Step Guide - YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/solving-sound-card-issues-understanding-why-your-pc-crashes-during-audio-usage-tips-from-yl-computing/"><u>Solving Sound Card Issues: Understanding Why Your PC Crashes During Audio Usage - Tips From YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-guide-removing-harmful-files-from-your-pc-yl-computing-solutions/"><u>Step-by-Step Guide: Removing Harmful Files From Your PC - YL Computing Solutions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-effortless-snaptweet-videos-from-twitter/"><u>[Updated] In 2024, Effortless SnapTweet Videos From Twitter</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-best-streaming-cameras-to-boost-viewer-interaction-on-twitch/"><u>[Updated] In 2024, The Best Streaming Cameras to Boost Viewer Interaction on Twitch</u></a></li>
+<li><a href="https://win-community.techidaily.com/1-simple-techniques-for-background-removal-in-pdfs-updated-guide/"><u>1. Simple Techniques for Background Removal in PDFs - Updated Guide</u></a></li>
+<li><a href="https://win-community.techidaily.com/best-replacements-for-camstudio-discover-advanced-screen-capture-tools/"><u>Best Replacements for CamStudio: Discover Advanced Screen Capture Tools</u></a></li>
+<li><a href="https://win-community.techidaily.com/capturing-stunning-videos-from-google-earth-a-comprehensive-tutorial/"><u>Capturing Stunning Videos From Google Earth - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chrono-capture-excellence-slomo-apps-complete-critique-2024/"><u>Chrono-Capture Excellence SloMo App's Complete Critique, 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/convert-your-amr-files-free-easy-transformation-from-amr-to-high-quality-mp3-format/"><u>Convert Your AMR Files Free: Easy Transformation From AMR to High-Quality MP3 Format</u></a></li>
+<li><a href="https://win-community.techidaily.com/effortless-steps-to-access-and-save-veehd-videos/"><u>Effortless Steps to Access and Save VeeHD Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eliminating-cannot-find-propsysdll-expert-fixes-for-your-pc-woes/"><u>Eliminating 'Cannot Find PropSys.dll': Expert Fixes for Your PC Woes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-conversion-transform-3gpp-video-files-into-wmv-with-easy-steps/"><u>Free Online Conversion: Transform 3GPP Video Files Into WMV with Easy Steps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-m1-edge-revolutionary-editors-uninterrupted-creativity/"><u>In 2024, M1 Edge Revolutionary Editors, Uninterrupted Creativity</u></a></li>
+<li><a href="https://win-community.techidaily.com/mastering-the-art-of-attractive-instagram-profiles-with-expert-seo-techniques/"><u>Mastering the Art of Attractive Instagram Profiles with Expert SEO Techniques</u></a></li>
+<li><a href="https://win-community.techidaily.com/mastering-the-art-of-recording-fortnite-fights-tips-for-windows-macs-phones-and-tablets/"><u>Mastering the Art of Recording Fortnite Fights - Tips for Windows, Macs, Phones & Tablets</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-up-your-home-cinema-game-with-these-essential-tips-for-2024/"><u>Step Up Your Home Cinema Game with These Essential Tips for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/the-ultimate-tutorial-on-operating-your-castingo-streamer-with-ease/"><u>The Ultimate Tutorial on Operating Your Castingo Streamer with Ease!</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-vivo-y100t-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Vivo Y100t without backup.</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/universelles-systemwiederherstellungstool-fur-windows-durch-aomei-professional-and-benutzeroberflache-optimiert/"><u>Universelles Systemwiederherstellungstool Für Windows Durch AOMEI - Professional & Benutzeroberfläche Optimiert</u></a></li>
+<li><a href="https://win-community.techidaily.com/unveiling-the-truth-apples-vulnerability-exposed-beyond-imagination/"><u>Unveiling the Truth: Apple's Vulnerability Exposed Beyond Imagination</u></a></li>
 </ul></div>
 

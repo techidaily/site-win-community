@@ -1,7 +1,7 @@
 ---
 title: "The High-Stakes Litigation of Commercial Singing Venues: Unpacking the $264 Million Lawsuit Against Kamu Ultra Karaoke and Its Impact on DJ Industry"
-date: 2025-01-10T18:41:52.649Z
-updated: 2025-01-14T19:41:33.388Z
+date: 2025-01-15T00:47:21.988Z
+updated: 2025-01-20T16:01:15.696Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ According to the complaint, filed in federal district court in Los Angeles, the 
 “The Venetian’s ‘Kamu Ultra Karaoke’ lounge is a brazenly illegal operation that uses YouTube to circumvent legitimate commercial licensing of Sybersound’s original Party Tyme Karaoke content,” said Peter Haviland, counsel for Sybersound Records. “We have become aware of this as a huge problem in karaoke lounges and events throughout the country, and we intend to stop it. Individuals can enjoy Party Tyme and other karaoke content through YouTube in their own homes and at their own private events. Commercial businesses, on the other hand, cannot exploit this content and make big profits from it without paying a fair subscription license for that commercial use.“ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,22 +72,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/11/legal-landscape-commercial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ise-to-the-top-mastering-youtube-descriptions-with-customizable-templates/"><u>[New] Rise to the Top Mastering YouTube Descriptions with Customizable Templates</u></a></li>
-<li><a href="https://win-community.techidaily.com/celebrate-cinco-de-mayo-with-stunning-hd-photo-backgrounds-vibrant-images-to-decorate-your-space/"><u>Celebrate Cinco De Mayo with Stunning HD Photo Backgrounds – Vibrant Images to Decorate Your Space</u></a></li>
-<li><a href="https://win-community.techidaily.com/controllers-vs-dvs-a-dynamic-showdown-in-djing-beat-blending-tactics/"><u>Controllers vs DVS: A Dynamic Showdown in DJing | Beat Blending Tactics</u></a></li>
-<li><a href="https://win-community.techidaily.com/crafting-a-successful-strategy-mobile-dj-business-planning-part-2-explained-in-video/"><u>Crafting a Successful Strategy: Mobile DJ Business Planning [Part 2] Explained in Video</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-programming-bootcamp-providers-for-2e22-a-comprehensive-guide-by-zdnet/"><u>Discover the Leading Programming Bootcamp Providers for 2E22: A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://win-community.techidaily.com/download-stunning-hd-backdrops-for-stranger-things-s04-from-yl-softwares-visual-collection/"><u>Download Stunning HD Backdrops for Stranger Things S04 From YL Software's Visual Collection</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/mobile-dj-mastery-top-strategies-for-managing-clients-and-using-pcdj/"><u>Mobile DJ Mastery: Top Strategies for Managing Clients & Using PCDJ</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-custom-user-settings-failure-no-longer-an-issue/"><u>Resolved: Custom User Settings Failure No Longer an Issue</u></a></li>
-<li><a href="https://win-community.techidaily.com/resolving-print-clogging-issues-insights-into-managing-your-printer-spooler-via-yl-software-tools/"><u>Resolving Print Clogging Issues: Insights Into Managing Your Printer Spooler via YL Software Tools</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/section-abbr)/"><u>Section Abbr></u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-ipod-iphone-and-ipad-widget-glitches-in-10-simple-steps/"><u>Solve iPod, iPhone & iPad Widget Glitches in 10 Simple Steps</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-your-discord-app-steps-to-prevent-and-repair-crashes/"><u>Solving Your Discord App: Steps to Prevent and Repair Crashes</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-guide-accessing-windows-10-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Accessing Windows 10 Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/understanding-bsod-detecting-potential-hardware-faults-with-expert-advice-from-yl-computing-solutions/"><u>Understanding BSOD: Detecting Potential Hardware Faults with Expert Advice From YL Computing Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hard-drive-technology-with-tom/"><u>Unveiling the Latest in Hard Drive Technology with Tom</u></a></li>
-<li><a href="https://facebook.techidaily.com/what-hides-behind-facebooks-invisible-mode/"><u>What Hides Behind Facebook's Invisible Mode?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-accelerated-guide-to-transforming-srt-into-txt-files-for-2024/"><u>[New] Accelerated Guide to Transforming SRT Into TXT Files for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-innovating-with-iphone-for-complete-360-video-capture-for-2024/"><u>[New] Innovating with iPhone for Complete 360 Video Capture for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/boost-your-parties-discover-17-new-hits-on-the-partytyme-karaoke-streaming-platform/"><u>Boost Your Parties! Discover 17 New Hits on the PartyTyme Karaoke Streaming Platform</u></a></li>
+<li><a href="https://win-community.techidaily.com/creating-an-effective-blockchain-approach-insights-from-yl-computings-expertise/"><u>Creating an Effective Blockchain Approach: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-community.techidaily.com/effortless-print-management-how-to-install-printer-drivers-with-ease-digital-solutions-blog/"><u>Effortless Print Management: How to Install Printer Drivers with Ease - Digital Solutions Blog</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-artificebots-transfer-learning-function-in-machine-intelligence/"><u>How Does Artificebot's Transfer Learning Function in Machine Intelligence?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-easy-steps-to-youtubing-prosperity-channel-size-not-a-barrier/"><u>In 2024, Easy Steps to Youtubing Prosperity Channel Size Not a Barrier</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-honor-v-purse-by-fonelab-android-recover-data/"><u>Recover lost data from Honor V Purse</u></a></li>
+<li><a href="https://win-community.techidaily.com/resolving-hardware-related-error-messages-a-step-by-step-guide-tech-solutions-by-yl/"><u>Resolving Hardware-Related Error Messages: A Step-by-Step Guide - Tech Solutions by YL</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-resolving-error-code-0x000-on-your-windows-11-devices-xbox-game-pass/"><u>Swiftly Resolving Error Code 0X000_ on Your Windows 11 Devices' Xbox Game Pass</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-final-puzzle-will-machines-overcome-humans/"><u>The Final Puzzle: Will Machines Overcome Humans?</u></a></li>
+<li><a href="https://win-community.techidaily.com/troubleshooting-boot-issues-expert-guide-to-restart-your-pc-or-laptop-tips-by-yl-computing-and-yl-software/"><u>Troubleshooting Boot Issues: Expert Guide to Restart Your PC or Laptop - Tips by YL Computing & YL Software</u></a></li>
+<li><a href="https://win-community.techidaily.com/unveiling-the-mystery-why-your-gpu-displays-nothing-in-depth-analysis-by-yl-computing/"><u>Unveiling the Mystery: Why Your GPU Displays Nothing - In-Depth Analysis by YL Computing</u></a></li>
 </ul></div>
 

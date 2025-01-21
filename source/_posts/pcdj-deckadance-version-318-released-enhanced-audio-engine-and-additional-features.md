@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Deckadance Version 3.18 Released: Enhanced Audio Engine & Additional Features!"
-date: 2025-01-11T17:50:49.636Z
-updated: 2025-01-14T16:55:57.200Z
+date: 2025-01-18T19:07:35.150Z
+updated: 2025-01-21T01:14:55.544Z
 tags:
   - product
 categories:
@@ -34,7 +34,7 @@ We suggest DEX 3 DJ’s update to the latest release as soon as possible.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in DEX 3.18.0.1
@@ -71,7 +71,7 @@ We suggest DEX 3 DJ’s update to the latest release as soon as possible.
 _Have questions about the latest 3.18 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,24 +93,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/07/dex318-update-blog-post-he
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-softening-playlist-sounds-on-pcmac-systems/"><u>[New] In 2024, Softening Playlist Sounds on PC/Mac Systems</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-from-setting-up-to-broadcasting-a-discoguide/"><u>2024 Approved From Setting Up to Broadcasting A DiscoGuide</u></a></li>
-<li><a href="https://win-community.techidaily.com/beginners-journey-into-dj-controller-magic-unlocking-the-secrets-of-the-pcdj-dex-3-re-edition/"><u>Beginner's Journey Into DJ Controller Magic: Unlocking the Secrets of the PCDJ Dex 3 Re Edition</u></a></li>
-<li><a href="https://win-community.techidaily.com/boost-your-pcs-performance-expert-tips-from-yl-computing-on-accelerating-computer-speed/"><u>Boost Your PC's Performance: Expert Tips From YL Computing on Accelerating Computer Speed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-downloading-the-latest-usb-c-drivers-on-windows-10/"><u>Complete Guide to Downloading the Latest USB-C Drivers on Windows 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-fixes-to-get-your-headphones-working-properly-on-a-windows-11-device/"><u>Comprehensive Fixes to Get Your Headphones Working Properly on a Windows 11 Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/decoding-the-hottest-programming-languages-of-2023-a-comprehensive-guide-by-techexpert/"><u>Decoding the Hottest Programming Languages of 2023: A Comprehensive Guide by TechExpert</u></a></li>
-<li><a href="https://win-community.techidaily.com/exploring-the-world-of-dj-controllers-what-purpose-do-they-serve-and-is-it-time-to-upgrade-your-setup/"><u>Exploring the World of DJ Controllers – What Purpose Do They Serve and Is It Time to Upgrade Your Setup?</u></a></li>
-<li><a href="https://win-community.techidaily.com/fix-your-unresponsive-mouse-with-these-tips-by-yl-software-experts/"><u>Fix Your Unresponsive Mouse with These Tips by YL Software Experts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/from-blank-page-to-airwaves-writing-engaging-podcast-episodes-for-2024/"><u>From Blank Page to Airwaves Writing Engaging Podcast Episodes for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-to-reliably-check-if-your-sound-card-works-tips-by-yl-software-experts/"><u>How to Reliably Check if Your Sound Card Works: Tips by YL Software Experts</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/key-bitcoin-resistance-points-identified-by-traders-amidst-waning-34k-support-insights-from-yl-computing-and-yl-software/"><u>Key Bitcoin Resistance Points Identified by Traders Amidst Waning $34K Support - Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://win-community.techidaily.com/mastering-windows-defender-a-step-by-step-guide-on-adjusting-configuration-yl-tech-tips/"><u>Mastering Window's Defender: A Step-by-Step Guide on Adjusting Configuration - YL Tech Tips</u></a></li>
-<li><a href="https://win-community.techidaily.com/part-one-of-mastering-scratch-decks-the-art-of-organizing-dj-tracks-with-pcdj/"><u>Part One of Mastering Scratch Decks: The Art of Organizing DJ Tracks with PCDJ</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/resolved-issues-with-windows-11-task-scheduler-functionality/"><u>Resolved Issues with Windows 11 Task Scheduler Functionality</u></a></li>
-<li><a href="https://win-community.techidaily.com/resolving-performance-issues-on-your-machine-with-windows-11-upgrade-guided-steps-by-yl-software/"><u>Resolving Performance Issues on Your Machine with Windows 11 Upgrade - Guided Steps by YL Software</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-11-sticky-notes-sync-errors/"><u>Resolving Windows 11 Sticky Notes Sync Errors</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-itunes-video-downloading-for-ios-users-for-2024/"><u>The Ultimate Guide to iTunes Video Downloading for iOS Users for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-bandicam-your-compreayer-for-high-quality-screen-recording/"><u>[Updated] 2024 Approved Bandicam Your Compreayer for High-Quality Screen Recording</u></a></li>
+<li><a href="https://win-community.techidaily.com/44cm44oh44k444k44or44kr44oh44op44gn5rai5y6744gv44km44gf5yaz55yf44ks5pwr44gg77ya44k744kr44oz44oj44kq44ox44k344on44oz44oz44k544oi44oh44k944od44oj44cn/"><u>「デジタルカメラで消去された写真を救う：セカンドオプションベストメソッド」</u></a></li>
+<li><a href="https://win-community.techidaily.com/1-behebung-von-nicht-genugend-speicherplatz-fehlern-drei-effektive-strategien-zur-losung-von-vss-problemen/"><u>1. Behebung Von 'Nicht Genügend Speicherplatz' Fehlern: Drei Effektive Strategien Zur Lösung Von VSS-Problemen</u></a></li>
+<li><a href="https://win-community.techidaily.com/5asa5yplusw5rmplus5py65zcm5pe25a6j6kof5pon5l2c57o757uf55qe562w55wl5lio5q2l6aqk/"><u>多台湾机同时安装操作系统的策略与步骤</u></a></li>
+<li><a href="https://win-community.techidaily.com/ai-aomei/"><u>快速上手：AI梅仔 (AOMEI) 資料夾複製的步驟指南</u></a></li>
+<li><a href="https://win-community.techidaily.com/aomei-technician-plus-reliable-disaster-recovery-and-backup-solutions-for-businesses-and-msps/"><u>AOMEI Technician Plus: Reliable Disaster Recovery & Backup Solutions for Businesses and MSPs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choosing-apple-watch-series-7-over-series-10-a-users-perspective/"><u>Choosing Apple Watch Series 7 over Series 10 – A User's Perspective.</u></a></li>
+<li><a href="https://win-community.techidaily.com/hidden-recovery-partitionssd5/"><u>Hidden Recovery PartitionをSSDに移行する方法：完全な5ステップ手順</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-samsung-galaxy-s23-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Samsung Galaxy S23 Ultra to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-comprehensive-guide-to-enhancing-tiktoks-adding-texts-professionally/"><u>In 2024, Comprehensive Guide to Enhancing TikToks Adding Texts Professionally</u></a></li>
+<li><a href="https://win-community.techidaily.com/must-have-ios-8-keyboards-upgrade-your-iphone-or-ipad-input-options-today/"><u>Must-Have iOS 8 Keyboards: Upgrade Your iPhone or iPad Input Options Today!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-landscape-of-digital-grading-tools/"><u>Navigating the Landscape of Digital Grading Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-s-hottest-bokeh-effect-apps-for-mobile-photography-for-2024/"><u>New S Hottest Bokeh Effect Apps for Mobile Photography for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/problematische-contacts-app-auf-dem-iphone-was-zu-tun-ist-eine-losung-mit-fonebackup-anbieten/"><u>Problematische Contacts-App Auf Dem iPhone: Was Zu Tun Ist – Eine Lösung Mit FoneBackup Anbieten!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/screencapture-the-leading-digital-saves-list/"><u>ScreenCapture The Leading Digital Saves List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-entry-into-ai-world-via-quoras-pathway/"><u>Seamless Entry Into AI World via Quora's Pathway</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-voice-maestros-toolkit-free-applications-to-enrich-your-auditory-palette/"><u>The Voice Maestro's Toolkit Free Applications to Enrich Your Auditory Palette</u></a></li>
 </ul></div>
 
