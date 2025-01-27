@@ -1,7 +1,7 @@
 ---
 title: "The High-Stakes Litigation of Commercial Singing Venues: Unpacking the $264 Million Lawsuit Against Kamu Ultra Karaoke and Its Impact on DJ Industry"
-date: 2025-01-15T00:47:21.988Z
-updated: 2025-01-20T16:01:15.696Z
+date: 2025-01-25T21:11:40.238Z
+updated: 2025-01-26T23:11:05.349Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ According to the complaint, filed in federal district court in Los Angeles, the 
 “The Venetian’s ‘Kamu Ultra Karaoke’ lounge is a brazenly illegal operation that uses YouTube to circumvent legitimate commercial licensing of Sybersound’s original Party Tyme Karaoke content,” said Peter Haviland, counsel for Sybersound Records. “We have become aware of this as a huge problem in karaoke lounges and events throughout the country, and we intend to stop it. Individuals can enjoy Party Tyme and other karaoke content through YouTube in their own homes and at their own private events. Commercial businesses, on the other hand, cannot exploit this content and make big profits from it without paying a fair subscription license for that commercial use.“ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,18 +72,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/11/legal-landscape-commercial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-accelerated-guide-to-transforming-srt-into-txt-files-for-2024/"><u>[New] Accelerated Guide to Transforming SRT Into TXT Files for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-innovating-with-iphone-for-complete-360-video-capture-for-2024/"><u>[New] Innovating with iPhone for Complete 360 Video Capture for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/boost-your-parties-discover-17-new-hits-on-the-partytyme-karaoke-streaming-platform/"><u>Boost Your Parties! Discover 17 New Hits on the PartyTyme Karaoke Streaming Platform</u></a></li>
-<li><a href="https://win-community.techidaily.com/creating-an-effective-blockchain-approach-insights-from-yl-computings-expertise/"><u>Creating an Effective Blockchain Approach: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-community.techidaily.com/effortless-print-management-how-to-install-printer-drivers-with-ease-digital-solutions-blog/"><u>Effortless Print Management: How to Install Printer Drivers with Ease - Digital Solutions Blog</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-artificebots-transfer-learning-function-in-machine-intelligence/"><u>How Does Artificebot's Transfer Learning Function in Machine Intelligence?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-easy-steps-to-youtubing-prosperity-channel-size-not-a-barrier/"><u>In 2024, Easy Steps to Youtubing Prosperity Channel Size Not a Barrier</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-honor-v-purse-by-fonelab-android-recover-data/"><u>Recover lost data from Honor V Purse</u></a></li>
-<li><a href="https://win-community.techidaily.com/resolving-hardware-related-error-messages-a-step-by-step-guide-tech-solutions-by-yl/"><u>Resolving Hardware-Related Error Messages: A Step-by-Step Guide - Tech Solutions by YL</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-resolving-error-code-0x000-on-your-windows-11-devices-xbox-game-pass/"><u>Swiftly Resolving Error Code 0X000_ on Your Windows 11 Devices' Xbox Game Pass</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-final-puzzle-will-machines-overcome-humans/"><u>The Final Puzzle: Will Machines Overcome Humans?</u></a></li>
-<li><a href="https://win-community.techidaily.com/troubleshooting-boot-issues-expert-guide-to-restart-your-pc-or-laptop-tips-by-yl-computing-and-yl-software/"><u>Troubleshooting Boot Issues: Expert Guide to Restart Your PC or Laptop - Tips by YL Computing & YL Software</u></a></li>
-<li><a href="https://win-community.techidaily.com/unveiling-the-mystery-why-your-gpu-displays-nothing-in-depth-analysis-by-yl-computing/"><u>Unveiling the Mystery: Why Your GPU Displays Nothing - In-Depth Analysis by YL Computing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-10-superior-tools-for-fbx-file-recording-for-2024/"><u>[New] 10 Superior Tools for FBX File Recording for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-info-on-valheim-sowing-top-seeds-ranked-for-2024/"><u>[New] Essential Info on Valheim Sowing Top Seeds Ranked for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/server-2008-r2/"><u>如何从 Server 2008 R2恢复丢失文件：三种有效技巧</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-macos-11-big-sur-compatibility-guide/"><u>In 2024, MacOS 11 Big Sur Compatibility Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mitigating-risks-gpt-modifications-and-your-data/"><u>Mitigating Risks: GPT Modifications & Your Data</u></a></li>
+<li><a href="https://win-community.techidaily.com/page-missing-oops-we-cant-find-it/"><u>Page Missing: Oops, We Can't Find It!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-12-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 12 Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/retrieve-accidentally-erased-download-data-on-google-chrome-a-7-step-guide/"><u>Retrieve Accidentally Erased Download Data on Google Chrome: A 7-Step Guide</u></a></li>
+<li><a href="https://win-community.techidaily.com/secure-hp-laptop-computers-choose-between-windows-7-and-8/"><u>Secure HP Laptop Computers: Choose Between Windows 7 & 8</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-guide-retrieving-accidentally-deleted-images-from-your-pcs-most-recent-versions/"><u>Step-by-Step Guide: Retrieving Accidentally Deleted Images From Your PC's Most Recent Versions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-streaming-disruptions-in-new-windows-era/"><u>Tackling Streaming Disruptions in New Windows Era</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-tecno-pop-7-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Tecno Pop 7 Pro Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-your-logitech-g633-microphone-issues/"><u>Troubleshooting and Fixing Your Logitech G633 Microphone Issues</u></a></li>
+<li><a href="https://win-community.techidaily.com/windows-cmdaomei-backupper/"><u>Windows CMD環境からAOMEI Backupperアプリケーションを始めるガイド</u></a></li>
 </ul></div>
 
