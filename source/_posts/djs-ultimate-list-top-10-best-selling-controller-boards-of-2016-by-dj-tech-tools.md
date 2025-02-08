@@ -1,7 +1,7 @@
 ---
 title: "DJ's Ultimate List: Top 10 Best-Selling Controller Boards of 2016 by DJ Tech Tools"
-date: 2025-01-21T21:56:55.064Z
-updated: 2025-01-26T23:24:56.635Z
+date: 2025-02-06T17:23:12.316Z
+updated: 2025-02-08T17:09:38.493Z
 tags:
   - product
 categories:
@@ -26,15 +26,15 @@ All 6 of the supported best-selling [DJ controllers](https://tools.techidaily.co
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top 10 Selling DJ Controllers Of 2016 (Mouse Over Image To View Support)
 
 Traktor Kontrol S4 MK2 DJ Controller (NOT SUPPORTED BY DEX 3 OR DEX 3 RE)
 
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/number10-controllers.jpg?fit=706%2C360&ssl=1 "Traktor Kontrol S4 MK2")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Numark Mixtrack 3 (SUPPORTED BY DEX 3 AND DEX 3 RE)
 
@@ -43,10 +43,6 @@ Numark Mixtrack 3 (SUPPORTED BY DEX 3 AND DEX 3 RE)
 Pioneer XDJ-RX (NOT SUPPORTED BY DEX 3 OR DEX 3 RE)
 
 ![Pioneer XDJ-RX](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/number8-controllers.jpg?fit=706%2C360&ssl=1 "Pioneer XDJ-RX")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Numark MixDeck Express (SUPPORTED BY DEX 3 AND DEX 3 RE)
 
@@ -61,20 +57,20 @@ Numark Party Mix (NOT SUPPORTED YET – WILL BE BY MARCH 17TH 2017)
 ![Numark Party Mix](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/number5-controllers.jpg?fit=706%2C360&ssl=1 "Numark Party Mix")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Numark MixTrack Pro 3 (SUPPORTED BY DEX 3 AND DEX 3 RE)
 
 ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/02/number4-controllers.jpg?fit=706%2C360&ssl=1 "Numark MixTrack Pro 3")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Pioneer DDJ-SR (SUPPORTED BY DEX 3 AND DEX 3 RE)
 
 ![Pioneer DDJ-SR](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/number3-controllers.jpg?fit=706%2C360&ssl=1 "Pioneer DDJ-SR")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Pioneer DDJ-SX2 (SUPPORTED BY DEX 3 AND DEX 3 RE)
 
@@ -85,10 +81,14 @@ Pioneer DDJ-SB2 (SUPPORTED BY DEX 3 AND DEX 3 RE)
 ![Pioneer DDJ-SB2](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/02/number1-controllers.jpg?fit=706%2C360&ssl=1 "Pioneer DDJ-SB2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about **DJ controllers** from brands like **Numark** and **Pioneer DJ**? Questions about how our [**DJ software**](https://tools.techidaily.com/pcdj/products/) works with supported **[DJ controllers](https://tools.techidaily.com/pcdj/products/)**? Please leave them in the comments section below!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -109,22 +109,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/djcontrollerstopselling-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-breakthrough-techniques-for-streaming-success-obs-studio-android-for-2024/"><u>[New] Breakthrough Techniques for Streaming Success OBS Studio (Android) for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2023-facebook-hack-get-your-account-back-for-2024/"><u>[Updated] 2023 | Facebook Hack? Get Your Account Back for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-leading-edge-recorders-top-10-cameras-in-win-11/"><u>2024 Approved Leading Edge Recorders Top 10 Cameras in Win 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-comprehensive-review-the-strengths-and-weaknesses-of-microsofts-webex-platform/"><u>A Comprehensive Review: The Strengths & Weaknesses of Microsoft's WebEx Platform</u></a></li>
-<li><a href="https://win-community.techidaily.com/boost-your-computer-efficiency-with-proven-tips-from-yl-computing-experts/"><u>Boost Your Computer Efficiency with Proven Tips From YL Computing Experts</u></a></li>
-<li><a href="https://win-community.techidaily.com/can-you-safely-remove-items-from-your-pcs-registry-on-windows-tips-and-advice-by-yl-computing/"><u>Can You Safely Remove Items From Your PC's Registry on Windows? - Tips & Advice by YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-repairing-wi-fi-connectivity-problems-in-surface-pro-devices/"><u>Expert Tips for Repairing Wi-Fi Connectivity Problems in Surface Pro Devices</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-enhancing-beauty-on-streams-via-color-grading/"><u>In 2024, Enhancing Beauty on Streams via Color Grading</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722976896407-latest-qualcomm-atheros-ar3011-bluetooth-30-driver-get-it-here/"><u>Latest Qualcomm Atheros AR3011 Bluetooth 3.0 Driver - Get It Here!</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-guide-access-picture-previews-on-your-pc-with-windows-yl-solutions/"><u>Step-by-Step Guide: Access Picture Previews on Your PC with Windows - YL Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/troubleshooting-missing-hardware-connections-tips-by-yl-software-experts/"><u>Troubleshooting Missing Hardware Connections: Tips by YL Software Experts</u></a></li>
-<li><a href="https://win-community.techidaily.com/troubleshooting-unrecognized-usb-devices-tips-and-solutions-yl-computing/"><u>Troubleshooting Unrecognized USB Devices: Tips and Solutions - YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/troubleshooting-unresponsive-motherboards-a-guide-by-yl-software-experts/"><u>Troubleshooting Unresponsive Motherboards: A Guide by YL Software Experts</u></a></li>
-<li><a href="https://win-community.techidaily.com/unveiling-the-secrets-of-analyzing-cryptocurrency-endeavors-with-yl-software-techniques/"><u>Unveiling the Secrets of Analyzing Cryptocurrency Endeavors with YL Software Techniques</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-from-start-to-finish-how-to-edit-video-files-on-mac-os-x-yosemite/"><u>Updated In 2024, From Start to Finish How to Edit Video Files on Mac OS X Yosemite</u></a></li>
-<li><a href="https://win-community.techidaily.com/1732516993171-yl/"><u>YL软件洞见：八大定律如何影响成交和价格行情</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-lenovo-quick-guide-effortless-screenshots/"><u>[Updated] 2024 Approved Lenovo Quick Guide Effortless Screenshots</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-troubleshoot-tweets-on-chrome-not-loading/"><u>2024 Approved Troubleshoot Tweets on Chrome Not Loading</u></a></li>
+<li><a href="https://win-community.techidaily.com/boost-your-pcs-performance-mastering-the-hidden-feature-in-windows-11-to-quickly-terminate-lagging-programs-insights-from-zdnet/"><u>Boost Your PC's Performance: Mastering the Hidden Feature in Windows 11 to Quickly Terminate Lagging Programs - Insights From ZDNet</u></a></li>
+<li><a href="https://win-community.techidaily.com/boost-your-productivity-with-this-affordable-must-have-desk-tool-sit-or-stand-youll-love-it-zdnet/"><u>Boost Your Productivity with This Affordable, Must-Have Desk Tool | Sit or Stand, You'll Love It (ZDNet)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/revamping-video-conferencing-logitechs-project-ghost-enhances-quality-using-classic-camera-techniques/"><u>Revamping Video Conferencing: Logitech's 'Project Ghost' Enhances Quality Using Classic Camera Techniques</u></a></li>
+<li><a href="https://win-community.techidaily.com/revolutionizing-remote-work-how-logitech-leverages-classic-cameras-techniques-in-their-ghost-technology/"><u>Revolutionizing Remote Work: How Logitech Leverages Classic Cameras Techniques in Their 'Ghost' Technology</u></a></li>
+<li><a href="https://win-community.techidaily.com/top-tester-review-the-ultimate-rugged-stylus-equipped-windows-tablet-for-on-the-go-professionals/"><u>Top-Tester Review: The Ultimate Rugged, Stylus-Equipped Windows Tablet for On-the-Go Professionals</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-make-it-shine-professional-video-editing-tips-for-creating-breathtaking-home-videos/"><u>Updated In 2024, Make It Shine Professional Video Editing Tips for Creating Breathtaking Home Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-itel-a05s-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Itel A05s? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

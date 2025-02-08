@@ -1,7 +1,7 @@
 ---
 title: "Access PCDJ's New Release: DEX Version 3.4 – Start Your Beat Mixing Journey Here"
-date: 2025-01-19T19:15:52.166Z
-updated: 2025-01-26T18:40:20.499Z
+date: 2025-02-07T16:04:20.598Z
+updated: 2025-02-08T17:42:25.619Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,22 +93,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-peering-into-triller-its-distinctive-features-and-identity/"><u>[New] In 2024, Peering Into Triller Its Distinctive Features and Identity</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-art-of-retracing-instagram-pictures-roots/"><u>[New] The Art of Retracing Instagram Pictures' Roots</u></a></li>
-<li><a href="https://win-community.techidaily.com/analyzing-the-root-causes-of-the-catastrophic-chinese-famine-a-study-by-yl-computing-and-yl-software/"><u>Analyzing the Root Causes of the Catastrophic Chinese Famine: A Study by YL Computing and YL Software</u></a></li>
-<li><a href="https://win-community.techidaily.com/demystifying-distorted-sounds-on-laptops-and-desktops-insights-for-clearer-audio-from-experts-at-yl-computing/"><u>Demystifying Distorted Sounds on Laptops & Desktops: Insights for Clearer Audio From Experts at YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/get-your-copy-of-the-numark-mixtrack-pro-v3-maps-compatible-with-dex-iii-pcdj-software/"><u>Get Your Copy of the Numark Mixtrack Pro v3 Maps Compatible with DEX III | PCDJ Software</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-can-different-maintenance-practices-impact-your-pcs-efficiency-insights-from-yl-tech/"><u>How Can Different Maintenance Practices Impact Your PC's Efficiency? - Insights From YL Tech</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/identifying-and-troubleshooting-faulty-hardware-in-your-pc-expert-tips-from-yl-software/"><u>Identifying and Troubleshooting Faulty Hardware in Your PC - Expert Tips From YL Software</u></a></li>
-<li><a href="https://win-community.techidaily.com/identifying-the-root-causes-behind-driver-software-failures-insights-from-yl-computing/"><u>Identifying the Root Causes Behind Driver Software Failures: Insights From YL Computing</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-14-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 14 Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y27s-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo Y27s to New Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-low-light-photos-on-ios-11/"><u>In 2024, Mastering Low-Light Photos on iOS 11</u></a></li>
-<li><a href="https://win-community.techidaily.com/master-the-art-of-encryption-learn-how-to-password-lock-folders-and-documents-using-yl-software-techniques/"><u>Master the Art of Encryption: Learn How to Password-Lock Folders & Documents Using YL Software Techniques</u></a></li>
-<li><a href="https://discover-data.techidaily.com/missing-page-alert-unable-to-retrieve-desired-information-online/"><u>Missing Page Alert: Unable to Retrieve Desired Information Online</u></a></li>
-<li><a href="https://win-community.techidaily.com/pulselockers-final-update-chief-executive-confirms-shutdown-on-november-10-2017/"><u>Pulselocker's Final Update: Chief Executive Confirms Shutdown on November 10, 2017</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-7-must-have-alarm-clock-mobile-applications/"><u>Top 7 Must-Have Alarm Clock Mobile Applications</u></a></li>
-<li><a href="https://win11.techidaily.com/win-10-and-11-merging-files-with-ease-and-precision/"><u>Win 10 & 11: Merging Files with Ease and Precision</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eginners-ultimate-list-of-youtube-production-tools-for-2024/"><u>[New] Beginner's Ultimate List of YouTube Production Tools for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-inshots-competitors-for-pclaptop-editors/"><u>[Updated] 2024 Approved Inshot's Competitors for PC/Laptop Editors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-building-effective-podcast-rss-feeds/"><u>2024 Approved Building Effective Podcast RSS Feeds</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-superior-methods-for-soundless-footage/"><u>2024 Approved Superior Methods for Soundless Footage</u></a></li>
+<li><a href="https://win-community.techidaily.com/comment-faire-en-cas-de-second-hdd-incompatible-avec-windows-11-6-solutions-pratiques-a-suivre/"><u>Comment Faire en Cas De Second HDD Incompatible Avec Windows 11 : 6 Solutions Pratiques À Suivre</u></a></li>
+<li><a href="https://win-community.techidaily.com/comment-reinitialiser-avec-succes-un-pc-lenovo-techniques-libres-de-frais/"><u>Comment Réinitialiser Avec Succès Un PC Lenovo - Techniques Libres De Frais</u></a></li>
+<li><a href="https://win-community.techidaily.com/comment-renommer-avec-succes-un-document-dans-un-autre-programme-astuces-rapides-et-efficaces/"><u>Comment Renommer Avec Succès Un Document Dans Un Autre Programme : Astuces Rapides Et Efficaces</u></a></li>
+<li><a href="https://win-community.techidaily.com/expert-tips-and-techniques-for-putting-together-a-personal-computer/"><u>Expert Tips and Techniques for Putting Together a Personal Computer</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-elgoog-the-comprehensive-guide-to-googles-ultimate-mirror/"><u>Exploring elgooG - The Comprehensive Guide to Google's Ultimate Mirror</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/live-commerce-next-chapter-can-ai-unlock-its-true-potential-for-2024/"><u>Live Commerce Next Chapter Can AI Unlock Its True Potential for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/retrieve-lost-photographs-on-sony-cameras-using-myrecover-software-solutions/"><u>Retrieve Lost Photographs on Sony Cameras Using MyRecover Software Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/trois-methodes-efficaces-pour-recuperer-des-photographies-perdues-sur-une-carte-sd-de-la-marque-sandisk/"><u>Trois Méthodes Efficaces Pour Récupérer Des Photographies Perdues Sur Une Carte SD De La Marque SANDISK</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-secrets-of-advanced-camera-settings-for-2024/"><u>Unveiling the Secrets of Advanced Camera Settings for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/windows-11bitlocker/"><u>Windows 11の初期化時に必要なBitLocker解除キー</u></a></li>
 </ul></div>
 

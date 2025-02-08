@@ -1,7 +1,7 @@
 ---
 title: "Simplified Steps: Modify iPhone's Address Book Using Your Computer"
-date: 2025-01-14T23:56:25.384Z
-updated: 2025-01-21T00:51:01.792Z
+date: 2025-02-07T19:37:16.565Z
+updated: 2025-02-08T17:25:45.154Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/250855bb01ff5d1f68da39bedfd2fea2571983e53726cd5cc186abc1510baddd.jpg
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/250855bb01ff5d1f68da39bedfd2fea2571983e53
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
@@ -36,6 +36,10 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
@@ -51,11 +55,11 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -72,10 +76,6 @@ AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 1
 Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet à la majorité des utilisateurs de comprendre rapidement le logiciel et de l'utiliser facilement. Veuillez le télécharger et l'installer sur votre ordinateur.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
@@ -109,13 +109,13 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -128,6 +128,10 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -144,10 +148,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -198,20 +198,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-ultimate-top-quality-hd-screen-capture-tools/"><u>[New] In 2024, Ultimate Top-Quality HD Screen Capture Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-elite-architects-pioneering-instagram-hlv-makers/"><u>[Updated] Elite Architects Pioneering Instagram HLV Makers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722182762671-boost-productivity-using-chatgpts-time-management-strategies-heres-how/"><u>Boost Productivity Using ChatGPT's Time Management Strategies – Here’s How!</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/enhancing-visual-aesthetics-adding-black-bar-and-box-to-videos/"><u>Enhancing Visual Aesthetics Adding Black Bar & Box to Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/implement-shutter-speed-blurring-in-psx/"><u>Implement Shutter Speed Blurring in PSX</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-apple-iphone-12-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 12 Activation Lock</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-a18-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo A18</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-training-solutions-using-chatgpt-to-design-tailored-exercercises-for-your-clients/"><u>Innovative Training Solutions: Using ChatGPT to Design Tailored Exercercises for Your Clients</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-graphics-drivers-free-downloads-for-windows-10-7-and-8/"><u>Latest Nvidia Graphics Drivers: Free Downloads for Windows 10, 7 & 8</u></a></li>
-<li><a href="https://win-community.techidaily.com/speedy-techniques-to-bulk-transform-mp3-audio-to-wav-files/"><u>Speedy Techniques to Bulk Transform MP3 Audio to WAV Files</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-guide-to-setting-up-the-active-alliance-module-in-kodi/"><u>Step-by-Step Guide to Setting Up the Active Alliance Module in Kodi</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-guide-plating-videos-using-wonderfox-dvd-ripper-and-converter/"><u>Step-by-Step Guide: Plating Videos Using WonderFox DVD Ripper & Converter</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-guide-transforming-mts-files-into-mp4-format-using-ffmpeg/"><u>Step-by-Step Guide: Transforming MTS Files Into MP4 Format Using FFmpeg</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-tutorial-integrating-ghetto-astronaut-into-your-kodi-setup-for-enhanced-media-streaming/"><u>Step-by-Step Tutorial: Integrating Ghetto Astronaut Into Your Kodi Setup for Enhanced Media Streaming</u></a></li>
-<li><a href="https://win-community.techidaily.com/the-essentials-of-deinterlace-technology-exploring-top-strategies-for-converting-interlaced-videos-to-progressive-scan-format/"><u>The Essentials of Deinterlace Technology: Exploring Top Strategies for Converting Interlaced Videos to Progressive Scan Format</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-leading-apps-to-monitor-facebook-twitter-and-instagram-tags/"><u>[New] 2024 Approved Leading Apps to Monitor Facebook, Twitter and Instagram Tags</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-streamlined-qanda-guide-for-attractive-podcasts/"><u>[New] Streamlined Q&A Guide for Attractive Podcasts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-action-recorder-an-overview-of-panasonics-hx-a1-for-2024/"><u>[New] The Ultimate Action Recorder An Overview of Panasonic's HX-A1 for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-seamless-video-production-leveraging-windows-movie-maker-on-windows-8/"><u>[Updated] 2024 Approved Seamless Video Production Leveraging Windows Movie Maker on Windows 8</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-time-saving-steps-for-documenting-your-google-voice-talks/"><u>[Updated] In 2024, Time-Saving Steps for Documenting Your Google Voice Talks</u></a></li>
+<li><a href="https://win-community.techidaily.com/affordability-meets-innovation-a-cheap-surface-pro-11-review-and-tips-by-windows-specialist-zdnet/"><u>Affordability Meets Innovation: A Cheap Surface Pro 11 Review & Tips by Windows Specialist | ZDNET</u></a></li>
+<li><a href="https://win-community.techidaily.com/alert-latest-microsoft-patch-could-transform-office-hours-into-endless-torture-insights-on-zdnet/"><u>Alert! Latest Microsoft Patch Could Transform Office Hours Into Endless Torture - Insights on ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audiophiles-pathway-starting-with-the-fade-in-functionality/"><u>Audiophile's Pathway Starting with the Fade-In Functionality</u></a></li>
+<li><a href="https://win-community.techidaily.com/complete-guide-eliminating-unwanted-default-apps-on-windows-11/"><u>Complete Guide: Eliminating Unwanted Default Apps on Windows 11</u></a></li>
+<li><a href="https://win-community.techidaily.com/discover-the-power-of-ai-in-microsofts-new-paste-tool-masterful-techniques-revealed-zdnet/"><u>Discover the Power of AI in Microsoft's New Paste Tool - Masterful Techniques Revealed | ZDNet</u></a></li>
+<li><a href="https://win-community.techidaily.com/exploring-newly-added-ai-features-in-microsofts-copilot-for-office-365-your-guide-to-optimization-zdnet/"><u>Exploring Newly Added AI Features in Microsoft's Copilot for Office 365 - Your Guide to Optimization | ZDNet</u></a></li>
+<li><a href="https://win-community.techidaily.com/from-v1-to-v2-the-intricacies-of-reverting-from-windows-11-back-to-windows/"><u>From V1 to V2: The Intricacies of Reverting From Windows 11 Back to Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-zte-nubia-flip-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring ZTE Nubia Flip 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inside-spaces-weaving-in-the-essence-of-daylight-for-2024/"><u>Inside Spaces Weaving in the Essence of Daylight for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-nord-ce-3-lite-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Nord CE 3 Lite 5G Phone FRP Lock</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streaming-to-the-next-level-the-top-5-game-cameras-reviewed-for-2024/"><u>Streaming to the Next Level The Top 5 Game Cameras Reviewed for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/the-end-of-an-era-microsoft-transitions-from-control-panel-but-can-we-trust-their-next-steps-tech-analysis/"><u>The End of an Era: Microsoft Transitions From Control Panel, But Can We Trust Their Next Steps? | Tech Analysis</u></a></li>
+<li><a href="https://win-community.techidaily.com/understanding-bing-and-google-exploring-distinct-goals-in-search-dominance-a-deep-dive-by-zdnet/"><u>Understanding Bing and Google: Exploring Distinct Goals in Search Dominance - A Deep Dive by ZDNet</u></a></li>
+<li><a href="https://win-community.techidaily.com/why-engineers-prefer-windows-11-according-to-a-microsoft-endorsed-article-on-zdnet/"><u>Why Engineers Prefer Windows 11, According to a Microsoft-Endorsed Article on ZDNet</u></a></li>
 </ul></div>
 

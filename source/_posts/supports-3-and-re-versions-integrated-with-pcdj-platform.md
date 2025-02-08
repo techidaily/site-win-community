@@ -1,7 +1,7 @@
 ---
 title: Supports 3 and RE Versions - Integrated With PCDJ Platform
-date: 2025-01-19T23:13:59.851Z
-updated: 2025-01-26T17:07:13.217Z
+date: 2025-02-04T18:39:05.683Z
+updated: 2025-02-08T17:36:13.322Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Priced at only $249 on most online DJ equipment retailer websites, the **DDJ-SB3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s a Look at the Key Features of the Pioneer DJ DDJ-SB3 Digital DJ Controller
@@ -51,7 +51,7 @@ Priced at only $249 on most online DJ equipment retailer websites, the **DDJ-SB3
 _Have questions about the **Pioneer DJ DDJ-SB3** **DJ controller** and how it works with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments sections below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,22 +73,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/04/DDJ-SB3-NOWDEX3SUPPORTED.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-iphone-and-android-edition-compile-the-most-useful-top-8-edits-tools/"><u>[New] In 2024, IPhone and Android Edition Compile the Most Useful Top 8 Edits Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-internet-idolaters-top-ten-youtube-sensations/"><u>2024 Approved Internet Idolaters Top Ten YouTube Sensations</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-panning-top-techniques-for-cricket-live-views/"><u>2024 Approved Perfect Panning Top Techniques for Cricket Live Views</u></a></li>
-<li><a href="https://win-community.techidaily.com/easy-steps-restore-your-lost-or-corrupted-microsoft-word-files/"><u>Easy Steps: Restore Your Lost or Corrupted Microsoft Word Files</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/expert-strategies-for-live-streaming-using-obs-for-2024/"><u>Expert Strategies for Live Streaming Using OBS for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-usb-to-hdmi-software-patch-free-download/"><u>Get the Newest USB to HDMI Software Patch - Free Download</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-honor-magic5-ultimate-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Honor Magic5 Ultimate.</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-honor-magic-6-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Honor Magic 6 Phone that is Locked?</u></a></li>
-<li><a href="https://win-community.techidaily.com/inside-the-toolbox-exploring-10-common-strategies-of-online-thieves-and-hackers/"><u>Inside the Toolbox: Exploring 10 Common Strategies of Online Thieves and Hackers</u></a></li>
-<li><a href="https://win-community.techidaily.com/leading-windows-11-photo-slide-show-creators-the-ultimate-list/"><u>Leading Windows 11 Photo Slide Show Creators: The Ultimate List</u></a></li>
-<li><a href="https://win-community.techidaily.com/master-game-playback-on-iphone-with-leading-ios-game-record-app/"><u>Master Game Playback on iPhone with Leading iOS Game Record App</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-black-screen-problems-in-call-of-duty-wwii-for-windows-expert-advice/"><u>Overcoming Black Screen Problems in Call of Duty: WWII for Windows [EXPERT ADVICE]</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-digital-hubs-for-content-sharing-insights-into-facebook-twitter-instagram-and-youtube-usage/"><u>The Digital Hubs for Content Sharing: Insights Into Facebook, Twitter, Instagram, and YouTube Usage</u></a></li>
-<li><a href="https://win-community.techidaily.com/top-strategies-for-moving-your-favorite-tunes-from-computer-to-iphone-xr-xs-and-xs-max/"><u>Top Strategies for Moving Your Favorite Tunes From Computer to iPhone XR, XS & XS Max</u></a></li>
-<li><a href="https://win-community.techidaily.com/top-rated-mobile-apps-for-streaming-tv-series-in-2nd-user-approved/"><u>Top-Rated Mobile Apps for Streaming TV Series in 2nD - User Approved</u></a></li>
-<li><a href="https://win-community.techidaily.com/ultimate-guide-creating-your-own-podcast-with-free-web-based-tools/"><u>Ultimate Guide: Creating Your Own Podcast with Free, Web-Based Tools</u></a></li>
-<li><a href="https://win-community.techidaily.com/ultimate-tutorial-eliminating-digital-emojis-and-graphics-from-pictures/"><u>Ultimate Tutorial: Eliminating Digital Emojis and Graphics From Pictures</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/eciphering-the-world-of-youtube-media-conglomerates-for-2024/"><u>[New] Deciphering the World of YouTube Media Conglomerates for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastering-google-meet-easy-backdrop-swap-for-pc-and-phones-for-2024/"><u>[New] Mastering Google Meet Easy Backdrop Swap for PC & Phones for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-zero-dollars-free-techniques-for-desktop-snaps/"><u>[New] Zero Dollars Free Techniques for Desktop Snaps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-be-unique-in-conversation-customized-whatsapp-tones-for-ios-android-users/"><u>[Updated] Be Unique in Conversation Customized WhatsApp Tones for iOS, Android Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-essential-online-hubs-for-visualizing-text-effects/"><u>[Updated] In 2024, Essential Online Hubs for Visualizing Text Effects</u></a></li>
+<li><a href="https://win-community.techidaily.com/1728482127274-windows-11/"><u>練習自我開機 Windows 11 從休息狀態中啟動技術</u></a></li>
+<li><a href="https://win-community.techidaily.com/einrichten-von-event-gesteuerten-sicherungskopien-fur-besondere-anlasse/"><u>Einrichten Von Event-Gesteuerten Sicherungskopien Für Besondere Anlässe</u></a></li>
+<li><a href="https://win-community.techidaily.com/erfolgreiches-datenwiederherstellen-mit-tenorshare-im-jahr-2024-ein-detaillierter-leitfaden-und-prognose/"><u>Erfolgreiches Datenwiederherstellen Mit Tenorshare Im Jahr 2024: Ein Detaillierter Leitfaden Und Prognose</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-to-move-images-from-your-iphone-onto-a-pc-running-any-version-of-windows/"><u>How to Move Images From Your iPhone Onto a PC Running Any Version of Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-digital-diary-documenting-windows-desktop/"><u>In 2024, Digital Diary Documenting Windows Desktop</u></a></li>
+<li><a href="https://win-community.techidaily.com/no-puedes-ejecutar-windows-11-en-este-pc-estas-son-las-soluciones-y-consejos-de-evitacion-mas-efectivas/"><u>No Puedes Ejecutar Windows 11 en Este PC? Estas Son Las Soluciones Y Consejos De Evitación Más Efectivas</u></a></li>
+<li><a href="https://win-community.techidaily.com/quick-fixes-for-lenovos-0xc000021a-blue-screen-of-death/"><u>Quick Fixes for Lenovo's 0xC000021A Blue Screen of Death</u></a></li>
+<li><a href="https://win-community.techidaily.com/retrouvez-votre-document-perdu-sans-probleme-3-astuces-pratiques-pour-la-restauration-de-fichiers-en-ligne/"><u>Retrouvez Votre Document Perdu Sans Problème: 3 Astuces Pratiques Pour La Restauration De Fichiers en Ligne</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleash-next-level-gaming-with-a-1000-budget-building-an-rtx-4070-and-2tb-ssd-pc-via-prime-day-deals-the-ultimate-guide/"><u>Unleash Next-Level Gaming with a $1,000 Budget - Building an RTX 4070 & 2TB SSD PC via Prime Day Deals: The Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-the-rapid-rise-chatgpts-prime-mover-factors/"><u>Unleashing the Rapid Rise: ChatGPT's Prime Mover Factors</u></a></li>
 </ul></div>
 
