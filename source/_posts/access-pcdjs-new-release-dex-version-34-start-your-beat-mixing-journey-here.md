@@ -1,7 +1,7 @@
 ---
 title: "Access PCDJ's New Release: DEX Version 3.4 – Start Your Beat Mixing Journey Here"
-date: 2025-02-07T16:04:20.598Z
-updated: 2025-02-08T17:42:25.619Z
+date: 2025-02-11T19:45:26.529Z
+updated: 2025-02-18T18:12:36.242Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,20 +93,14 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/eginners-ultimate-list-of-youtube-production-tools-for-2024/"><u>[New] Beginner's Ultimate List of YouTube Production Tools for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-inshots-competitors-for-pclaptop-editors/"><u>[Updated] 2024 Approved Inshot's Competitors for PC/Laptop Editors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-building-effective-podcast-rss-feeds/"><u>2024 Approved Building Effective Podcast RSS Feeds</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-superior-methods-for-soundless-footage/"><u>2024 Approved Superior Methods for Soundless Footage</u></a></li>
-<li><a href="https://win-community.techidaily.com/comment-faire-en-cas-de-second-hdd-incompatible-avec-windows-11-6-solutions-pratiques-a-suivre/"><u>Comment Faire en Cas De Second HDD Incompatible Avec Windows 11 : 6 Solutions Pratiques À Suivre</u></a></li>
-<li><a href="https://win-community.techidaily.com/comment-reinitialiser-avec-succes-un-pc-lenovo-techniques-libres-de-frais/"><u>Comment Réinitialiser Avec Succès Un PC Lenovo - Techniques Libres De Frais</u></a></li>
-<li><a href="https://win-community.techidaily.com/comment-renommer-avec-succes-un-document-dans-un-autre-programme-astuces-rapides-et-efficaces/"><u>Comment Renommer Avec Succès Un Document Dans Un Autre Programme : Astuces Rapides Et Efficaces</u></a></li>
-<li><a href="https://win-community.techidaily.com/expert-tips-and-techniques-for-putting-together-a-personal-computer/"><u>Expert Tips and Techniques for Putting Together a Personal Computer</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-elgoog-the-comprehensive-guide-to-googles-ultimate-mirror/"><u>Exploring elgooG - The Comprehensive Guide to Google's Ultimate Mirror</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/live-commerce-next-chapter-can-ai-unlock-its-true-potential-for-2024/"><u>Live Commerce Next Chapter Can AI Unlock Its True Potential for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/retrieve-lost-photographs-on-sony-cameras-using-myrecover-software-solutions/"><u>Retrieve Lost Photographs on Sony Cameras Using MyRecover Software Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/trois-methodes-efficaces-pour-recuperer-des-photographies-perdues-sur-une-carte-sd-de-la-marque-sandisk/"><u>Trois Méthodes Efficaces Pour Récupérer Des Photographies Perdues Sur Une Carte SD De La Marque SANDISK</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-the-secrets-of-advanced-camera-settings-for-2024/"><u>Unveiling the Secrets of Advanced Camera Settings for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/windows-11bitlocker/"><u>Windows 11の初期化時に必要なBitLocker解除キー</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-mac-visual-snapshot-list-limit-156-chars/"><u>2024 Approved Best Mac Visual Snapshot List (Limit 156 Chars)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/from-novice-to-expert-pro-gopro-filming-made-easy/"><u>From Novice to Expert Pro Gopro Filming Made Easy</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-xiaomi-redmi-note-12-pro-4g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Xiaomi Redmi Note 12 Pro 4G online without jailbreak</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/mastering-components-the-ultimate-guide-by-toms-electronics/"><u>Mastering Components: The Ultimate Guide by Tom's Electronics</u></a></li>
+<li><a href="https://win-community.techidaily.com/prevent-gpu-failures-identifying-and-solving-overheating-issues-in-computers-with-tips-from-yl-software-experts/"><u>Prevent GPU Failures: Identifying and Solving Overheating Issues in Computers with Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-community.techidaily.com/solving-your-pcs-hardware-detection-problem-insights-from-yl-computing/"><u>Solving Your PC's Hardware Detection Problem: Insights From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-guide-burning-data-onto-a-disc-using-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Burning Data Onto a Disc Using Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/top-free-data-restoration-solutions-for-windows-operating-system-find-your-best-fit/"><u>Top Free Data Restoration Solutions for Windows Operating System - Find Your Best Fit</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-create-stunning-animations-with-these-ios-and-android-apps/"><u>Updated In 2024, Create Stunning Animations with These iOS and Android Apps</u></a></li>
 </ul></div>
 

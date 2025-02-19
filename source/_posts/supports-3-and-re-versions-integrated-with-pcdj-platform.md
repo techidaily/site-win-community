@@ -1,7 +1,7 @@
 ---
 title: Supports 3 and RE Versions - Integrated With PCDJ Platform
-date: 2025-02-04T18:39:05.683Z
-updated: 2025-02-08T17:36:13.322Z
+date: 2025-02-11T16:24:55.594Z
+updated: 2025-02-18T16:37:04.252Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Priced at only $249 on most online DJ equipment retailer websites, the **DDJ-SB3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s a Look at the Key Features of the Pioneer DJ DDJ-SB3 Digital DJ Controller
@@ -51,7 +51,7 @@ Priced at only $249 on most online DJ equipment retailer websites, the **DDJ-SB3
 _Have questions about the **Pioneer DJ DDJ-SB3** **DJ controller** and how it works with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments sections below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -73,20 +73,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/04/DDJ-SB3-NOWDEX3SUPPORTED.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/eciphering-the-world-of-youtube-media-conglomerates-for-2024/"><u>[New] Deciphering the World of YouTube Media Conglomerates for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-mastering-google-meet-easy-backdrop-swap-for-pc-and-phones-for-2024/"><u>[New] Mastering Google Meet Easy Backdrop Swap for PC & Phones for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-zero-dollars-free-techniques-for-desktop-snaps/"><u>[New] Zero Dollars Free Techniques for Desktop Snaps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-be-unique-in-conversation-customized-whatsapp-tones-for-ios-android-users/"><u>[Updated] Be Unique in Conversation Customized WhatsApp Tones for iOS, Android Users</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-essential-online-hubs-for-visualizing-text-effects/"><u>[Updated] In 2024, Essential Online Hubs for Visualizing Text Effects</u></a></li>
-<li><a href="https://win-community.techidaily.com/1728482127274-windows-11/"><u>練習自我開機 Windows 11 從休息狀態中啟動技術</u></a></li>
-<li><a href="https://win-community.techidaily.com/einrichten-von-event-gesteuerten-sicherungskopien-fur-besondere-anlasse/"><u>Einrichten Von Event-Gesteuerten Sicherungskopien Für Besondere Anlässe</u></a></li>
-<li><a href="https://win-community.techidaily.com/erfolgreiches-datenwiederherstellen-mit-tenorshare-im-jahr-2024-ein-detaillierter-leitfaden-und-prognose/"><u>Erfolgreiches Datenwiederherstellen Mit Tenorshare Im Jahr 2024: Ein Detaillierter Leitfaden Und Prognose</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-to-move-images-from-your-iphone-onto-a-pc-running-any-version-of-windows/"><u>How to Move Images From Your iPhone Onto a PC Running Any Version of Windows</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-digital-diary-documenting-windows-desktop/"><u>In 2024, Digital Diary Documenting Windows Desktop</u></a></li>
-<li><a href="https://win-community.techidaily.com/no-puedes-ejecutar-windows-11-en-este-pc-estas-son-las-soluciones-y-consejos-de-evitacion-mas-efectivas/"><u>No Puedes Ejecutar Windows 11 en Este PC? Estas Son Las Soluciones Y Consejos De Evitación Más Efectivas</u></a></li>
-<li><a href="https://win-community.techidaily.com/quick-fixes-for-lenovos-0xc000021a-blue-screen-of-death/"><u>Quick Fixes for Lenovo's 0xC000021A Blue Screen of Death</u></a></li>
-<li><a href="https://win-community.techidaily.com/retrouvez-votre-document-perdu-sans-probleme-3-astuces-pratiques-pour-la-restauration-de-fichiers-en-ligne/"><u>Retrouvez Votre Document Perdu Sans Problème: 3 Astuces Pratiques Pour La Restauration De Fichiers en Ligne</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleash-next-level-gaming-with-a-1000-budget-building-an-rtx-4070-and-2tb-ssd-pc-via-prime-day-deals-the-ultimate-guide/"><u>Unleash Next-Level Gaming with a $1,000 Budget - Building an RTX 4070 & 2TB SSD PC via Prime Day Deals: The Ultimate Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-the-rapid-rise-chatgpts-prime-mover-factors/"><u>Unleashing the Rapid Rise: ChatGPT's Prime Mover Factors</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-decoding-best-practices-to-hire-a-level-film-directors/"><u>[New] Decoding Best Practices to Hire A-Level Film Directors</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-digital-recorder-snap-your-screen-upload-to-youtube-onlinepcmac-for-2024/"><u>[Updated] Digital Recorder Snap Your Screen, Upload to YouTube Online/PC/Mac for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/1-seamless-transition-effortlessly-swap-between-workstation-and-home-computer-with-a-single-click-insights-from-zdnet/"><u>1. Seamless Transition: Effortlessly Swap Between Workstation and Home Computer with a Single Click - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/combat-ennui-with-these-10-engaging-gaming-options-when-boredom-strikes/"><u>Combat Ennui with These 10 Engaging Gaming Options When Boredom Strikes</u></a></li>
+<li><a href="https://win11.techidaily.com/convert-your-ape-audio-files-free-of-charge-simple-and-effective-techniques/"><u>Convert Your APE Audio Files Free of Charge: Simple and Effective Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-brother-mfc-7860dw-printer-drivers-latest-version-available-now/"><u>Free Brother MFC-7860DW Printer Drivers - Latest Version Available Now!</u></a></li>
+<li><a href="https://win-community.techidaily.com/free-tech-guide-creating-bootable-os-recovery-disks-for-dell-hp-lenovo-and-surface-devices-learn-how/"><u>Free Tech-Guide: Creating Bootable OS Recovery Disks for Dell, HP, Lenovo & Surface Devices – Learn How!</u></a></li>
+<li><a href="https://win-community.techidaily.com/getting-started-with-the-microsoft-windows-insider-program-benefits-and-enrollment-guide/"><u>Getting Started with the Microsoft Windows Insider Program: Benefits & Enrollment Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-art-of-smooth-video-transitioning/"><u>In 2024, The Art of Smooth Video Transitioning</u></a></li>
+<li><a href="https://win-community.techidaily.com/protect-your-digital-world-the-ultimate-technique-for-retaining-everything-while-resetting-windows-11/"><u>Protect Your Digital World: The Ultimate Technique for Retaining Everything While Resetting Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-ultimate-guide-to-eliminating-fortnites-latency-problems/"><u>Resolved: Ultimate Guide to Eliminating Fortnite's Latency Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tailor-your-email-experience-with-unique-mail-sounds-on-googles-platform/"><u>Tailor Your Email Experience with Unique Mail Sounds on Google's Platform</u></a></li>
+<li><a href="https://win-community.techidaily.com/tailored-installation-of-windows-11-techniques-to-evade-reductions-by-microsoft-zdnet-insights/"><u>Tailored Installation of Windows 11: Techniques to Evade Reductions by Microsoft | ZDNET Insights</u></a></li>
+<li><a href="https://win-community.techidaily.com/top-12-essential-windows-apps-retained-and-11-unwanted-ones-discarded-in-each-fresh-setup-insights-from-zdnet/"><u>Top 12 Essential Windows Apps Retained and 11 Unwanted Ones Discarded in Each Fresh Setup: Insights From ZDNet</u></a></li>
+<li><a href="https://win-community.techidaily.com/unlock-faster-system-responsiveness-in-windows-11-with-a-key-trick-to-swiftly-end-halted-applications-as-revealed-by-zdnet-experts/"><u>Unlock Faster System Responsiveness in Windows 11 with a Key Trick to Swiftly End Halted Applications, as Revealed by ZDNet Experts</u></a></li>
 </ul></div>
 

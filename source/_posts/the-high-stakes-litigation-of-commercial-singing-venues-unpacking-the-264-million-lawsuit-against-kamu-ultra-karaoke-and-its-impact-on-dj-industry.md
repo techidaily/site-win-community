@@ -1,7 +1,7 @@
 ---
 title: "The High-Stakes Litigation of Commercial Singing Venues: Unpacking the $264 Million Lawsuit Against Kamu Ultra Karaoke and Its Impact on DJ Industry"
-date: 2025-02-03T20:26:27.722Z
-updated: 2025-02-08T17:41:50.100Z
+date: 2025-02-13T21:35:19.426Z
+updated: 2025-02-18T18:04:13.310Z
 tags:
   - product
 categories:
@@ -50,7 +50,7 @@ According to the complaint, filed in federal district court in Los Angeles, the 
 “The Venetian’s ‘Kamu Ultra Karaoke’ lounge is a brazenly illegal operation that uses YouTube to circumvent legitimate commercial licensing of Sybersound’s original Party Tyme Karaoke content,” said Peter Haviland, counsel for Sybersound Records. “We have become aware of this as a huge problem in karaoke lounges and events throughout the country, and we intend to stop it. Individuals can enjoy Party Tyme and other karaoke content through YouTube in their own homes and at their own private events. Commercial businesses, on the other hand, cannot exploit this content and make big profits from it without paying a fair subscription license for that commercial use.“ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,19 +72,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/11/legal-landscape-commercial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-no-screen-only-silence-a6400-dilemma/"><u>[New] 2024 Approved No Screen, Only Silence A6400 Dilemma</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-steps-to-skyrocket-your-youtube-subscribers-count/"><u>[Updated] In 2024, Steps to Skyrocket Your YouTube Subscribers Count</u></a></li>
-<li><a href="https://win-community.techidaily.com/1-customizing-your-windows-mouse-cursor-a-step-by-step-guide-by-yl-computing/"><u>1. Customizing Your Windows Mouse Cursor: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-live-link-lore-when-does-gear-give-way-to-grids/"><u>2024 Approved Live Link Lore When Does Gear Give Way to Grids?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/asus-vg245h-the-console-gamers-dream-screen-unleashed/"><u>Asus VG245H: The Console Gamer's Dream Screen Unleashed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-chatgpts-culinary-skills-a-deep-dive-into-mixology-mastery/"><u>Exploring ChatGPT's Culinary Skills: A Deep Dive Into Mixology Mastery</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-realme-11-proplus-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Realme 11 Pro+ Phone</u></a></li>
-<li><a href="https://win-community.techidaily.com/mastering-btc-trades-a-comprehensive-guide-by-yl-computing-your-pathway-to-profitable-bitcoin-transactions/"><u>Mastering BTC Trades: A Comprehensive Guide by YL Computing - Your Pathway to Profitable Bitcoin Transactions</u></a></li>
-<li><a href="https://win-community.techidaily.com/solving-the-hardware-detection-failed-issue-a-guide-the-tech-insights-of-yl/"><u>Solving the 'Hardware Detection Failed' Issue: A Guide - The Tech Insights of YL</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/step-by-step-guide-on-converting-wmm-files-to-mp4-for-better-quality-playback/"><u>Step-by-Step Guide on Converting WMM Files to MP4 for Better Quality Playback</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-process-for-changing-filenames-and-folders-insights-by-yl-software-experts/"><u>Step-by-Step Process for Changing Filenames & Folders: Insights by YL Software Experts</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-process-for-installing-new-sound-card-driver-software-expert-advice-by-yl-computing/"><u>Step-by-Step Process for Installing New Sound Card Driver Software - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-isnt-my-lenovo-keyboard-responding-fixes-for-common-issues/"><u>Why Isn't My Lenovo Keyboard Responding? Fixes for Common Issues</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/wmnw-x900-a-portable-masterpiece/"><u>WMNW-X900: A Portable Masterpiece</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-beginners-pathway-to-effective-discostreaming-for-2024/"><u>[New] Beginner's Pathway to Effective DiscoStreaming for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovating-with-snapchats-new-highlight-feature/"><u>[New] Innovating with Snapchat's New Highlight Feature</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-dive-deep-into-digital-artistry-picsarts-ultimate-edition-for-2024/"><u>[Updated] Dive Deep Into Digital Artistry PicsArt's Ultimate Edition for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-the-power-of-hashtags-in-youtube-gaming-culture/"><u>[Updated] Unlocking the Power of Hashtags in YouTube Gaming Culture</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transforming-youtube-videos-into-cash-flows/"><u>2024 Approved Transforming YouTube Videos Into Cash Flows</u></a></li>
+<li><a href="https://win-community.techidaily.com/1728500685779-windows-11/"><u>如何利用免費軟件保存Windows 11影像備份</u></a></li>
+<li><a href="https://win-community.techidaily.com/comment-retrouver-votre-document-excel-perdu-dans-windows-1011-avec-des-techniques-rapides/"><u>Comment Retrouver Votre Document Excel Perdu Dans Windows 10/11 Avec Des Techniques Rapides</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oppo-find-x6-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Oppo Find X6 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-monetizing-your-content-deciphering-the-minimum-views-needed/"><u>In 2024, Monetizing Your Content Deciphering the Minimum Views Needed</u></a></li>
+<li><a href="https://win-community.techidaily.com/selecting-storage-solutions-understanding-thin-and-thick-provisioning-options/"><u>Selecting Storage Solutions: Understanding Thin and Thick Provisioning Options</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-global-gift-giver-santa-claus-multilingual-magic/"><u>The Global Gift-Giver: Santa Claus’ Multilingual Magic</u></a></li>
+<li><a href="https://win-community.techidaily.com/wie-lasst-man-versehentlich-geloschte-dateien-wiederherstellen-erfolg-versprechende-methoden/"><u>Wie Lässt Man Versehentlich Gelöschte Dateien Wiederherstellen - Erfolg Versprechende Methoden</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/windows-1110clonezilla/"><u>Windows 11/10のデュアルブート環境への適切なクローニング技術：Clonezillaツールを使ったガイド</u></a></li>
 </ul></div>
 

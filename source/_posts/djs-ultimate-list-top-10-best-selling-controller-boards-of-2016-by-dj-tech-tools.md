@@ -1,7 +1,7 @@
 ---
 title: "DJ's Ultimate List: Top 10 Best-Selling Controller Boards of 2016 by DJ Tech Tools"
-date: 2025-02-06T17:23:12.316Z
-updated: 2025-02-08T17:09:38.493Z
+date: 2025-02-11T22:49:09.750Z
+updated: 2025-02-18T17:27:38.754Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ All 6 of the supported best-selling [DJ controllers](https://tools.techidaily.co
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Top 10 Selling DJ Controllers Of 2016 (Mouse Over Image To View Support)
@@ -35,6 +35,10 @@ All 6 of the supported best-selling [DJ controllers](https://tools.techidaily.co
 Traktor Kontrol S4 MK2 DJ Controller (NOT SUPPORTED BY DEX 3 OR DEX 3 RE)
 
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/number10-controllers.jpg?fit=706%2C360&ssl=1 "Traktor Kontrol S4 MK2")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Numark Mixtrack 3 (SUPPORTED BY DEX 3 AND DEX 3 RE)
 
@@ -52,21 +56,21 @@ Pioneer DDJ-SZ (NOT SUPPORTED BY DEX 3 OR DEX 3 RE)
 
 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/number6-controllers.jpg?fit=706%2C360&ssl=1 "Pioneer DDJ-SZ")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Numark Party Mix (NOT SUPPORTED YET – WILL BE BY MARCH 17TH 2017)
 
 ![Numark Party Mix](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/number5-controllers.jpg?fit=706%2C360&ssl=1 "Numark Party Mix")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Numark MixTrack Pro 3 (SUPPORTED BY DEX 3 AND DEX 3 RE)
 
 ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/02/number4-controllers.jpg?fit=706%2C360&ssl=1 "Numark MixTrack Pro 3")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Pioneer DDJ-SR (SUPPORTED BY DEX 3 AND DEX 3 RE)
 
@@ -76,19 +80,15 @@ Pioneer DDJ-SX2 (SUPPORTED BY DEX 3 AND DEX 3 RE)
 
 ![Pioneer DDJ-SX2](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/number2-controllers.jpg?fit=706%2C360&ssl=1 "Pioneer DDJ-SX2")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Pioneer DDJ-SB2 (SUPPORTED BY DEX 3 AND DEX 3 RE)
 
 ![Pioneer DDJ-SB2](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/02/number1-controllers.jpg?fit=706%2C360&ssl=1 "Pioneer DDJ-SB2")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _Have questions about **DJ controllers** from brands like **Numark** and **Pioneer DJ**? Questions about how our [**DJ software**](https://tools.techidaily.com/pcdj/products/) works with supported **[DJ controllers](https://tools.techidaily.com/pcdj/products/)**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -109,16 +109,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2017/02/djcontrollerstopselling-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-lenovo-quick-guide-effortless-screenshots/"><u>[Updated] 2024 Approved Lenovo Quick Guide Effortless Screenshots</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-troubleshoot-tweets-on-chrome-not-loading/"><u>2024 Approved Troubleshoot Tweets on Chrome Not Loading</u></a></li>
-<li><a href="https://win-community.techidaily.com/boost-your-pcs-performance-mastering-the-hidden-feature-in-windows-11-to-quickly-terminate-lagging-programs-insights-from-zdnet/"><u>Boost Your PC's Performance: Mastering the Hidden Feature in Windows 11 to Quickly Terminate Lagging Programs - Insights From ZDNet</u></a></li>
-<li><a href="https://win-community.techidaily.com/boost-your-productivity-with-this-affordable-must-have-desk-tool-sit-or-stand-youll-love-it-zdnet/"><u>Boost Your Productivity with This Affordable, Must-Have Desk Tool | Sit or Stand, You'll Love It (ZDNet)</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/revamping-video-conferencing-logitechs-project-ghost-enhances-quality-using-classic-camera-techniques/"><u>Revamping Video Conferencing: Logitech's 'Project Ghost' Enhances Quality Using Classic Camera Techniques</u></a></li>
-<li><a href="https://win-community.techidaily.com/revolutionizing-remote-work-how-logitech-leverages-classic-cameras-techniques-in-their-ghost-technology/"><u>Revolutionizing Remote Work: How Logitech Leverages Classic Cameras Techniques in Their 'Ghost' Technology</u></a></li>
-<li><a href="https://win-community.techidaily.com/top-tester-review-the-ultimate-rugged-stylus-equipped-windows-tablet-for-on-the-go-professionals/"><u>Top-Tester Review: The Ultimate Rugged, Stylus-Equipped Windows Tablet for On-the-Go Professionals</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-make-it-shine-professional-video-editing-tips-for-creating-breathtaking-home-videos/"><u>Updated In 2024, Make It Shine Professional Video Editing Tips for Creating Breathtaking Home Videos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-itel-a05s-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Itel A05s? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-joke-jigsaw-puzzles-build-with-kapwingenasian-memes/"><u>[New] Joke Jigsaw Puzzles Build with Kapwing’enasian Memes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-uncovering-old-social-media-narratives-on-laptops-and-mobile-devices-for-2024/"><u>[New] Uncovering Old Social Media Narratives on Laptops and Mobile Devices for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-bridging-the-gap-between-classic-and-contemporary-videos/"><u>[Updated] Bridging the Gap Between Classic and Contemporary Videos</u></a></li>
+<li><a href="https://win-community.techidaily.com/accelerating-pc-management-how-to-swiftly-open-the-control-panel-in-windows-10-with-yl-computing-techniques/"><u>Accelerating PC Management: How to Swiftly Open the Control Panel in Windows 10 with YL Computing Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-to-downloading-and-updating-the-epson-wf-3620-printer-drivers-on-your-windows-device-supports-win11-win8-and-win7/"><u>Easy Guide to Downloading and Updating the Epson WF-3620 Printer Drivers on Your Windows Device (Supports Win11, Win8 & Win7)</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-to-access-device-management-tools-for-your-computers-upkeep-in-the-control-panel-guidance-from-yl-software-solutions/"><u>How to Access Device Management Tools for Your Computer's Upkeep in the Control Panel - Guidance From YL Software Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-world-of-ai-chatbots-how-does-censorship-shape-your-communications/"><u>Navigating the World of AI Chatbots: How Does Censorship Shape Your Communications?</u></a></li>
+<li><a href="https://discover-help.techidaily.com/trouble-free-internet-expert-guidance-on-resolving-network-connection-problems-by-yl-software/"><u>Trouble-Free Internet: Expert Guidance on Resolving Network Connection Problems by YL Software</u></a></li>
+<li><a href="https://win-community.techidaily.com/troubleshooting-scanner-connection-failed-alerts-expert-tips-from-abc-technologies-computer-support-blog/"><u>Troubleshooting Scanner Connection Failed Alerts: Expert Tips From ABC Technologies | Computer Support Blog</u></a></li>
+<li><a href="https://win-community.techidaily.com/unlocking-advanced-pc-control-a-detailed-walkthrough-of-accessing-the-windows-registry-by-yl-software-experts/"><u>Unlocking Advanced PC Control: A Detailed Walkthrough of Accessing the Windows Registry by YL Software Experts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unlock-efficient-video-editing-6-adobe-premiere-hacks-you-need-to-know/"><u>Updated 2024 Approved Unlock Efficient Video Editing 6 Adobe Premiere Hacks You Need to Know</u></a></li>
+<li><a href="https://win-blog.techidaily.com/xbox-one-mic-woes-discover-6-effective-repairs-to-get-your-audio-back-in-action/"><u>Xbox One Mic Woes? Discover 6 Effective Repairs to Get Your Audio Back in Action</u></a></li>
+<li><a href="https://fox-access.techidaily.com/zippy-zeal-in-zoom-outs-adding-text-movement-on-stories-for-2024/"><u>Zippy Zeal in Zoom-Outs Adding Text Movement on Stories for 2024</u></a></li>
 </ul></div>
 
