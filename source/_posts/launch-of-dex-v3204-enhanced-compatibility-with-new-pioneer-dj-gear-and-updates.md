@@ -1,7 +1,7 @@
 ---
 title: Launch of DEX v3.20.4 - Enhanced Compatibility with New Pioneer DJ Gear & Updates
-date: 2025-02-17T20:24:23.904Z
-updated: 2025-02-18T19:57:38.910Z
+date: 2025-02-28T09:55:16.581Z
+updated: 2025-03-07T04:15:10.808Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ Also, a series of updates are included for the built-in streaming services, incl
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Everything New, Changed, and Fixed in DEX 3.20.4
 
 * New controller: [Pioneer DDJ-1000](https://www.pioneerdj.com/en-us/product/controller/ddj-1000/black/overview/)
@@ -60,10 +56,6 @@ _Not a DEX 3 user? [Download Free Trial](https://tools.techidaily.com/pcdj/produ
 
 _Have questions about the latest 3.20.4 version of our **best DJ software**? Please leave them in the comments section below!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2023/03/DEX3204.jpg?fit=1031%2C623&ssl=1 623 1031 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2023-03-30 13:02:222023-04-10 17:03:36DEX 3.20.4 is Available Now with Support for Additional Pioneer DJ Controllers and More}
@@ -83,16 +75,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/03/DEX3204.jpg?fit=1031%2C623
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-flawlessly-flip-twist-and-merge-videos-on-your-android-gear/"><u>[New] In 2024, Flawlessly Flip, Twist & Merge Videos on Your Android Gear</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-innovative-methods-for-time-loop-illusions/"><u>2024 Approved Innovative Methods for Time Loop Illusions</u></a></li>
-<li><a href="https://win-community.techidaily.com/comment-reinitialiser-avec-succes-un-pc-lenovo-techniques-libres-de-frais/"><u>Comment Réinitialiser Avec Succès Un PC Lenovo - Techniques Libres De Frais</u></a></li>
-<li><a href="https://win-community.techidaily.com/comment-renommer-avec-succes-un-document-dans-un-autre-programme-astuces-rapides-et-efficaces/"><u>Comment Renommer Avec Succès Un Document Dans Un Autre Programme : Astuces Rapides Et Efficaces</u></a></li>
-<li><a href="https://win-community.techidaily.com/expert-tips-and-techniques-for-putting-together-a-personal-computer/"><u>Expert Tips and Techniques for Putting Together a Personal Computer</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-diversify-earnings-multiplying-revenue-with-mobile-video-content/"><u>In 2024, Diversify Earnings Multiplying Revenue with Mobile Video Content</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-definitive-guide-to-googles-podcast-submission/"><u>In 2024, The Definitive Guide to Google’s Podcast Submission</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/e-look-how-youtuber-shorts-work-for-2024/"><u>Inside Look How Youtuber Shorts Work for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/retrieve-lost-photographs-on-sony-cameras-using-myrecover-software-solutions/"><u>Retrieve Lost Photographs on Sony Cameras Using MyRecover Software Solutions</u></a></li>
-<li><a href="https://win-community.techidaily.com/trois-methodes-efficaces-pour-recuperer-des-photographies-perdues-sur-une-carte-sd-de-la-marque-sandisk/"><u>Trois Méthodes Efficaces Pour Récupérer Des Photographies Perdues Sur Une Carte SD De La Marque SANDISK</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/web-funnies-forge/"><u>Web Funnies Forge</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-captivating-content-creation-the-best-10-igtv-strategies-for-brands/"><u>[New] 2024 Approved Captivating Content Creation The Best 10 IGTV Strategies for Brands</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-visual-storytelling-with-immersive-titles-in-ae/"><u>[Updated] 2024 Approved Visual Storytelling with Immersive Titles in AE</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-earning-edge-reached-for-subscribers-above-500/"><u>[Updated] In 2024, Earning Edge Reached for Subscribers Above 500</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-8-private-video-downloaders-for-2024/"><u>[Updated] Top 8 Private Video Downloaders for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/44cq5pu05paw5lqg44cr55sx5pa85oko5oplusq5lqk77ym54plusplus5zyo5yplusv5lul5l255so5ywx5lqr6loh5paz5asplus5lit55qe5pya5paw6lev57ea54mi5pys/"><u>【更新了】由於您提交，現在可以使用共享資料夾中的最新路線版本</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-revolutionize-your-videos-with-top-10-free-srt-converters/"><u>2024 Approved Revolutionize Your Videos with Top 10 Free SRT Converters</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-upgrade-your-view-enabling-youtubes-high-quality-av1-option/"><u>2024 Approved Upgrade Your View Enabling YouTube's High-Quality AV1 Option</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a1-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo A1 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://win-community.techidaily.com/ps3-slim-ssd-erweiterung-schnellanleitung-ohne-datenabgleich/"><u>PS3 Slim SSD Erweiterung Schnellanleitung Ohne Datenabgleich</u></a></li>
+<li><a href="https://win-community.techidaily.com/resolved-windows-11-go-back-feature-restored-from-windows-10-upgrade-issues/"><u>Resolved: Windows 11 'Go Back' Feature Restored From Windows 10 Upgrade Issues</u></a></li>
+<li><a href="https://win-community.techidaily.com/simple-guide-swiftly-sharing-your-photo-collection-from-iphone-free-of-hassle/"><u>Simple Guide: Swiftly Sharing Your Photo Collection From iPhone, Free of Hassle</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-tutorial-how-to-stream-mkv-videos-on-sony-playstation-3-console/"><u>Step-by-Step Tutorial: How to Stream MKV Videos on Sony PlayStation 3 Console</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-delicious-tv-top-10-netflix-cooking-show-picks/"><u>The Ultimate Guide to Delicious TV: Top 10 Netflix Cooking Show Picks</u></a></li>
 </ul></div>
 

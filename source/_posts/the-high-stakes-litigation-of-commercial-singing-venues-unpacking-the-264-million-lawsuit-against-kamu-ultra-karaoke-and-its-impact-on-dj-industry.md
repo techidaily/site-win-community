@@ -1,7 +1,7 @@
 ---
 title: "The High-Stakes Litigation of Commercial Singing Venues: Unpacking the $264 Million Lawsuit Against Kamu Ultra Karaoke and Its Impact on DJ Industry"
-date: 2025-02-13T21:35:19.426Z
-updated: 2025-02-18T18:04:13.310Z
+date: 2025-02-28T04:45:42.588Z
+updated: 2025-03-06T16:48:56.374Z
 tags:
   - product
 categories:
@@ -49,10 +49,6 @@ According to the complaint, filed in federal district court in Los Angeles, the 
 
 “The Venetian’s ‘Kamu Ultra Karaoke’ lounge is a brazenly illegal operation that uses YouTube to circumvent legitimate commercial licensing of Sybersound’s original Party Tyme Karaoke content,” said Peter Haviland, counsel for Sybersound Records. “We have become aware of this as a huge problem in karaoke lounges and events throughout the country, and we intend to stop it. Individuals can enjoy Party Tyme and other karaoke content through YouTube in their own homes and at their own private events. Commercial businesses, on the other hand, cannot exploit this content and make big profits from it without paying a fair subscription license for that commercial use.“ 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2023/11/legal-landscape-commercial-karaoke.jpg?fit=1366%2C837&ssl=1 837 1366 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2023-11-17 15:23:142023-11-17 15:23:21Understanding the Legal Landscape of Commercial Karaoke: The $264 Million Lawsuit Against Kamu Ultra Karaoke}
@@ -72,18 +68,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2023/11/legal-landscape-commercial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-beginners-pathway-to-effective-discostreaming-for-2024/"><u>[New] Beginner's Pathway to Effective DiscoStreaming for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovating-with-snapchats-new-highlight-feature/"><u>[New] Innovating with Snapchat's New Highlight Feature</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-dive-deep-into-digital-artistry-picsarts-ultimate-edition-for-2024/"><u>[Updated] Dive Deep Into Digital Artistry PicsArt's Ultimate Edition for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-the-power-of-hashtags-in-youtube-gaming-culture/"><u>[Updated] Unlocking the Power of Hashtags in YouTube Gaming Culture</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-transforming-youtube-videos-into-cash-flows/"><u>2024 Approved Transforming YouTube Videos Into Cash Flows</u></a></li>
-<li><a href="https://win-community.techidaily.com/1728500685779-windows-11/"><u>如何利用免費軟件保存Windows 11影像備份</u></a></li>
-<li><a href="https://win-community.techidaily.com/comment-retrouver-votre-document-excel-perdu-dans-windows-1011-avec-des-techniques-rapides/"><u>Comment Retrouver Votre Document Excel Perdu Dans Windows 10/11 Avec Des Techniques Rapides</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-oppo-find-x6-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Oppo Find X6 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-monetizing-your-content-deciphering-the-minimum-views-needed/"><u>In 2024, Monetizing Your Content Deciphering the Minimum Views Needed</u></a></li>
-<li><a href="https://win-community.techidaily.com/selecting-storage-solutions-understanding-thin-and-thick-provisioning-options/"><u>Selecting Storage Solutions: Understanding Thin and Thick Provisioning Options</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-global-gift-giver-santa-claus-multilingual-magic/"><u>The Global Gift-Giver: Santa Claus’ Multilingual Magic</u></a></li>
-<li><a href="https://win-community.techidaily.com/wie-lasst-man-versehentlich-geloschte-dateien-wiederherstellen-erfolg-versprechende-methoden/"><u>Wie Lässt Man Versehentlich Gelöschte Dateien Wiederherstellen - Erfolg Versprechende Methoden</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/windows-1110clonezilla/"><u>Windows 11/10のデュアルブート環境への適切なクローニング技術：Clonezillaツールを使ったガイド</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-artisans-guide-to-flawless-free-and-paid-software-video-downloads/"><u>[Updated] 2024 Approved The Artisan's Guide to Flawless Free and Paid Software Video Downloads</u></a></li>
+<li><a href="https://win-community.techidaily.com/1728471918668-microsoft-word/"><u>「Microsoft Wordで破棄されたドキュメントの復元手順：一流テクニック集」</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-in-class-top-drone-gimbals-compared/"><u>2024 Approved Best in Class Top Drone Gimbals Compared</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-extensive-eye-level-surveillance-guide/"><u>2024 Approved Extensive Eye-Level Surveillance Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-infinix-note-30-vip-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Infinix Note 30 VIP Phone</u></a></li>
+<li><a href="https://win-community.techidaily.com/1728506980014-4/"><u>重置文件回退4种方式 - 详解及步骤指南</u></a></li>
+<li><a href="https://win-community.techidaily.com/comment-localisez-et-changez-lemplacement-de-votre-fichier-de-sauvegarde-doutlook/"><u>Comment Localisez Et Changez L'Emplacement De Votre Fichier De Sauvegarde D'Outlook?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/d3dx924dll-errors-proven-techniques-for-finding-and-restoring-your-missing-dll-files/"><u>d3dx9_24.dll Errors: Proven Techniques for Finding and Restoring Your Missing DLL Files</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-s17-pro-by-drfone-android/"><u>How to Bypass FRP from Vivo S17 Pro?</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-to-restore-and-repair-bluetooth-functionality-on-an-hp-device-for-seamless-wireless-communication/"><u>How to Restore and Repair Bluetooth Functionality on an HP Device for Seamless Wireless Communication</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-streamline-your-watching-with-edge-free-youtube-content/"><u>In 2024, Streamline Your Watching with Edge-Free YouTube Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leveraging-communication-to-enhance-interview-success-for-2024/"><u>Leveraging Communication to Enhance Interview Success for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/pro-screen-recorder-battle-top-selections-unveiled-for-2024/"><u>Pro Screen Recorder Battle Top Selections Unveiled for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-frustrations-effective-solutions-for-constant-blender-crashes-on-desktop-computers/"><u>Say Goodbye to Frustrations: Effective Solutions for Constant Blender Crashes on Desktop Computers</u></a></li>
+<li><a href="https://win-community.techidaily.com/top-rated-no-cost-windows-image-cloning-tools-comparable-to-hdclone/"><u>Top Rated No-Cost Windows Image Cloning Tools Comparable to HDClone</u></a></li>
+<li><a href="https://win-community.techidaily.com/transform-your-computers-power-playbook-the-definitive-step-by-step-guide-to-refreshing-windows-eosystem-across-different-drives/"><u>Transform Your Computer's Power Playbook: The Definitive Step-by-Step Guide to Refreshing Windows Eosystem Across Different Drives</u></a></li>
+<li><a href="https://win-community.techidaily.com/unlocking-pc-secrets-how-to-use-the-hp-bios-key-with-windows-11/"><u>Unlocking PC Secrets: How to Use the HP BIOS Key with Windows 11</u></a></li>
+<li><a href="https://win-community.techidaily.com/warum-zeigt-ihr-usb-stick-doppelte-dateien-an-erkunden-sie-die-ursachen-und-erfahren-sie-schnelle-korrekturmethoden/"><u>Warum Zeigt Ihr USB-Stick Doppelte Dateien An? Erkunden Sie Die Ursachen Und Erfahren Sie Schnelle Korrekturmethoden</u></a></li>
+<li><a href="https://win-community.techidaily.com/wie-man-daten-effizient-von-einer-zu-einer-anderen-kopiert-mit-sql-server/"><u>Wie Man Daten Effizient Von Einer Zu Einer Anderen Kopiert, Mit SQL Server</u></a></li>
 </ul></div>
 

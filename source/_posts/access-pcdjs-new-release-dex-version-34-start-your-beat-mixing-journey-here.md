@@ -1,7 +1,7 @@
 ---
 title: "Access PCDJ's New Release: DEX Version 3.4 – Start Your Beat Mixing Journey Here"
-date: 2025-02-11T19:45:26.529Z
-updated: 2025-02-18T18:12:36.242Z
+date: 2025-03-05T05:48:47.367Z
+updated: 2025-03-07T07:52:12.526Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
 
@@ -64,15 +60,7 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -93,14 +81,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-mac-visual-snapshot-list-limit-156-chars/"><u>2024 Approved Best Mac Visual Snapshot List (Limit 156 Chars)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/from-novice-to-expert-pro-gopro-filming-made-easy/"><u>From Novice to Expert Pro Gopro Filming Made Easy</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-xiaomi-redmi-note-12-pro-4g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Xiaomi Redmi Note 12 Pro 4G online without jailbreak</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/mastering-components-the-ultimate-guide-by-toms-electronics/"><u>Mastering Components: The Ultimate Guide by Tom's Electronics</u></a></li>
-<li><a href="https://win-community.techidaily.com/prevent-gpu-failures-identifying-and-solving-overheating-issues-in-computers-with-tips-from-yl-software-experts/"><u>Prevent GPU Failures: Identifying and Solving Overheating Issues in Computers with Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-community.techidaily.com/solving-your-pcs-hardware-detection-problem-insights-from-yl-computing/"><u>Solving Your PC's Hardware Detection Problem: Insights From YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/step-by-step-guide-burning-data-onto-a-disc-using-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Burning Data Onto a Disc Using Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://win-community.techidaily.com/top-free-data-restoration-solutions-for-windows-operating-system-find-your-best-fit/"><u>Top Free Data Restoration Solutions for Windows Operating System - Find Your Best Fit</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-create-stunning-animations-with-these-ios-and-android-apps/"><u>Updated In 2024, Create Stunning Animations with These iOS and Android Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-precise-shadows-with-adobe-curves/"><u>[Updated] Crafting Precise Shadows with Adobe Curves</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-harnessing-the-power-of-ps4-capture-for-gamers-everywhere/"><u>[Updated] Harnessing the Power of PS4 Capture for Gamers Everywhere</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mobile-image-mastery-with-top-10-stickers-for-appleandroid-users/"><u>[Updated] Mobile Image Mastery with Top 10 Stickers for Apple/Android Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-delving-into-youtubes-digital-video-workshop/"><u>2024 Approved Delving Into YouTube's Digital Video Workshop</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-free-capture-precision-best-apps-for-windows-desktop-recording/"><u>2024 Approved Free Capture Precision Best Apps for Windows Desktop Recording</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-art-of-creating-impactful-ae-titles/"><u>2024 Approved The Art of Creating Impactful AE Titles</u></a></li>
+<li><a href="https://win-community.techidaily.com/effective-strategies-for-boosting-your-pcs-speed-by-optimizing-startup-programs-tips-from-yl-computing/"><u>Effective Strategies for Boosting Your PC's Speed by Optimizing Startup Programs - Tips From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/expert-analysis-understanding-the-reasons-behind-excessive-fan-noise-in-modern-computers-yl-technology-insights/"><u>Expert Analysis: Understanding the Reasons Behind Excessive Fan Noise in Modern Computers - YL Technology Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-pixel-to-prospectus-the-top-7-generators-for-artistic-conversion-for-2024/"><u>From Pixel to Prospectus - The Top 7 Generators for Artistic Conversion for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-to-switch-your-primary-language-on-windows-pc-step-by-step-guide-by-yl-computing/"><u>How to Switch Your Primary Language on Windows PC - Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/how-to-troubleshoot-your-connection-issues-tips-from-yl-computing/"><u>How to Troubleshoot Your Connection Issues - Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-video-value-calculation-tools/"><u>In 2024, Quick Video Value Calculation Tools</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/movavis-easy-and-no-cost-solution-to-transform-mp4-files-into-gif-format-online/"><u>Movavi's Easy and No-Cost Solution to Transform MP4 Files Into GIF Format Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavimp4swf/"><u>Movaviで簡単なフリーMP4にオンラインSWF変換 - 完全無料版</u></a></li>
+<li><a href="https://win-community.techidaily.com/sharing-an-extraordinary-life-through-ordinary-days-author-us-journey-of-millions-in-solitude-with-yl-computing/"><u>Sharing an Extraordinary Life Through Ordinary Days: Author U's Journey of Millions in Solitude with YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/sing-your-heart-out-with-karaoke-cloud-pro-arens-new-releases-fall-just-wont-feature-pcdj/"><u>Sing Your Heart Out with Karaoke Cloud Pro AREN's New Releases – Fall Just Won’t Feature! | PCDJ</u></a></li>
+<li><a href="https://win-community.techidaily.com/stunning-samsung-galaxy-s20-backgrounds-by-yl-computing-your-guide-to-the-best-digital-designs/"><u>Stunning Samsung Galaxy S20 Backgrounds by YL Computing: Your Guide to the Best Digital Designs</u></a></li>
+<li><a href="https://win-community.techidaily.com/understanding-the-causes-of-slow-loading-times-in-your-windows-applications-expert-insights-from-yl-computing/"><u>Understanding the Causes of Slow Loading Times in Your Windows Applications - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://win-community.techidaily.com/yl-softwares-guide-ensuring-seamless-operation-and-longevity-for-your-computer-system/"><u>YL Software's Guide: Ensuring Seamless Operation and Longevity for Your Computer System</u></a></li>
 </ul></div>
 
